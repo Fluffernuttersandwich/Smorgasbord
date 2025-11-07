@@ -21,7 +21,7 @@ That list is a _smorgasbord_ of mods.
 ______________________________________________________________________________________________________
 
 
-## Vision for Smörgåsbord:
+## Vision for Smörgåsbord: At this current moment the project is on HOLD. Will notify everyone when it is returning Hold: (11/07/2025) - Return: (TBD)
 
 To provide players with a deluxe highly customizable overhaul experience that still has it's own voice.  
 
