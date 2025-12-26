@@ -1,6 +1,6 @@
 [
   {
-    "title": "SmorgasbordV2",
+    "title": "Smorgasbord Reborn",
     "description": "This list is the modular buffet table of the very best mods available for 7 Days to Die.",
     "author": "FNS",
     "maintainers": [
@@ -22,12 +22,12 @@
     
 
     "links": {
-      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/Smorgasbord/Smorg1.jpg",
-      "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/README.md",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord_Reborn/main/Smorgasbord/Smorg1.jpg",
+      "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord_Reborn/main/README.md",
       "download": "https://wabbajack.b-cdn.net/SmorgasbordV2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328",
       "machineURL": "smorgasbord_v2",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
-      "websiteURL": ""
+      "websiteURL": "https://github.com/Fluffernuttersandwich/Smorgasbord_Reborn"
     },
 
     "download_metadata": {
@@ -46,5 +46,6 @@
     "repositoryName": "Better 7DTD"
   }
 ]
+
 
 
