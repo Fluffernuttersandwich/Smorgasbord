@@ -34,7 +34,8 @@ ________________________________________________________________________________
 Anyone who has played vanilla and/or the other big overhauls and is looking something new.
 
 
-**Distinctives: Smorgasbord’s greatest strength remains it’s modularity.**
+**Distinctives: Smorgasbord’s greatest strength remains it’s modularity. 
+You choose exactly what you want it to be!**
 
 
 ______________________________________________________________________________________________________
@@ -50,8 +51,19 @@ https://www.youtube.com/watch?v=ipJ7df0D_0k
 
 Someone out there is going: _"Why is that video 2 hours long!?"_ 
 
+Someone out there is going: "Why is that video 2 hours long!?"
+
 That video doesn't cover just the installation process.
+
 It thoroughly explains what everything is, how the applications work, provides an overview of customizing the list, and also includes a showcase of major mods.
+
+It's 2 hours long just in case someone is
+
+A: New to modding.
+
+B. New to modding 7DtD specifically.
+
+C: New to MO2
 
 
 ______________________________________________________________________________________________________
@@ -87,7 +99,7 @@ I have tried to make this Mod List flexible enough to appeal to anyone depending
 
 For Casual Gamers, you can disable some of the challenging mods.
 
-For Hardcore gamers, disable the OP mods, and enable the challenging mods.
+For Hardcore gamers, disable the OP mods, play at higher difficulty settings, and enable the challenging mods.
 
 For Power Gaming Munchkins, you can turn on every OP mod.
 
@@ -184,7 +196,7 @@ Some of the mods will lower FPS (15-30) somewhat, if you are experiencing issues
 >
 > I have seen some user reports saying 16Gb of RAM is/isn't enough for the Descent.  Your Mileage May Vary(YMMV).  
 > 
-> I was able to create and play on a 6k Descent RWG-ed map using a 10 year old gaming laptop with 32 Gb of RAM.  
+> I was able to create and play on a 6k Descent RWG-ed map using a 10 year old gaming laptop with 32 Gb of slow RAM.  
 >  
 > If you are getting unexplainable Crash-to-Desktop (CTD), and Crash-Report logs saying:
 > 
@@ -201,7 +213,7 @@ Some of the mods will lower FPS (15-30) somewhat, if you are experiencing issues
 > 
 > C. See the write-up further below on if you should consider using the Lossless Scaling Application.  
 >
-> D. Play without these mods.
+> D. Play without this mod.
 
 
 > [!TIP]
@@ -222,7 +234,7 @@ https://www.wabbajack.org/
 
 3. Storage consideration: currently the collection is about 40GB.
 "What?! but 7D2D mods are small?!"
-Yes, generally, but mods like: the CompoPack, EFT Extraction Pack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
+Yes, generally, but mods like: the CompoPack, EFT Extraction Pack, Izy's AIO Gun Pack, Bdub's vehicles, Avatars, and all the Decor mods add up.
 Do you want to play a nice list or not?
 
 
@@ -282,7 +294,7 @@ F. You are literate, and have basic computer literacy to figure simple things ou
 
 ---
 
-G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to perform a full uninstall and reinstall of the base game.  
+G. If you edited or added _ANYTHING_ to the main game folder directory, you will _might_ need to perform a full uninstall and reinstall of the base game.  
 
 "But why?!" you ask?  
 Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it _might_ cause errors in installing your ModList.
@@ -320,7 +332,7 @@ Temporary folders: Avoid storing mods in temporary folders as they may be delete
 **Where _to_ store Mods, Modding Applications, folder paths, and folders instead:**
 
 **Dedicated drive:**
-Ideally, you have a separate hard drive for Modding.  
+Ideally, you have a separate SSD for Modding.  
 If so, consider storing your mods on that drive to maximize space and avoid potential conflicts with your system files.
 If you have a spare drive (like a D Drive), store Mod Applications, file paths, and folders there!!!  This is best practice for modding any game!  
 
@@ -342,7 +354,7 @@ I. **Do not install/use your own MO2!**
 > [!WARNING]
 > This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
 > Do not use a standard MO2 install downloaded from other locations, it will (probably) not work!
-> Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
+> Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use the one I already included!
 
 J. **Create Antivirus Exceptions for the MO2 and 7D2D Executables**
 
@@ -350,7 +362,7 @@ You might need to create Antivirus Exceptions for MO2 and 7DtD executables.
 
 There are other programs that might be preventing you from launching 7DtD from MO2.  
 
-These might include: Antivirus, Firewalls, steelseries, light-controlling apps, performance monitoring software, etc.  
+These might include: Antivirus, Firewalls, steelseries apps, light-controlling apps (iCUE), performance monitoring software, etc.  
 
 Sometimes you need to restart Steam, or your PC as well. 
 
@@ -375,7 +387,7 @@ Premium accounts will click once to download all of the Nexus mods, and download
 If you don't already have an account, you can register here:
 https://users.nexusmods.com/register
 
-Remember these login credentials, as you will need to use them to connect the Wabbajack application to the NexusMods page later.
+Remember these login credentials, as you will need to use them to connect the Wabbajack application to the NexusMods page later on.
 
 ---
 
@@ -395,7 +407,7 @@ If you already have Wabbajack installed, you _must_ update it to the most curren
 
 Older versions of Wabbajack do not support 7D2D!  
 
-7D2D only recently received Wabbajack support! 
+7DtD only recently received Wabbajack support! 
 
 Chances are, you are running an older version.  
 
@@ -403,7 +415,8 @@ It won't prompt you to update from within the application, so go download the ne
 
 https://www.wabbajack.org/ 
 
-Wabbajack will store multiple versions of itself on your system if you don't do housekeeping, so make sure you are launching the _newest_ version. 
+Wabbajack will store multiple versions of itself on your system if you don't do housekeeping, so make sure you are launching the _newest_ version.
+If it keeps using an older version, you can delete the old version folder within your Wabbajack installation folder.
 
 _*cough *cough, update the shortcut/pin on your taskbar._
 
@@ -427,9 +440,11 @@ From the Wabbajack Appliction, press the "Browse lists" button:
 
 You can press the "All games" dropdown arrow and select 7 Days to Die.  Make sure - Include "Non-featured" - is also checked.  
 
-Sometimes the Wabbajack App gets stuck, and will only display 50+ ModLists instead of 120+... if this happens: 
+Sometimes the Wabbajack App gets stuck (moving slowly), and will only display 50+ ModLists instead of 120+... if this happens: 
 
 Reset Filters, then try again to select Non-Featured ModLists, and the dropdown should be back to 120+ ModLists.  
+
+Or, you might have to exit Wabbajack and reopen it if it gets stuck for more than 30 seconds. 
 
 ![image](https://github.com/user-attachments/assets/6c820a0a-ff11-4fe8-b518-2e2b3f58c0dd)
 
@@ -485,7 +500,7 @@ Press the `Yes` button.
 
 This will tell the NexusMods website to associate this instance of MO2 as your ModManager of choice to download mods. 
 
-It's temporary, you can associate another mO2 instance, or Vortex next time you go to open those.  
+It's temporary, you can associate another MO2 instance, or Vortex next time you go to open those.  
 
 Be careful if you switch to/have MO2 and Vortex open at the same time downloading mods... you'll accidentally start downloading 7dtd mods to Skyrim.
 
@@ -534,6 +549,8 @@ You can live with it, use a different UI, disable the 15-Slot toolbelt, or use t
 If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
 
 You must RWG a new world if you wan tto see new Community made POIs from this section. 
+
+I sometimes include Pre-generated Maps.  Read their description carefully to select the right one for you
 
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
@@ -678,6 +695,7 @@ If you are willing to troubleshoot things _YOURSELF_, you can add them back into
 Here are some popular off-site (not included in the list) mods that were (and might still be) compatible with this ModList if you want to add them to your own game:
 
 https://7daystodiemods.com/non-script-radios-video-games/
+Caution: If you plan to stream or record be aware the music from these mods are under a copywrite.
 
 
 ### How to add your own mods to the list:
@@ -688,6 +706,8 @@ You can download these mods, drag the zip folders into the Downloads folder with
 Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
 
 If Mods are double-nested, or missing a folder layer, you will need to fix that yourself.  
+Look at known good mods to see what it's supposed to look like.
+
 
 ## Optional Overpowered Mods are to be enabled/disabled at a players discretion.  
 But again, it's best practice to start a new game anytime you alter mods. 
@@ -851,7 +871,7 @@ Random World Generation (RWG) will take much longer than vanilla.  10-60 minutes
 NASA boys in 5-20 minutes, potato-bros in 25-60 minutes.  
 
 "Why does it take so long to RWG in this list compared to Vanilla?!" 
-Becaue several of the Framework mods make significant changes to RWG.  
+Becaue several of the mods make significant changes to RWG.  
 Larger cities, denser cities, more cities, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), fancier roads, new tiles, new block types, The Descent mod digs a whole cave system under the world, etc.  
 If you don't want it to take so long for RWG, you could disable "CP All in One No Traders" and "The Descent" mods, but then you miss out on all those great POIs.  
 
@@ -871,6 +891,8 @@ Solution: Generate a new world with Descent, using default Descent Settings. It'
 
 I have generated dozens of Descent worlds and not encountered this issue, but it is a rare oddity according to the Mod Author. 
 
+The larger the map you try to RWG, the greater the chance this can happen. It's hard to go above 12k.
+
 
 <img width="1585" height="154" alt="image" src="https://github.com/user-attachments/assets/608e7000-f209-4df0-9829-2f2359152284" />
 
@@ -883,7 +905,7 @@ It has intermittent issues!
 Sometimes it will Error and hang, and you need to exit the game.
 Sometimes it can "stealth fail" where the map generates, doesn't pop-open the Console showing that The Descent failed to run, 
 but still spit you out a map that when you go to launch your game, it's riddled with POI errors.
-For now, if using The Descent to perform Advanced RWG, stick to maps lower than 10k.
+For now, if using The Descent to perform Advanced RWG, it's best to stick to maps lower than 10k.
 If you want to try for larger maps, run RWG with the Console open, and be prepared for it to take multiple attempts.  
 Or, just use my default maps, they all have Descent, even the 12k and 13k
 
@@ -903,8 +925,9 @@ There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.
 Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than your normal difficulty settings.
 Increase zombie speed as well if you can tolerate it.
 If you want to see more/less zombies, adjust the Zombie Population Density within the WalkerSim -> WalkerSim.xml file.  
-I like 180 for a comfortably populated singleplayer world.  
+I like 160 and 180 for a comfortably populated singleplayer world.  
 At 300, it's nearly impossible to get quests, or harvesting done, you're under constant attack!
+Don't go crazy with Zombie Population Density within the WalkerSim, or you will see a huge FPS hit.
 
 ---
 
@@ -1050,7 +1073,7 @@ ________________________________________________________________________________
 
 # Troubleshooting
 
-1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **2.3**
+1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **2.5**
 ![image](https://github.com/user-attachments/assets/35817f2d-4a25-447c-87ef-48097b12d104)
 
 
@@ -1186,15 +1209,17 @@ Maybe your existing game save/world will load in, but it's possible that world/s
 
 Example: You tried to add incompatible mods that weren't on the Collection list.  
 
-NPC mods can be buggy with this ModList, which is why I haven't included any. 
+
 
 **B. Did you disable/remove mods mid-play through on an existing world/save?**  
 
 That world/save is probably ruined.  Start a new world without enabling/disabling mods mid-play.
 
-Example: If you remove SCore, Quartz, IDC Core, or other support/framework/requirement mods, it will destabilize your save.
+Example: If you remove SCore, Quartz, or other support/framework/requirement mods, it will destabilize your save.
+
 
 **C. Are you sure the Priority (Load Order) is correct?  MO2 keeps the Priority (Load Order) I (FNS) set... if you screwed it up, reinstall the ModList from Wabbajack.**
+
 
 **D. This is probably your issue:**
 
@@ -1241,7 +1266,7 @@ Calm down, you didn't break it.  Click on the Priority column header in the MO2 
 
 There's a ton of reasons you could be having that would cause this issue, but usually it's because you didn't disable Crossplay.  
 
-Crossplay must be disabled for multiplayer using my ModList.
+Crossplay should be disabled for multiplayer using my ModList.
 
 ![image](https://github.com/user-attachments/assets/77ece60e-a5f7-47dc-bd0e-4826bbbe20e6)
 
@@ -1271,7 +1296,7 @@ If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony
 
     A. Go to Video (Graphics) settings and Disable Occlusion.  If you are playing with Better Biomes and Urban Decay, the author also suggests this.
 
-    B. Some overlarge POIs like those from The Walking Dead POI Pack will not render correctly.  This is a game engine limitation.  POIs larger than 150x150 blocks will have cause issues with roads, textures, and spawning.
+    B. Some overlarge POIs like those from The Walking Dead POI Pack and Fallout Vaults will not render correctly.  This is a game engine limitation.  POIs larger than 150x150 blocks will have issues with roads, textures, and RWG spawning.
 
 
 ![image](https://github.com/user-attachments/assets/fc53369f-e9de-4c74-a2df-3fe37dea0fb9)
@@ -1308,7 +1333,7 @@ MO2, it's weird about versioning updates.
 
 If a Mod Author is sloppy about versioning, MO2 will tell you there is a more current update available, 
 even though you have the latest one, and it is trying to imply you should download the older-but-mislabeled-as-newer version.
-So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
+So, this is why I don't recommend you DIY Nexus updates from the mods inside of MO2.
 
 _Just wait for me to update the ModList._ 
 
@@ -1466,7 +1491,7 @@ ________________________________________________________________________________
 
 ## FAQs
 
-**1. Why did you leave the Vortex Collection Nexus Mods Manager system?**
+**1. Why did you leave the Vortex Collection Nexus Mods Manager system? Why do you hate on Vortex**
    
 After a recent Vortex update, it broke the stability of Load Orders.
 
@@ -1590,7 +1615,7 @@ Some Mods have requirement mods (see those mod pages for details), but the vast 
 
 Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
 
-Examples: Don't enable/disable EFT Extraction Pack, Izy, Tool Time, FNS LAtT, and FNS Self-Planting Trees in the middle of a save.  
+Examples: Don't enable/disable EFT Extraction Pack, Izy, FNS LAtT, and FNS Self-Planting Trees in the middle of a save.  
 
 Good Rule of thumb: A mod with a progression.xml file should not be toggled mid-play.  It will screw you more often than not.    
 
@@ -1598,7 +1623,7 @@ Good Rule of thumb: A mod with a progression.xml file should not be toggled mid-
 
 9. **This is not a "lightweight" mod list!**  
 
-If you delete this whole ModList, or disable it in parts, you will (probably) need to start a new save/world.
+If you delete this whole ModList, or disable it in parts, you will 100% need to start a new save/world.
 
 Trying to play a heavily modded save/world in any game, after removing big mods will cause you errors... just start a new world/save! 
 
@@ -1676,7 +1701,7 @@ That's it.
 
 13. "Does a Wabbajack/MO2 ModList require permission from the others mod authors?"
 
-No, because again, as far as Nexus Mods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.
+No, because again, as far as NexusMods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.
 All the Wabbajack/MO2 applications do is make the process more efficient to use someone else's list.  It does **_not_** rebundle/repackage mods! 
 Your boy Fin (FNS) goes to great length to ask for permission to use Requirements, and if an author demanded I remove their mods, I would honor the request.
 But, that's never been an issue because we try to keep people happy.
@@ -1778,7 +1803,7 @@ I can't use Google Drives, Mega, or other sites.  They won't work, increase prob
 There are like 372 Stack Increaser and 973 Backpack mods.  I don't want to add more of those!
 _At this very moment, someone is uploading another as you read this._
 
-Give me something new, or fun, that fits the list, and is available for Wabbajack to download and I will 100% add it.  
+Give me something new, or fun, that fits the list's compatibility, and is available for Wabbajack to download and I will 100% add it.  
 
 ---
 
@@ -1844,7 +1869,7 @@ Adding Adult mods means most Discord Servers in the 7DtD community would not all
 B. Some of my original community members are parents who play this game with their children.
 They play with profanity disabled. They're okay with violence, or use the mod to disable gore. 
 They would not be okay with nudity or the creepier furry mods.
-I'm a family man myself and don't want to push these people away.
+I'm a family man myself and don't want to push my people away.
 
 
 C. YouTubers and Streamers could potentially get a strike against their channels if using these mods.
@@ -1859,6 +1884,8 @@ I'm not judging you, I play with mature mods in other games, but not here in Smo
 
 If you want to add it to your own game, there it is:
 https://www.nexusmods.com/7daystodie/mods/8212
+
+DoubleG did a great job with his zombies, and he is an entertaining YouTuber. 
 
 Download and drag the zip into your MO2 "downloads" folder.
 Then when you see it on the right of the MO2 application Downloads section, drag it over to the Mod List and enable it.
@@ -1878,7 +1905,9 @@ The more self-service users are with troubleshooting their own problems, the les
 
 Fin is not paid tech support.  Sorry, I just don't have the time. I do the best I can, but I am one man doing this as a hobby.
 
-So far 2,000 people have downloaded this list.  I am expecting another three to ten-thousand users in time. I don't want to burn myself out.
+So far 2,200+ people have downloaded this list.  I am expecting another three to ten-thousand users in time. 
+
+I had to take a break for three months because of user-induced burnout. I don't want to burn myself out.
 
 It's always someone's first day, so I assume anyone reading this could be entering the world of game modding with an empty cup.  
 
@@ -2051,7 +2080,7 @@ If you don't like it, that's fine, but please don't complain about it.  Just pla
 How do I use **Custom Avatars (VRoid)?**
 
 > [!IMPORTANT]
-> Do not use FPV Legs, Custom FPV FoV, True Third Person, or Witos Camera with VRoid. 
+> Do not use Witos Camera with VRoid. 
 
 
 VRoid replaces your standard character with a new Avatar.  
@@ -2173,7 +2202,7 @@ H. "More Shots" messes with Izy AIO crafting unlock progression.
 
 ---
 
-I. "Tank" mod. Errors. 
+I. "Tank" and "Vehicle Weapon" mods. Errors. 
 
 ---
 
@@ -2358,7 +2387,7 @@ ________________________________________________________________________________
 
 - YOU for reading this.
 
-- - Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
+- - Users like you who provide feedback, endorse mods on Nexus, provide other members with assistance, and help troubleshoot bugs.
 
 - JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7DtD compatible with Wabbajack.  MVP!
 
