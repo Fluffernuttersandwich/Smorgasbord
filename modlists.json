@@ -10,60 +10,33 @@
     "official": false,
     "tags": [
       "QoL",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
-
-    
-
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorgasbord/Smorg1.jpg",
       "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Smorgasbord%20V2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328",
+      "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_516c10e4-45a3-4ffb-bd24-a76642612b33",
       "machineURL": "Smorgasbord",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": "https://github.com/Fluffernuttersandwich/Smorgasbord"
     },
-
     "download_metadata": {
-      "Hash": "OtQAN7XHNV0=",
-      "size": 135412049,
-      "numberOfArchives": 352,
-      "sizeOfArchives": 24715746975,
-      "numberOfInstalledFiles": 15322,
-      "sizeOfInstalledFiles": 24245873108,
-      "totalSize": 48961620083
+      "Hash": "+q1YrPAm4vw=",
+      "Size": 4484724,
+      "NumberOfArchives": 319,
+      "SizeOfArchives": 20646555404,
+      "NumberOfInstalledFiles": 17513,
+      "SizeOfInstalledFiles": 25143719675,
+      "TotalSize": 45790275079
     },
-
     "version": "2.5.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-22T03:20:30.6563506Z",
+    "dateUpdated": "2025-12-27T17:33:36.8594375Z",
     "repositoryName": "Better 7DTD"
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
