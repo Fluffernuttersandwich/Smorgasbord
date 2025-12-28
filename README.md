@@ -1,3 +1,42 @@
+- [📦 Smörgåsbord by FNS](#-smörgåsbord-by-fns)
+  - [📖 Definition](#-definition)
+  - [🎯 Vision](#-vision)
+    - [Target Audience](#target-audience)
+    - [Core Strength](#core-strength)
+  - [🎮 Compatibility](#-compatibility)
+  - [📺 Installation Video (Highly Recommended)](#-installation-video-highly-recommended)
+  - [🧩 Distinctive Features](#-distinctive-features)
+  - [🧪 Sample Gameplay](#-sample-gameplay)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [📬 Contact & Community](#-contact--community)
+  - [💻 Requirements and Hardware](#-requirements-and-hardware)
+    - [Minimum](#minimum)
+    - [Performance Notes](#performance-notes)
+  - [📜 Commandment Zero](#-commandment-zero)
+  - [🧠 Assumptions](#-assumptions)
+  - [🛠 Installation Directions](#-installation-directions)
+    - [Step 0 — Nexus Mods Account](#step-0--nexus-mods-account)
+    - [Step 1 — System Requirements](#step-1--system-requirements)
+    - [Step 2 — Wabbajack](#step-2--wabbajack)
+    - [Step 3 — Download Smörgåsbord](#step-3--download-smörgåsbord)
+    - [Step 4 — Launch MO2](#step-4--launch-mo2)
+    - [Step 5 — Customize Mods](#step-5--customize-mods)
+  - [🌍 Random World Generation](#-random-world-generation)
+  - [🖥 Dedicated Servers](#-dedicated-servers)
+    - [Self-Hosted](#self-hosted)
+    - [Hosted Providers](#hosted-providers)
+  - [🧯 Troubleshooting](#-troubleshooting)
+  - [🔄 Updates](#-updates)
+  - [❓ FAQs](#-faqs)
+  - [⚠ Known Issues](#-known-issues)
+  - [🚀 Lossless Scaling](#-lossless-scaling)
+  - [🙏 Credits](#-credits)
+  - [❤️ Donations](#-donations)
+  - [🛡 Final Note](#-final-note)
+
+
+
+
 📦 Smörgåsbord by FNS
 
 📖 Definition
