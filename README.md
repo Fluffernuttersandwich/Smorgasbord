@@ -1,394 +1,249 @@
-📦 Smörgåsbord by FNS
+# 📦 Smörgåsbord by FNS
 
-<a id="top"></a>
+![Smorg1](https://github.com/user-attachments/assets/84245d84-fcfc-4842-a874-987e7332f840)
 
-📚 Table of Contents
+---
 
-<a id="toc"></a>
+## 📚 Table of Contents
 
-Definition
+- [Definition](#definition)
+- [Vision](#vision)
+- [Compatibility](#compatibility)
+- [Installation Video](#installation-video-highly-recommended)
+- [Distinctive Features](#distinctive-features)
+- [Sample Gameplay](#sample-gameplay)
+- [Contact & Community](#contact--community)
+- [Requirements & Hardware](#requirements--hardware)
+- [Commandment Zero](#commandment-zero)
+- [Assumptions](#assumptions)
+- [Installation Directions](#installation-directions)
+- [MO2 Customization](#mo2-customization)
+- [Random World Generation](#random-world-generation)
+- [Dedicated Servers](#dedicated-servers)
+- [Updates](#updates)
+- [FAQs](#faqs)
+- [Additional Links](#additional-links)
+- [Credits](#credits)
+- [Donations](#donations)
+- [Troubleshooting & Known Issues](#troubleshooting--known-issues)
 
-Vision
+---
 
-Compatibility
+## Definition
 
-Installation Video
+**Smörgåsbord**  
+/ ˈsmɔr gəsˌbɔrd, ˈʃmɔr- /  
+*noun*
 
-Distinctive Features
+> An extensive array or variety.  
+> *That list is a smorgasbord of mods.*
 
-Sample Gameplay
+---
 
-Contact & Community
+## Vision
 
-Requirements & Hardware
+To provide players with a **deluxe, highly customizable Vanilla+ overhaul** that still has its own voice.
 
-Commandment Zero
+### Target Audience
+Anyone who has played vanilla and/or major overhauls and wants something new.
 
-Assumptions
+### Core Strength
+**Modularity.** You choose exactly what you want it to be.
 
-Installation Directions
+---
 
-MO2 Customization
+## Compatibility
 
-Random World Generation
+- **Game Version:** Stable **7 Days to Die v2.5**
+- **Install Method:** **Wabbajack + Mod Organizer 2 (MO2)** *(required)*
 
-Dedicated Servers (Self-Hosted)
+---
 
-Dedicated Servers (Hosted)
+## Installation Video (Highly Recommended)
 
-Troubleshooting
+▶ https://www.youtube.com/watch?v=ipJ7df0D_0k
 
-Updates
-
-FAQs
-
-Known Issues
-
-Lossless Scaling
-
-Additional Links
-
-Credits
-
-Donations
-
-<a id="definition"></a>
-
-📖 Definition
-
-Smörgåsbord
-/ ˈsmɔr gəsˌbɔrd, ˈʃmɔr- /
-noun
-
-An extensive array or variety.
-
-That list is a smorgasbord of mods.
-
-<a id="vision"></a>
-
-🎯 Vision
-
-To provide players with a deluxe, highly customizable Vanilla+ overhaul that still has its own voice.
-
-Target Audience
-
-Anyone who has played vanilla or other major overhauls and wants something new.
-
-Core Strength
-
-Modularity.
-You choose exactly what you want it to be.
-
-<a id="compatibility"></a>
-
-🎮 Compatibility
-
-Game Version: Stable 7 Days to Die v2.5
-
-Install Method: Wabbajack + Mod Organizer 2 (MO2) (required)
-
-<a id="installation-video"></a>
-
-📺 Installation Video (Highly Recommended)
-
-▶ Full Installation + Customization Walkthrough
-https://www.youtube.com/watch?v=ipJ7df0D_0k
-
-Why is it 2 hours long?
-
-Because it covers:
-
-Installation
-
-How Wabbajack works
-
-How MO2 works
-
-Customization
-
-Mod showcases
+This video covers:
+- Installation
+- Wabbajack basics
+- MO2 basics
+- Customization
+- Major mod showcases
 
 Ideal if you are:
+- New to modding
+- New to 7DtD modding
+- New to MO2
 
-New to modding
+---
 
-New to 7DtD modding
+## Distinctive Features
 
-New to MO2
+- Highly modular Vanilla+ experience
+- No forced systems
+- QoL-focused
+- Self-contained
+- Balance is subjective — disable what you don’t like
 
-<a id="distinctive-features"></a>
+---
 
-🧩 Distinctive Features
+## Sample Gameplay
 
-Most modular 7DtD modlist available
-
-Vanilla+ feel
-
-Dozens of small improvements
-
-QoL focused
-
-Balance is subjective — disable what you don’t like
-
-<a id="sample-gameplay"></a>
-
-🧪 Sample Gameplay
+![small_hive](https://github.com/user-attachments/assets/dfb17561-f347-426f-b6a3-03b98d4a0efd)
 
 ▶ https://youtu.be/EjcPL_E-l3w
 
-<a id="contact-community"></a>
+---
 
-📬 Contact & Community
-Purpose	Where	Link
-Bug Reports	GitHub Issues	https://github.com/Fluffernuttersandwich/Smorgasbord/issues
+## Contact & Community
 
-Discussion	GitHub Discussions	https://github.com/Fluffernuttersandwich/Smorgasbord/discussions
+| Purpose | Where | Link |
+|------|------|------|
+| Bug Reports | GitHub Issues | https://github.com/Fluffernuttersandwich/Smorgasbord/issues |
+| Discussion | GitHub Discussions | https://github.com/Fluffernuttersandwich/Smorgasbord/discussions |
+| Discord | Guppy’s 7DtD Modding | https://discord.gg/WpVPJWj7Xk |
+| Nexus Profile | FNS | https://next.nexusmods.com/profile/FlufferNutterSandwich |
+| YouTube | Videos & Guides | https://www.youtube.com/@FlufferNutterSandwich |
+| Wabbajack | Support | https://discord.gg/wabbajack |
 
-Discord	Guppy’s 7DtD Modding	https://discord.gg/WpVPJWj7Xk
+---
 
-Nexus Profile	FNS	https://next.nexusmods.com/profile/FlufferNutterSandwich
+## Requirements & Hardware
 
-YouTube	Videos & Guides	https://www.youtube.com/@FlufferNutterSandwich
+- Hardware capable of running vanilla 7DtD
+- Some mods may reduce FPS by **15–30**
+- Avoid RWG maps larger than **10k** on weak hardware
 
-Wabbajack	Support Discord	https://discord.gg/wabbajack
+---
 
-<a id="requirements"></a>
+## Commandment Zero
 
-💻 Requirements & Hardware
-
-Hardware capable of running vanilla 7DtD
-
-Expect 15–30 FPS loss with heavy mods
-
-Avoid RWG maps over 10k on weak hardware
-
-[!WARNING]
-The Descent requires more memory than vanilla.
-16GB may not be enough. YMMV.
-
-<a id="commandment-zero"></a>
-
-📜 Commandment Zero
-
-Read the Assumptions, Installation, and Troubleshooting sections before asking for help.
+**Read the Assumptions, Installation, and Troubleshooting documents before asking for help.**  
 99% of issues are already covered.
 
-<a id="assumptions"></a>
+---
 
-🧠 Assumptions
+## Assumptions
 
-You are on 7DtD Stable v2.5
-
-EAC is disabled
-
-You did not delete 0_TFP_Harmony
-
-Vanilla launched once
-
-No mods in:
-
+- You are on **7DtD Stable v2.5**
+- **EAC is disabled**
+- You did NOT delete `0_TFP_Harmony`
+- Vanilla launched once before modding
+- No mods exist in:
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
-
-
 (Except Harmony)
 
-<a id="installation-directions"></a>
+---
 
-🛠 Installation Directions
-Step 0 — Nexus Mods Account
+## Installation Directions
 
+### Step 0 — Nexus Mods Account
 https://users.nexusmods.com/register
 
-Free = manual clicking
+- Free = manual clicking
+- Premium = automated downloads
 
-Premium = automated
-
-Step 1 — System Requirements
-
-Windows 10 1809+ or Windows 11
-
-VC++ Redistributable
+### Step 1 — System Requirements
+- Windows 10 1809+ or Windows 11
+- VC++ Redistributable  
 https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-Step 2 — Wabbajack
-
+### Step 2 — Wabbajack
 https://www.wabbajack.org/
 
-Must be latest version
+- Must be latest version
+- Login to Nexus **inside Wabbajack**
 
-Login to Nexus inside Wabbajack
+### Step 3 — Download Smörgåsbord
+- Browse Lists → 7 Days to Die
+- Enable **Non-Featured**
+- Select **Smörgåsbord**
+- Download & Install
 
-Step 3 — Download Smörgåsbord
+### Step 4 — Launch MO2
+- Use the included MO2
+- Accept nxm association
 
-Browse Lists → 7 Days to Die
+---
 
-Enable Non-Featured
+## MO2 Customization
 
-Select Smörgåsbord
+**Do NOT change load order unless you know what you’re doing.**
 
-Download & Install
+- Choose **ONE UI Suite**
+- Choose **ONE Perk Suite**
+- Enable optional QoL mods as desired
 
-Step 4 — Launch MO2
+---
 
-Use the included MO2
+## Random World Generation
 
-Accept nxm association
+- Recommended size: **8–10k**
+- RWG may take **10–60 minutes**
+- Descent adds large underground systems
 
-<a id="mo2-customization"></a>
+---
 
-🎛 MO2 Customization
+## Dedicated Servers
 
-[!CAUTION]
-Do NOT change load order unless you know what you’re doing.
+- Multiplayer supported
+- Dedicated servers supported
+- Server and clients must match mods
+- EAC must be disabled
 
-Choose ONE UI Suite
+---
 
-Choose ONE Perk Suite
+## Updates
 
-Optional QoL mods
+- Track on NexusMods
+- Update via Wabbajack
+- Overwrite existing installation
+- New versions may require a new save
 
-Optional OP mods
+---
 
-<a id="rwg"></a>
+## FAQs
 
-🌍 Random World Generation
+- Not compatible with Darkness Falls / Rebirth
+- Not compatible with Vortex
+- Not a lightweight modlist
+- Modular by design
 
-Recommended: 8–10k
+---
 
-RWG can take 10–60 minutes
+## Troubleshooting & Known Issues
 
-Descent adds massive underground systems
+All troubleshooting, logs, performance issues, and known problems are documented here:
 
-[!WARNING]
-Maps over 10k may fail or corrupt saves.
+➡ **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)**
 
-<a id="dedicated-self"></a>
+---
 
-🖥 Dedicated Servers — Self-Hosted
+## Additional Links
 
-Requires MO2
+- YouTube: https://www.youtube.com/@FlufferNutterSandwich
+- POI Creation Guide: https://www.nexusmods.com/7daystodie/articles/790
+- Performance Tuning: https://www.nexusmods.com/7daystodie/articles/792
+- Modding Social Contract: https://www.nexusmods.com/7daystodie/articles/806
+- MO2 Guide: https://www.nexusmods.com/7daystodie/articles/1053
 
-Server + clients must match mods
+---
 
-EAC must be disabled
+## Credits
 
-<a id="dedicated-hosted"></a>
+- YOU
+- Wabbajack Team
+- Mod Authors
+- Guppy’s Discord Community
 
-🌐 Dedicated Servers — Hosted Providers
+---
 
-Follow RipJammer method
-
-Do NOT redistribute mods publicly
-
-Violations will get you banned
-
-<a id="troubleshooting"></a>
-
-🧯 Troubleshooting
-
-No logs = no help
-
-Logs location:
-
-C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
-
-
-Common causes:
-
-Wrong version
-
-EAC enabled
-
-Mods in wrong folders
-
-Antivirus blocking MO2
-
-<a id="updates"></a>
-
-🔄 Updates
-
-Track on NexusMods
-
-Update via Wabbajack
-
-Overwrite existing install
-
-New versions may require new saves
-
-<a id="faqs"></a>
-
-❓ FAQs
-
-Not compatible with Darkness Falls / Rebirth
-
-Not compatible with Vortex
-
-Multiplayer supported
-
-Dedicated servers supported
-
-Not lightweight
-
-<a id="known-issues"></a>
-
-⚠ Known Issues
-
-Benign WalkerSim warnings
-
-Some Descent warnings
-
-Experimental mods are unvetted
-
-<a id="lossless-scaling"></a>
-
-🚀 Lossless Scaling
-
-Paid Steam app
-Excellent for RTX GPUs
-
-▶ https://www.youtube.com/watch?v=qc3zZEYpfLY
-
-<a id="additional-links"></a>
-
-🔗 Additional Links
-
-YouTube: https://www.youtube.com/@FlufferNutterSandwich
-
-POI Creation Guide: https://www.nexusmods.com/7daystodie/articles/790
-
-Performance Tuning: https://www.nexusmods.com/7daystodie/articles/792
-
-Modding Social Contract: https://www.nexusmods.com/7daystodie/articles/806
-
-MO2 Guide: https://www.nexusmods.com/7daystodie/articles/1053
-
-<a id="credits"></a>
-
-🙏 Credits
-
-YOU
-
-Wabbajack Team
-
-Mod Authors
-
-Guppy’s Discord Community
-
-<a id="donations"></a>
-
-❤️ Donations
+## Donations
 
 Not expected — appreciated.
 
 ▶ https://next.nexusmods.com/profile/FlufferNutterSandwich
-
-🛡 Final Note
-
-Gatekeeping is not cruelty — it’s quality control.
-Read the instructions.
-Respect the craft.
-Enjoy the buffet. 🍽️
 
 
 
