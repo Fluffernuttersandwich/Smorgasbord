@@ -1,6 +1,11 @@
 ## How to convert this ModList to run on a **Self-Hosted** Dedicated Server:
 
 
+**Warning!** Setting up a dedicated server is for _advanced_ users. 
+FNS and the kind community members over at Guppy's are not your paid tech support for this.  
+You can ask for help, but Dedi's are not our focus.
+
+
 One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
 
 In Steam, you must have "Tools" checked in your games Library Games dropdown:
@@ -111,4 +116,4 @@ I would be careful who you invite into your dedicated server when EAC is off!
 
 If they are running additional mods out of other folders, they're probably going ot have errors.
 
-FNS is not your paid tech support for this. You kind of need to figure this stuff out yourself.  
+
