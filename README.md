@@ -1,6 +1,8 @@
 # 📦 Smörgåsbord by FNS
 
-![Smorg1](https://github.com/user-attachments/assets/84245d84-fcfc-4842-a874-987e7332f840)
+
+<img width="1536" height="1024" alt="Smorg2" src="https://github.com/user-attachments/assets/c626f298-8407-41bb-aec8-d9ec3b203d47" />
+
 
 ---
 
