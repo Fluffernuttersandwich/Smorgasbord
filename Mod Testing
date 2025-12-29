@@ -10,30 +10,22 @@ Comments:
 1. A community member named donelofficial put in a request on the GitHub Issues tracker for me to add new mods (and missing old ones) to the list.
 Most of the additions were by his request.
 
-2. Added the Perks Separator.  I think most of the Perk mods might need some updating. 
+2. Added the Perks Separator.  I think most of the Perk mods might need some updating.
+They should work without errors, but temper your expectations accordingly.
 I only did initial testing to confirm no immediate errors at launch into game world.  
-I think these are OP in general
+I think most of these are OP in general.
 
-3. Added Experimental Separator. Test and or use these mods at your own risk.
+3. Added Experimental Separator. 
+Test and or use these mods at your own risk.
 
 Mods Removed: 
-1. Wild West NPC Cow Hands and add-on patch mods. 
+1. Wild West NPC Cow Hands and add-on patch mod. 
 I don't have time to figure out the error it's throwing.
 
 Mods Fixed:
 1. Charred Meat Replacer
 If you see other warnings or benign errors that might be easy fixes, please let me know.
-
-Benign Warnings: 
-1. The Descent
-2. WalkerSim
-3. Closer Weapon's Pack
-4. There's likely more I'm missing
-
-Benign Errors:
-1. OCB Maurice's Parachute mod. It will open the console with an Error, but it still works.  
-The mod is disabled by default until he updates it. 
-This happens every time TFP updates the game, but OCB usually only recompiles his mods when something is actually broken.
+I sent the fix to the author.
 
 2. When you combine FNS Bait Bags + The Descent, it will throw a silent (console does not open) benign error. 
 It's overwriting the same file, but it's fine.
@@ -52,17 +44,21 @@ aka 3 Skill Points Per Level
 2. “Autominers” OP, disabled. 
 Adds new workstations to automine resources.
 
-3. “Efficient Base Repair” OP, enabled. 
+3. “Efficient Base Repair” Optional, enabled. 
 Adds an Efficient Base Repair block.  
-Put base repairing resource inside of it and it will repair your base automatically.
-I don't know what the range is? Maybe LCB distance?
+Put base repairing resource inside of it and it will repair your base automagically.
+You can also toggle it to be able to upgrade your base as well. 
+It will do this randomly, so if resources are limited, I recommend you manually upgrade your key blocks.
 
 4. “Hydroponic Farming” Standard, enabled.
+Plant indoors in hydroponic tray workstaions. This is not an intuitive system. 
+You might need to read up on the NexusMods page to figure out how it works.
+One is for seed crafting, the other is for actually growing plants.
 
 5. Perks, disabled.
 “Natural Progression” 
-“Perk Mastery”
-"Legend Perks"
+“Perk Mastery” (must use CATUI or SteelUI once it's updated for 2.5)
+"Legend Perks" (must use CATUI or SteelUI once it's updated for 2.5)
 "Legend Perks add-on nerf"
 
 6. “Endless Harvest” OP, disabled.
