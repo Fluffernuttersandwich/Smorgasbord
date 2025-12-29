@@ -9,31 +9,42 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
 **Game will not launch / crashes immediately?**
-→ Check EAC is **disabled**  
+→ Check EAC is **disabled**
+
 → Verify game files in Steam to ensure Harmony is there.
+
 → Update GPU drivers  
 
 **Stuck on “Building Environment…” or crafting queue frozen?**
-→ Press F1  
+→ Press F1
+
 → Endless red errors?
-→ You removed or added mods mid-save  
+
+→ You removed or added mods mid-save
+
 → Start a new world  
 
 **Game frozen, or the Console is a waterfall of Red Errors?**
-→ Mods exist in `AppData\Roaming\7DaysToDie\Mods`  
+→ Mods exist in `AppData\Roaming\7DaysToDie\Mods`
+
 → Remove ALL mods from that folder  
 
 **Multiplayer not working?**
-→ Crossplay must be **disabled**  
+→ Crossplay should be **disabled**
+
 → Server + clients must match mods exactly  
 
 **Random crashes after playing for a while?**
-→ Too high graphics  
-→ Too large RWG map  
-→ Insufficient RAM  
+→ Too high graphics
+
+→ Too large RWG map
+
+→ Insufficient RAM
+
 → Reduce settings and map size  
 
 If none of the above applies:
+
 → **Send logs**
 
 
@@ -51,7 +62,6 @@ If none of the above applies:
 - [Antivirus & Background Apps](#antivirus--background-apps)
 - [MO2 Interface Problems](#mo2-interface-problems)
 - [Known Issues](#known-issues)
-- [Performance & Lossless Scaling](#performance--lossless-scaling)
 
 ---
 
@@ -59,15 +69,20 @@ If none of the above applies:
 
 > **No logs = no assistance.**
 
-I am not paid tech support.  
-I am not psychic.  
-Screenshots of the F1 console are **not logs**.
-
 If you contact me without logs, I will tell you to send logs.
 
-You will not be assisted without logs!
-
 Logs can be posted in the Guppy's Unofficial 7DtD Modding Discord Server in the fns-smorgasbord channel.
+
+I or one of the other community members will assist you as time permits.  
+
+**Be kind:**
+→ We are not paid tech support.  
+
+→ We are not psychic.  
+
+→ Screenshots of the F1 console are **not logs**.
+
+→ You will not be assisted without logs!
 
 ---
 
@@ -244,46 +259,17 @@ I have hundreds of hours played with these warnings present.
 
 ---
 
-## Performance & Lossless Scaling
-
-Lossless Scaling (LS) is a **paid Steam app**.
-
-It can:
-- Add Frame Generation
-- Reduce stutter
-- Improve smoothness on high-refresh monitors
-
-### Requirements:
-- 120Hz+ monitor recommended
-- Windowed mode
-- RTX GPUs benefit most (not required)
-
-### Important:
-- Disable **VSync in-game**
-- You may keep VSync enabled in:
-  - Monitor
-  - NVIDIA Control Panel
-  - Lossless Scaling app
-
-### Guide:
-https://www.youtube.com/watch?v=qc3zZEYpfLY
-
-Lossless Scaling is **system-specific**.  
-Your mileage may vary.
-
----
-
 ## Final Reminder
 
 If you:
 - Read the README
 - Read this document
-- Sent logs
+- Posted logs
 - Followed instructions
 
 …and it still doesn’t work?
 
-Then yes — contact me over at Guppy's.
+Then yes — contact us over at Guppy's.
 
 If you skipped steps and winged it?
 
