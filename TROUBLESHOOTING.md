@@ -3,7 +3,39 @@
 This document contains **all troubleshooting, diagnostics, performance tuning, and known issues** for the **Smörgåsbord by FNS** Wabbajack ModList.
 
 If you skipped the README: go back and read it.  
-If you didn’t read it: this document will hurt your feelings.
+If you didn’t read it: this document will hurt your feelings, and yes, you deserve that.
+
+
+## ⚡ Quick Troubleshooting Flowchart (Read This First)
+
+**Game will not launch / crashes immediately?**
+→ Check EAC is **disabled**  
+→ Verify game files in Steam to ensure Harmony is there.
+→ Update GPU drivers  
+
+**Stuck on “Building Environment…” or crafting queue frozen?**
+→ Press F1  
+→ Endless red errors?
+→ You removed or added mods mid-save  
+→ Start a new world  
+
+**Game frozen, or the Console is a waterfall of Red Errors?**
+→ Mods exist in `AppData\Roaming\7DaysToDie\Mods`  
+→ Remove ALL mods from that folder  
+
+**Multiplayer not working?**
+→ Crossplay must be **disabled**  
+→ Server + clients must match mods exactly  
+
+**Random crashes after playing for a while?**
+→ Too high graphics  
+→ Too large RWG map  
+→ Insufficient RAM  
+→ Reduce settings and map size  
+
+If none of the above applies:
+→ **Send logs**
+
 
 ---
 
@@ -33,14 +65,22 @@ Screenshots of the F1 console are **not logs**.
 
 If you contact me without logs, I will tell you to send logs.
 
+You will not be assisted without logs!
+
+Logs can be posted in the Guppy's Unofficial 7DtD Modding Discord Server in the fns-smorgasbord channel.
+
 ---
 
 ## Log Files (Required)
 
 When using **MO2 + Wabbajack**, logs are stored here:
+
 C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
 
 Attach the **entire log file**, not screenshots.
+
+Within the game, you can press the F1 Key, and in the top right there is a button for "Folder Location of Logs". 
+Get your most recet log with the problem.
 
 ---
 
@@ -48,7 +88,7 @@ Attach the **entire log file**, not screenshots.
 
 ### 1. Game Version
 
-You **must** be on **7 Days to Die v2.5 (Stable)**.
+You **must** be on the current stable version of **7 Days to Die**.
 
 Experimental builds are **not supported**.
 
@@ -58,29 +98,35 @@ Experimental builds are **not supported**.
 
 EAC **must be disabled**, not muted.
 
-Disable it in the Steam launcher — permanently.
+Disable it in the Steam 7DtD Game Launcher — permanently.
 
 ---
 
 ### 3. Harmony Folder
 
 You **must not delete**: 
+
 C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods\0_TFP_Harmony
 
+The **only** mod allowed in the base game folder is **Harmony**.
 
 If you deleted it:
 - Verify game files in Steam
 - It will be restored
+
+
+Notice: Some Smorgasbord mods will add folders to your Mods folder, these are fine, they store your local settings for those mods.
+
 
 ---
 
 ### 4. Mods in the Wrong Folder
 
 There must be **NO mods** in:
+
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 
-The **only** mod allowed in the base game folder is **Harmony**.
 
 ---
 
@@ -119,7 +165,7 @@ d3d11: failed to create buffer
 ### Fixes:
 
 1. Update GPU drivers
-2. Lower graphics from Ultra → High
+2. Lower graphics from Ultra → High, or lower as your system allows
 3. Disable Dynamic Mesh
 4. Do **not** blindly copy someone else’s graphics settings
 
@@ -142,6 +188,7 @@ If the game crashes mid-session, the save **may** be unrecoverable.
 
 ### Fix:
 - Remove all mods from:
+- 
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 - Reinstall the ModList if load order was changed
@@ -170,7 +217,7 @@ Common offenders:
 - SteelSeries
 - iCUE
 
-Create exceptions for:
+Create Antivirus exceptions for:
 - `ModOrganizer.exe`
 - `7daystodie.exe`
 
@@ -191,7 +238,7 @@ You didn’t break anything.
 - WalkerSim produces many yellow warnings — **normal**
 - Descent + Bait Bags produces a benign error — **harmless**
 - Experimental mods are **not vetted**
-- khzZombies is glitchy but functional
+
 
 I have hundreds of hours played with these warnings present.
 
@@ -236,7 +283,7 @@ If you:
 
 …and it still doesn’t work?
 
-Then yes — contact me.
+Then yes — contact me over at Guppy's.
 
 If you skipped steps and winged it?
 
