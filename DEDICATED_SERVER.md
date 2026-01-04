@@ -122,7 +122,8 @@ I would be careful who you invite into your dedicated server when EAC is off!
 Fire can be hard on server performance and sometimes act buggy.  
 
 
-<img width="2858" height="854" alt="image" src="https://github.com/user-attachments/assets/07e73cba-ccfc-4298-ab0a-43f2d217d692" />
+<img width="2072" height="1208" alt="image" src="https://github.com/user-attachments/assets/96e313e2-cfc2-4b30-adda-4322c474431c" />
+
 
 
 
