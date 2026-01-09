@@ -215,7 +215,7 @@ https://www.wabbajack.org/
 ## Random World Generation
 
 - Recommended size: **6–10k**
-- RWG may take **5–60 minutes**
+- RWG may take **5–60 minutes**, it's very hardware dependant.
 - Descent adds large underground systems (keep maps 6-10k)
 - CompoPack adds a ton of POIs.
 - The unique RWG mods make the process take longer.
