@@ -3,13 +3,18 @@
 This document contains **all troubleshooting, diagnostics, performance tuning, and known issues** for the **Smörgåsbord by FNS** Wabbajack ModList.
 
 If you skipped the README: go back and read it.  
+
 If you didn’t read it: this document will hurt your feelings, and yes, you deserve that.
+
+
+_**If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it.**_
 
 
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
 **Game will not launch / crashes immediately?**
-→ Check EAC is **disabled**
+
+→ Check EAC is **disabled** from the Game Launcher
 
 → Verify game files in Steam to ensure Harmony is there.
 
@@ -20,28 +25,28 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 
 → Endless red errors?
 
-→ You removed or added mods mid-save
-
-→ Start a new world  
+→ You removed or added mods mid-save. Start a new save. 
 
 **Game frozen, or the Console is a waterfall of Red Errors?**
-→ Mods exist in `AppData\Roaming\7DaysToDie\Mods`
 
-→ Remove ALL mods from that folder  
+→ Mods exist in `AppData\Roaming\7DaysToDie\Mods`. Remove ALL mods from that folder.  
 
 **Multiplayer not working?**
+
 → Crossplay should be **disabled**
 
 → Server + clients must match mods exactly  
 
 **Random crashes after playing for a while?**
-→ Too high graphics
 
-→ Too large RWG map
+→ Your overall Graphics settings are too high for your hardware. Lower them.
 
-→ Insufficient RAM
+→ You tried to make a RWG Map that was too large/complicated for your hardware to handle. Make smaller/simpler maps, or upgrade hardware.
 
-→ Reduce settings and map size  
+→ Insufficient RAM. The Descent requires 16GB of System Memory. Disbale that mod, or upgrade your hardware.
+
+→ Performance Issues? Reduce Graphic Settings and Map size. Maybe disable The Descent and/or CompoPack POIs.
+You can also play around with things like DLSS, or try purchasing Lossless Scaling.
 
 If none of the above applies:
 
@@ -95,6 +100,9 @@ When using **MO2 + Wabbajack**, logs are stored here:
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\logs
 
 Attach the **entire log file**, not screenshots.
+
+If the log file is too large, delete the lines after the Errors start endlessly repeating. 
+
 
 Within the game, you can press the F1 Key, and in the top right there is a button for "Folder Location of Logs". 
 Get your most recet log with the problem.
@@ -181,6 +189,8 @@ If you deleted it:
 
 
 Notice: Some Smorgasbord mods will add folders to your Mods folder, these are fine, they store your local settings for those mods.
+
+Example: When you launch Smorgasbord from MO2, TMO Core creates a mod folder in the base game's Mods folder. This stores your perosnal settings for his mods. 
 
 
 ---
@@ -271,17 +281,24 @@ B. Some overlarge POIs like those from The Walking Dead POI Pack and Fallout Vau
 - Endless red errors in console
 
 ### Causes:
-- Mods added that aren’t part of the list
-- Mods removed mid-save
-- Load order broken
-- Mods present in Roaming Mods folder
+- Mods added that aren’t part of the list: that's your own self-inflicted gunshot wound to deal with.
+- Mods removed mid-save: It's best practice to only toggle mods when you plan to start a new save/world.
+- Load order broken: You renamed mod folders and messed something up. 
+- Mods present in Roaming Mods folder: Only Harmony should run from the base game's Mods folder, and nothing from the AppData Mods folder!
 
 ### Fix:
 - Remove all mods from:
 - 
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
-- Reinstall the ModList if load order was changed
+- Reinstall the ModList if load order was changed.
+
+- If you installed your own mods, disable them, and test that the game runs with the standard mod list I delivered to you.
+- You can update the Mod List in Wabbajack to reset the Load Order.
+
+- If you toggled mods as enabled/disabled and it created an issue...
+- You can update the Mod List in Wabbajack to reset the Load Order.
+- Now note down any mods you toggled as enabled/disabled. This will help you/me to troubleshoot any persistant issues.
 
 ---
 
@@ -317,7 +334,13 @@ If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off,
 0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched. 
 To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
 
-<img width="834" height="1153" alt="image" src="https://github.com/user-attachments/assets/92961937-1550-499e-b44f-e42d31713fe3" />
+
+<img width="2159" height="1646" alt="image" src="https://github.com/user-attachments/assets/437fbf7b-b35b-4fb6-88a1-76ebb72299c9" />
+
+
+
+<img width="1708" height="1958" alt="image" src="https://github.com/user-attachments/assets/4ff29e70-e6f1-45fd-9998-8003a2ed6344" />
+
 
 
 ---
@@ -365,8 +388,8 @@ Errors are listed in Red within the (F1) Console.
 
 - WalkerSim produces many yellow warnings — **normal**
 - Descent + Bait Bags produces a benign error — **harmless**
-- Closer Weapon's Pack
--  OCB Maurice's Parachute mod. It will open the console with an Error, but it still works.  
+- Closer Weapon's Pack creates some yellow warnings — **acceptable**
+-  OCB Maurice's Parachute mod. It will pop-open the console with an Error, but it still works.  
 The mod is disabled by default until he updates it. 
 This happens every time TFP updates the game, but OCB usually only recompiles his mods when something is actually broken.
 - There's likely more I'm missing
@@ -385,6 +408,7 @@ If you:
 - Read the README
 - Read this Troubleshooting guide
 - Followed instructions
+- Tried to troubleshoot yourself
 
 …and it still doesn’t work?
 
@@ -392,7 +416,7 @@ Then yes — contact us over at Guppy's in the fns-smorgasbord channel.
 
 Post logs with a description of the issue.
 
-Reminder: No Logs = No Assistance!
+**Reminder: No Logs = No Assistance!**
 
 If you skipped steps and winged it?
 
