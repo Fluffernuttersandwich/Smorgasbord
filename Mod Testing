@@ -1,4 +1,4 @@
-2.5.1.11 18:00 EST 08JAN2026
+2.5.1.12 15:45 EST 10JAN2026
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -7,13 +7,7 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. For DLSS fans, Nvidia has opened access to the new DLSS 4.5 in beta. 
-A. To use it, you must update to the latest Nvidia GPU Driver.
-B. You must manually update to the latest DLSS dll file. I personally update the DLSS Swapper application, and manage them there.  
-C. You have to opt into it yourself within the Nvidia Geforce app > Settings > About > Early access to beta. This will be standard after 13JAN2026.
-D. If you are on a 20 or 30 series Nvidia GPU, you may want to stay on the K preset. If you are on a 40 or 50 series GPU, experiment with the M preset. 
-I am using the latest DLSS 4.5 with Preset M on a 5090. Currently playing with DLSS set to Quality to maintain higher native FPS.
-I experimented with both Ultra Quality and DLAA, but saw significant FPS drop.
+1. Added Steel UI and some updated mods.
 
 Standing Community Requests:
 
@@ -25,29 +19,25 @@ N/A
 
 Mods Updated:
 
-"Closer Weapons Pack"
-"KF SFX"
-"KF CUL"
-"Zeebark POI Pack"
 "POI Scourge"
-"More Quest Options"
-"Gears"
 "Natural Selection"
-"Singularity"
-"(TMO) Advanced Bullet Casing Collector x Client Side"
-"(TMO) Zombies Cant Dig x ServerSide Friendly_v2.4Stable"
-"7 Days Super Resolution(DLSS)"
-"GoFasterOnRoads"
+"Custom Avatars"
+"CUBP"
+"Perk Mastery"
+"StorageSync"
 
 Mods Added:
 
-"StorageSync" Experimental, disabled.
-StorageSync let's players use the same storage container at the same time and keeps the inventory list synced for everyone.
-I haven't had the oppurtunity to test this yet. Please let me know if it works in multiplayer without issues.  
+"Steel UI" UI, enabled.
+My favorite UI. A new mod author created a temporary band-aid patch to get Steel UI to work in 2.5.
+I only did very brief testing. If you encounter problems, please let me know ASAP. 
+The 15-Slot toolbelt (and add-on patch) aren't working correctly. Stick with 10 or jump enable 20.
 
-"Army POI" POI, enabled.
+"Longer Lasting Buffs Remove Water Change Over Time" OP, disabled.
+This is an add-on to "Longer Lasting Buffs - 10x", 
+If using the main mod, you should strongly consider enabling this mod as well so you don't spend hours trying to replenish your hydration from drug side-effects.
 
-"Customizable Armor Slots" Armor, enabled.
-Sets LRS's Armor Suit Mod Slots to the same value number as vanilla armor in 2.5.
+"9k_map..."
+Another Smorgasbord default map. 
 
 __________________________________________________________
