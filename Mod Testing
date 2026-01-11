@@ -1,17 +1,35 @@
-2.5.1.12 15:45 EST 10JAN2026
+2.5.2.1 16:30 EST 13JAN2026
 
-Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
-If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
-There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
-Don't FOMO! The list isn't going anywhere!
+WARNING! This is a major update, it requires you to start a new save and world. 
+If you are content with your current playthrough, finish it prior to updating the list.
 
 Comments:
 
-1. Added Steel UI and some updated mods.
+1. EFTX received a major update with some awesome new features; notably, being able to cursor-hover over an EFTX gun to see compatible weapon mods.
+You can also hover over EFTX ammo to see which guns it is compatible with.
+These major QoL features were brought to us by the Asylum Overhaul Mod team. 
 
-Standing Community Requests:
+2. I added a Wasteland Profile inside of MO2. 
+I wanted to try it, but wanted to do it in MO2.
+Since I was already doing it for myself, I figured I'd share it with you guys.
+If you like this, let me know.
+I added a new page on the GitHub but it just repeats the warnings I am about to give you.
 
-1. If any of you have suggestions for improving the GitHub look, functionality, or have ideas for new pages then please let me know.
+Warning 1: Do not ask bdubyah, or the Wasteland Discord for any assistance troubleshooting an issue with using Wasteland inside of MO2 and Smorgasbord.
+Their response will be to have you remove all other mods (and start a new game), or figure it out yourself.
+
+Warning 2: The Wasteland Profile I made is experimental! 
+I have playtested the delivered profile without issues. 
+There were no Errors, nor concerning Warnings in the console.
+
+Warning 3: The normal Smorgasbord profile in MO2 can tolerate toggling a lot of mods in a new game.
+This is not the case for the Wasteland profile.
+Consider the Wasteland Profile in MO2 to be extremely fragile! 
+You can safely disable any of the mods you don't want active in this profile, and it will work.
+Conversely, enabling almost any one of the majority of disabled mods in this profile will likely break your game.
+Any mod that touches UI, progression, recipes, traders, loot, armor, and weapons could potentially cause errors.
+No, we will not be making patches!
+Take it or leave it. 
 
 Mods Removed: 
 
@@ -19,25 +37,19 @@ N/A
 
 Mods Updated:
 
-"POI Scourge"
-"Natural Selection"
-"Custom Avatars"
-"CUBP"
-"Perk Mastery"
-"StorageSync"
+"EFTX Suite" Major update!
+"Advanced Research" Updated for EFTX (big thanks to StallionsDen!)
+"Singularity"
+"No Blurry Textures"
 
 Mods Added:
 
-"Steel UI" UI, enabled.
-My favorite UI. A new mod author created a temporary band-aid patch to get Steel UI to work in 2.5.
-I only did very brief testing. If you encounter problems, please let me know ASAP. 
-The 15-Slot toolbelt (and add-on patch) aren't working correctly. Stick with 10 or jump enable 20.
+"Wasteland" Separator. 
+This is only to be used in the Wasteland Profile!
+I added the Wasteland and a few of the default maps.
 
-"Longer Lasting Buffs Remove Water Change Over Time" OP, disabled.
-This is an add-on to "Longer Lasting Buffs - 10x", 
-If using the main mod, you should strongly consider enabling this mod as well so you don't spend hours trying to replenish your hydration from drug side-effects.
-
-"9k_map..."
-Another Smorgasbord default map. 
+Optional Add-on mod you can manually include on your own:
+https://7daystodiemods.com/non-script-radios-video-games/
+Play Fallout music in your game from a radio. 
 
 __________________________________________________________
