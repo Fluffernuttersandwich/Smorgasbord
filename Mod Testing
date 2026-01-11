@@ -13,14 +13,18 @@ These major QoL features were brought to us by the Asylum Overhaul Mod team.
 I wanted to try it, but wanted to do it in MO2.
 Since I was already doing it for myself, I figured I'd share it with you guys.
 If you like this, let me know.
-I added a new page on the GitHub but it just repeats the warnings I am about to give you.
+
+If you haven't played it before, it's an Overhaul mod to make the game more like Fallout. This makes major changes to game systems.
+You start with a blacked out screen. You must spend 21 attribute points prior to being able to begin a new game.
+Then you go through typical new game challenges in a normal game of 7DtD. 
+This overhaul adds a different perk progression system. 
 
 Warning 1: Do not ask bdubyah, or the Wasteland Discord for any assistance troubleshooting an issue with using Wasteland inside of MO2 and Smorgasbord.
 Their response will be to have you remove all other mods (and start a new game), or figure it out yourself.
 
 Warning 2: The Wasteland Profile I made is experimental! 
 I have playtested the delivered profile without issues. 
-There were no Errors, nor concerning Warnings in the console.
+There were no Errors, nor concerning Warnings in the console in the few hours of game I playtested.
 
 Warning 3: The normal Smorgasbord profile in MO2 can tolerate toggling a lot of mods in a new game.
 This is not the case for the Wasteland profile.
