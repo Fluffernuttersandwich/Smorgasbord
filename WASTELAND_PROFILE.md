@@ -5,6 +5,11 @@ I’ve added a **Wasteland Profile** inside of MO2 for Smörgåsbord.
 I originally created this just to try it myself, but since I was already doing the work, I figured I’d share it with anyone who’s interested.  
 If you like this, let me know.
 
+
+<img width="1941" height="560" alt="image" src="https://github.com/user-attachments/assets/add8ffb1-702b-47a7-95b1-03a55857bb2f" />
+
+
+
 ---
 
 ## What Is Wasteland?
