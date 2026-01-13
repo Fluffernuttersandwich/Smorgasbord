@@ -1,3 +1,28 @@
+2.5.2.3 11:00 EST 13JAN2026
+
+Minor update:
+I previously forgot to actually INCLUDE the Wasteland profile.
+It's there now.
+
+Mods with Status Updates:
+I enabled and moved a few minor mods that were experimental after confirming they worked without error.
+These mods tested fine in multiplayer for us, moving to QoL, enabled
+TraderSync, StorageSynce, and Party Scout.
+
+Notice: 
+The EFTX cursor-hover mods for Ammo and Attachment Compatibility work in singleplayer, but are not yet fully functional in Multiplayer.
+I could run them fine on my hosted game, but my son had a benign (silent) error. 
+StallionsDen has already been informed. A fix will likely come in time.
+
+Updated Mods:
+CATUI
+Zeebark's POI Pack
+
+__________________________________________________________
+
+
+2.5.2.2 was an unecessary hotfix. No changes.
+
 2.5.2.1 17:20 EST 12JAN2026
 
 WARNING! This is a major update, it requires you to start a new save and world. 
