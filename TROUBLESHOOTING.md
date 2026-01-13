@@ -348,6 +348,23 @@ To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memor
 
 ---
 
+
+## Wabbajack Issue
+
+If you are having a problem downloading the list through Wabbajack, it could be because you haven't switched your Windows Region settings to English.
+
+Wabbajack can have silent failures when you try to download a Mod List if you have your Windows Region set to something other than English.
+
+It only works in English.
+
+Exit the Wabbajack application. Go to the Windows Control Panel > Region > use the dropdown and select English.
+
+Open Wabbajack up and restart the installation/update process.
+
+<img width="1466" height="1080" alt="image" src="https://github.com/user-attachments/assets/681a106c-f1a0-4d6c-a0e5-30aeda15effd" />
+
+---
+
 ## MO2 Interface Problems
 
 ### “My load order is messed up!”
