@@ -1,133 +1,21 @@
-2.5.2.1 16:30 EST 13JAN2026
+2.5.2.3 11:00 EST 13JAN2026
 
-WARNING! This is a major update, it requires you to start a new save and world. 
-If you are content with your current playthrough, finish it prior to updating the list.
+Minor update:
+I previously forgot to actually INCLUDE the Wasteland profile.
+It's there now.
 
-Comments:
+Mods with Status Updates:
+I enabled and moved a few minor mods that were experimental after confirming they worked without error.
+These mods tested fine in multiplayer for us, moving to QoL, enabled
+TraderSync, StorageSynce, and Party Scout.
 
-1. EFTX received a major update with some awesome new features; notably, being able to cursor-hover over an EFTX gun to see compatible weapon mods.
-You can also cursor-hover over EFTX ammo to see which guns it is compatible with.
-These major QoL features were brought to us by the Asylum Overhaul Mod team. 
-Big thanks to them. If you like Smorgasbord, they run many of the same mods in their overhaul pack.
-The major difference is their focus on horror and new entities. 
+Notice: 
+The EFTX cursor-hover mods for Ammo and Attachment Compatibility work in singleplayer, but are not yet fully functional in Multiplayer.
+I could run them fine on my hosted game, but my son had a benign (silent) error. 
+StallionsDen has already been informed. A fix will likely come in time.
 
-2. I’ve added a Wasteland Profile inside of MO2 for Smörgåsbord.
-
-I originally created this just to try it myself, but since I was already doing the work, I figured I’d share it with anyone who’s interested.
-If you like this, let me know.
-
-What Is Wasteland?
-If you haven’t played it before, Wasteland is a major overhaul mod designed to make 7 Days to Die feel more like Fallout.
-It makes significant changes to core game systems, progression, and the overall gameplay loop.
-
-What to Expect
-You begin with a blacked-out screen.
-You must spend 21 attribute points before you can begin a new game.
-After that, gameplay proceeds with familiar early-game 7DtD challenges.
-The overhaul introduces a completely different perk progression system.
-This is not a small tweak — it meaningfully alters how the game works.
-
-Important Warnings!
-Please read these carefully before using the Wasteland profile.
-
-Warning #1 — Support Expectations
-Do NOT ask bdubyah or the Wasteland Discord for help with issues related to:
-
-Running Wasteland inside MO2/Smörgåsbord
-Any hybrid setup involving this profile
-Their expected response will be:
-Remove all other mods and start a brand new game.
-Or troubleshoot it yourself.
-That’s fair on their end. This setup is outside their intended support scope.
-
-Warning #2 — Experimental Profile
-This Wasteland profile is experimental in MO2.
-That said:
-I have personally playtested the delivered profile
-No errors appeared
-No concerning warnings appeared
-Several hours of gameplay were stable
-Still, this is provided as-is.
-
-Warning #3 — This Profile Is Fragile
-This is the most important section.
-The normal Smörgåsbord profile can tolerate a lot of mod toggling during a new game.
-The Wasteland profile cannot.
-Consider this MO2 profile to be extremely fragile.
-
-Safe:
-You can disable mods you don’t want, and the profile will usually continue to function (in a new game).
-
-Unsafe:
-Enabling additional mods is very likely to break things.
-Mods touching any of the following are especially risky:
-UI
-Progression
-Recipes
-Traders
-Loot
-Armor
-Weapons
-Enabling even a single incompatible mod can introduce errors.
-
-No Patch Support
-To be very clear:
-We will not be making compatibility patches
-We will not be troubleshooting custom combinations
-This is provided on a take it or leave it basis
-If you enjoy experimenting and understand the risks — great.
-If not, you should probably stick with the standard Smörgåsbord profile.
-
-Final Notes about the Wasteland
-This exists for players who:
-Want to experience Wasteland
-Prefer using MO2
-Understand experimental setups
-Are comfortable self-troubleshooting
-If that’s you — have fun.
-If not — totally fair, skip this profile.
-If you want to complain about how it adds GB to the download for something you don't plan on using, don't waste your breath.
-I added it since I was having fun watch Glock9 play it.
-
-Back to Smorgasbord...
-
-Mods with a Status Change:
-"Closer's Experimental Weapon Pack" moved to Pending Update. It is throwing a game breaking error with the updated EFTX now.
-
-Mods Removed: 
-
-"EFT Recoil Patch (For Extraction Pack)" It wasn't working right, probably needs an update. 
-
-Mods Updated:
-
-"EFTX Suite" Major update!
-"Advanced Research" Updated for EFTX (big thanks to StallionsDen!)
-"Singularity"
-"No Blurry Textures"
-"WalkerSim"
-"CustomFPVFOV"
-"Elemental Zombie Damage"
-
-Mods Added:
-
-"Wasteland" Separator. 
-This is only to be used in the Wasteland Profile!
-I added the Wasteland and a few of the default maps.
-Optional Add-on mod you can manually include on your own:
-https://7daystodiemods.com/non-script-radios-video-games/
-Play Fallout music in your game from a radio. 
-
-"Jen Model Revival" QoL, enabled.
-Brings the A19-V2.4 Jen back to 2.5+. 
-For those of us who prefer her former appearance.
-
-"Party Scout" Experimental, disabled.
-Let's any player's map discovery show on all teammates maps. 
-All players effect one another's map fog of war. 
-I have not had an oppurtunity to test this. 
-
-"LittleRedSonja Sonja's Vanity Vault" Decor, enabled.
-Adds new custom hairs and face paints that you can choose directly in the character creation UI, so they can be used together with any armor.
-She's just too good to this community. :P
+Updated Mods:
+CATUI
+Zeebark's POI Pack
 
 __________________________________________________________
