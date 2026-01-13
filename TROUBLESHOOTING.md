@@ -438,6 +438,11 @@ Post logs with a description of the issue.
 
 **Reminder: No Logs = No Assistance!**
 
+Be prepared to answer the following questions:
+- Did you add any mods from outside of the list? Remove them, start a new game, see if error persists.
+- Did you update the mod list recently? Sometimes a new update will fix an old issue, in a new game.
+- What additional mods (from the list) did you enable or disable?
+
 If you skipped steps and winged it?
 
 That’s on you.
