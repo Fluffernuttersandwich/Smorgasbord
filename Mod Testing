@@ -1,21 +1,32 @@
-2.5.2.3 11:00 EST 13JAN2026
+2.5.2.4 11:00 EST 15JAN2026
 
-Minor update:
-I previously forgot to actually INCLUDE the Wasteland profile.
-It's there now.
+Warning: I disabled Izy AIO and changed the EFTX Z2 ammo selection. 
+Either reconfigure your mods, start a new game, or wait to update to begin a new play through.
 
-Mods with Status Updates:
-I enabled and moved a few minor mods that were experimental after confirming they worked without error.
-These mods tested fine in multiplayer for us, moving to QoL, enabled
-TraderSync, StorageSynce, and Party Scout.
+Comments:
 
-Notice: 
-The EFTX cursor-hover mods for Ammo and Attachment Compatibility work in singleplayer, but are not yet fully functional in Multiplayer.
-I could run them fine on my hosted game, but my son had a benign (silent) error. 
-StallionsDen has already been informed. A fix will likely come in time.
+1. I disabled the IZY AIO and add-on mods to it because I got tired of the comments and complaints about the animation bug.  
+I get it, but they're not going to be fixed until the next update to that mod, and I don't know when that is.  
 
-Updated Mods:
-CATUI
-Zeebark's POI Pack
+2. I added a splashscreen image when MO2 opens. 
 
+Mods Removed: 
+
+EFTX Ammo and Attachment Compatibility mods... the new cursor hover features.
+These mods need a bit more time in the oven.  
+They'll be back.
+
+Mods Updated:
+
+"LitteRedSonja Zombie Pack"
+"Descent" Fixed Dedicated Server issue.
+"Efficient Base Repair"
+"TraderSync"
+"CATUI Backpack"
+"Wasteland"
+
+
+Mods Added:
+
+N/A
 __________________________________________________________
