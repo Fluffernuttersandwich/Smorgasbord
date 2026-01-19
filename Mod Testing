@@ -1,37 +1,38 @@
-2.5.2.4 17:00 EST 16JAN2026
+2.5.2.5 16:00 EST 19JAN2026
 
-Warning: I disabled Izy AIO and changed the EFTX Z2 ammo selection. 
-Either reconfigure your mods, start a new game, or wait to update to begin a new play through.
+Warning: You might need to start a new game for this update, EFTX was updated, and it can be tempermental overwriting an existing save.
+When in doubt, don't update your Mod List until you are prepared to start a new save. 
 
 Comments:
 
-1. I disabled the IZY AIO and add-on mods to it because I got tired of the comments and complaints about the animation bug.  
-I get it, but they're not going to be fixed until the next update to that mod, and I don't know when that is.  
-
-2. I added a splashscreen image when MO2 opens. 
-
-3. TFP moved 2.5 Stable from b23 to b27. Smorgasbord is compatible with both. It made a minor fix to the Apiary (Bee Hive workstation). 
+N/A
 
 Mods Removed: 
 
-1. "Better Foods" was having a conflict with Medical Conditions. Easier to remove Better Foods...
-
-2. EFTX Ammo and Attachment Compatibility mods... the new cursor hover features.
-These mods need a bit more time in the oven.  
-They'll be back.
+N/A
 
 Mods Updated:
 
-"LitteRedSonja Zombie Pack"
-"Descent" Fixed Dedicated Server issue.
-"Efficient Base Repair"
-"TraderSync"
-"CATUI Backpack"
+"EFTX Recoil"
+"DismembeRandomizer"
 "WalkerSim"
-"Wasteland"
-"Audible Breaking Glass Jars"
+"7 Days of Insomnia"
+"Steel UI Patch" The 15 Slot belt patch now works, enabled.
+"EFTX Suite"
+"Closer's Weapon Pack"
+"KFCU"
 
 Mods Added:
 
-N/A
+"Survivor's Appetite" Survival, disabled.
+Food overhaul to make it more challenging. 
+It also makes mid-game food much more valuable.
+
+"Kill Feed" UI Suite, disabled.
+Kill feed that shows who killed who, what weapon they used, and headshots.
+
+"Textual Repairs" Standard, Enabled.
+When you try to repair/upgrade but don't have the required items, the game shows the item icon. 
+Textual Repairs adds the missing item's name to it.
+
 __________________________________________________________
