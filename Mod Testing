@@ -1,7 +1,6 @@
-**Smörgåsbord ModList Update:** ```2.5.2.7 08:15 EST 23JAN2026
+**Smörgåsbord ModList Update:** ```2.5.2.8 19:15 EST 23JAN2026
 
-Warning: You might need to start a new game for this update, EFTX was updated, and it can be temperamental overwriting an existing save.
-When in doubt, don't update your Mod List until you are prepared to start a new save. 
+Warning: You might need to start a new game for this update... 
 
 Comments:
 
@@ -13,31 +12,16 @@ N/A
 
 Mods Updated:
 
-"EFTX Suite"
-"CP CUBP"
-"Bdub's Vehicles"
-"CBP"
-"KF SFX"
-"KF CUL"
-"Closer's Weapon Pack"
-"Extended World Settings Plus"
-"Snack and Drive"
-"ISI Randomized Traders"
-"TMO Core"
-"LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead"
+N/A
 
 Mods Added:
 
-"Bone Crusher"
-"Zweihander"
-"Pulverizer"
-Weapons, enabled.
-These are melee weapons and weapon animations from KF2. I would consider these tier 4 melee weapons. 
-These mods rely on the same requirements as EFTX/Closer's Weapon Pack.
+"5k_Default_Map_252" POI, enabled.
+Map.
 
-"Kill Feed" UI, disabled.
-Kill feed that shows who killed who, what weapon they used, and headshots!
+"Vehicle Madness" Vehicles, enabled.
+Must be enabled for a new game! Do not toggle midsave. 
+This is a major vehicle overhaul mod. Adds new workstations, and process to repair some of the existing vehicles you find in the world. 
+Read more at: https://community.thefunpimps.com/resources/vehicle-madness.74/ 
 
-"Buy on Day One - Vehicle Parts and Mods" OP, disabled.
-All (vanilla) vehicle parts available at the trader on day one.
 ```
