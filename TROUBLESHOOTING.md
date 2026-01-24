@@ -377,6 +377,20 @@ You didn’t break anything.
 <img width="1754" height="417" alt="image" src="https://github.com/user-attachments/assets/b4262a38-e6f5-41a5-9acf-b8d04d18b829" />
 
 
+---
+
+## MO2 is launching the game, but no mods are loading in?
+
+Additional Parameters in the Game Launcher can sometimes prevent MO2 from running the game with mods.
+
+
+Go to the Game Launcher and remove all "Additional parameters:"
+
+
+Then hit run and save.
+
+<img width="1042" height="1172" alt="image" src="https://github.com/user-attachments/assets/a2912493-2613-4f3f-a954-4ff5f095c24e" />
+
 
 ---
 
