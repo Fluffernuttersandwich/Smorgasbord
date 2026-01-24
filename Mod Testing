@@ -1,6 +1,7 @@
-**Smörgåsbord ModList Update:** ```2.5.2.8 19:15 EST 23JAN2026
+**Smörgåsbord ModList Update:** ```2.5.2.9 07:30 EST 24JAN2026
 
-Warning: You might need to start a new game for this update... 
+Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
+If you are happy with your current playthrough, don't update until you are ready to start a new game. 
 
 Comments:
 
@@ -12,16 +13,13 @@ N/A
 
 Mods Updated:
 
-N/A
+"Quartz"
+"Goodby Stone Tools"
 
 Mods Added:
 
-"5k_Default_Map_252" POI, enabled.
-Map.
-
-"Vehicle Madness" Vehicles, enabled.
-Must be enabled for a new game! Do not toggle midsave. 
-This is a major vehicle overhaul mod. Adds new workstations, and process to repair some of the existing vehicles you find in the world. 
-Read more at: https://community.thefunpimps.com/resources/vehicle-madness.74/ 
+"Minimize Mining Reliance" OP, disabled.
+Changes the boulders in game to give you a small chance at mining Coal, Potassium Nitrate Powder, Lead, Sand, Clay and Rare Gems.
+Also doubles the amount of collected materials from above and below ground ores and boulders.
 
 ```
