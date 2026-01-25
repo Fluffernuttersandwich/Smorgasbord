@@ -1,30 +1,42 @@
-**Smörgåsbord ModList Update:** ```2.5.2.9 12:45 EST 24JAN2026
+**Smörgåsbord ModList Update:** ```2.5.2.10 14:45 EST 25JAN2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
 If you are happy with your current playthrough, don't update until you are ready to start a new game. 
 
 Comments:
 
-N/A
+"What's that pumpkin outside of POIs?"
+When you clear a POI, it places a lit jack-o-lantern pumpkin outside of it automatically to mark it as a cleared POI.
+It prevents the POI from being offered by the traders as a quest again. 
+It comes from the "POI Scourge"
+It also awards you points to spend in a special trader option. 
 
 Mods Removed: 
 
-"Ophidiophobia" The mod author keeps updating and breaking the folder format.
-I'm tired of fixing the folder formatting every time he updates this mod.
-If you want the mod, manually add it and fix the formatting yourself.
+N/A
 
 Mods Updated:
 
-"Quartz"
-"Goodby Stone Tools"
-"KFC UL"
-"Zweihander"
-"Singularity" Thank you Byteblazar for supporting Linux users.
+"CAS"
+"EFTX Suite"
+"Natural Progression"
 
 Mods Added:
 
-"Minimize Mining Reliance" OP, disabled.
-Changes the boulders in game to give you a small chance at mining Coal, Potassium Nitrate Powder, Lead, Sand, Clay and Rare Gems.
-Also doubles the amount of collected materials from above and below ground ores and boulders.
+"LittleRedSonja and Mumpfy ArmorPack09 - Fallout" Armor, disabled.
+This Armor Pack is Cosmetic Only. So you can look like the NCR Ranger if that's your jam.
+This works in Wasteland, where I toggled it as enabled in that Profile.
+However, in Wasteland, the Cosmetics will bleed through if you are wearing Power Armor.
+So turn off the Cosmetics in the Wardrobe prior to gearing up in Power Armor.
+LRS has been informed, and will look into it as time permits.  
+
+"Drums of War" Quest, enabled.
+Craft a Drum of War, place it and beat the Drum of War inside of an active quest POI (Clear/Infested). 
+This will activate all Sleeper Volumes at once.
+This was made to help you finish stuck Clears in POI Quests.
+Warning! I would not recommend going into a tier 5, and activating the drum of war if you haven't cleared any volumes yet. 
+Simultaneously spawning hundreds of zombies could cause your game to crash. 
+
+
 
 ```
