@@ -367,15 +367,29 @@ Open Wabbajack up and restart the installation/update process.
 
 ## MO2 Interface Problems
 
-### “My load order is messed up!”
-
-Click the **Priority** column header to re-sort.
+### “My Mod Priority is messed up in MO2! What do I do?!”
 
 You didn’t break anything.
+
+Click the **Priority** column header to re-sort.
 
 
 <img width="1754" height="417" alt="image" src="https://github.com/user-attachments/assets/b4262a38-e6f5-41a5-9acf-b8d04d18b829" />
 
+
+
+### “I toggled mods willy nilly, I can't remember what I toggled, now I get endless errors! What do I do to fix it?!”
+
+Every time you update the Mod List from Wabbajack, it will reset it to the working-as-I-delivered-it-to-you version of the mod list.
+
+It resets all the mod toggles back to where I set them in MO2.
+
+So if you messed it up, you can just update the list from Wabbajack to restore it. 
+
+Even if you are at the same Mod List version, it will work to fix the mess.
+
+
+Going forward, write down notes as to which mods you toggled as disabled or enabled, so you can fix yourself.
 
 ---
 
