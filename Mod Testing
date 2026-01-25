@@ -32,11 +32,12 @@ LRS has been informed, and will look into it as time permits.
 
 "Drums of War" Quest, enabled.
 Craft a Drum of War, place it and beat the Drum of War inside of an active quest POI (Clear/Infested). 
-This will activate all Sleeper Volumes at once.
+This will activate all remaining Sleeper Volumes at once.
 This was made to help you finish stuck Clears in POI Quests.
 Warning! I would not recommend going into a tier 5, and activating the drum of war if you haven't cleared any volumes yet. 
 Simultaneously spawning hundreds of zombies could cause your game to crash. 
 
-
+"BdubsVehicles2VehicleMadness" Vehicles, enabled.
+Adds damaged and repairable versions of Bdub's Vehicles to the game world, spawning in the style of Vehicle Madness.
 
 ```
