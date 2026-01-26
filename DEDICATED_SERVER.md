@@ -5,11 +5,13 @@
 >
 > FNS is unable to assist you with this process!
 >
-> If you choose to do this, you have to figure it out _yourself_!
->
 > FNS and the kind community members over at Guppy's are not your paid tech support for this.
 > 
 > You can ask for help, but Dedi's are not our focus.
+>
+> I don't know which mods have issues on a Dedicated server, I don't keep track of this.
+>
+>  If you choose to do this, you have to figure it out _yourself_! 
 
 
 One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
