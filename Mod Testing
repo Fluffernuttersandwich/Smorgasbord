@@ -1,11 +1,17 @@
-**Smörgåsbord ModList Update:** ```2.5.2.12 14:45 EST 26JAN2026
+**Smörgåsbord ModList Update:** ```2.5.2.12 10:40 EST 27JAN2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
 If you are happy with your current playthrough, don't update until you are ready to start a new game. 
 
 Comments:
 
-N/A
+1. A few hotfixes for EFTX when using vanilla ammo options. Also added a few cool new mods.
+
+2. Big thanks to both Community Members and Mod Authors who identified issues, reported them, and helped to correct them quickly. 
+You guys are great, thank you for everyone's support this week!
+You all make maintaining a this big list of mods so much easier.
+Just so everyone knows, Mod Authors like LittleRedSonja, StallionsDen, ALo, ByteBlazar, Laydor, bdub, sphereii, and many others make maintaining Smorgasbord possible.
+I couldn't do it without them!
 
 Mods Removed: 
 
@@ -13,8 +19,20 @@ N/A
 
 Mods Updated:
 
-"
+"EFTX Suite"
+"Ammo Press Add-On Patch for EFT and Izy v2"
+"CAS" 
+"WalkerSim"
+"CompoPack"
+"CUBP"
 
 Mods Added:
 
-"
+"Loot Abundance Not Ignored" QoL, disabled.
+From the Mod Author Frantic Dan: 
+There a several loot containers, including zombie loot, that ignore the loot abundance setting, so it is always 100% regardless if you set it to 25% or 200%.
+This mod makes it so all containers get the amount of loot that is selected. 
+Making the game either easier or harder, depending on your loot setting.
+
+"War3zuk HD Supply Drops" OP, enabled.
+This mod add 4 Flares that can be used to call a Supplies Chopper that will drop you the loot box.
