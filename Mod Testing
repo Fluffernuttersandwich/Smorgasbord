@@ -1,21 +1,11 @@
-**Smörgåsbord ModList Update:** ```2.5.2.12 11:00 EST 27JAN2026
+**Smörgåsbord ModList Update:** ```2.5.2.13 13:00 EST 30JAN2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
 If you are happy with your current playthrough, don't update until you are ready to start a new game. 
 
 Comments:
 
-1. A few hotfixes for EFTX when using vanilla ammo options. Also added a few cool new mods.
-
-2. Fixed the "No NerdPole" issue. It was a setting in "Gears changes SCore" mod. 
-You can change settings from that mod in the in-game Mods menu.
-Currently, it's set so you can one-block-crouch, and nerdpole-ing is authorized. 
-
-3. Big thanks to both Community Members and Mod Authors who identified issues, reported them, and helped to correct them quickly. 
-You guys are great, thank you for everyone's support this week!
-You all make maintaining this big list of mods so much easier.
-Just so everyone knows, Mod Authors like LittleRedSonja, StallionsDen, ALo, ByteBlazar, Laydor, bdub, sphereii, and many others make maintaining Smorgasbord possible.
-I couldn't do it without them!
+N/A
 
 Mods Removed: 
 
@@ -23,28 +13,15 @@ N/A
 
 Mods Updated:
 
-"EFTX Suite"
-"Ammo Press Add-On Patch for EFT and Izy v2"
 "CAS" 
 "WalkerSim"
-"CompoPack"
-"CUBP"
+"War3zuk HD Supply Drops"
+"Extended World Settings Plus"
 
 Mods Added:
 
-"Loot Abundance Not Ignored" QoL, disabled.
-From the Mod Author Frantic Dan: 
-There a several loot containers, including zombie loot, that ignore the loot abundance setting, so it is always 100% regardless if you set it to 25% or 200%.
-This mod makes it so all containers get the amount of loot that is selected. 
-Making the game either easier or harder, depending on your loot setting.
+"KHZMusik NPCs" NPC, disabled.
+Adds Psychos, Rogues, and Civilians.
 
-"War3zuk HD Supply Drops" OP, disabled.
-This mod add 4 Flares that can be used to call a Supplies Chopper that will drop you the loot box.
-HD Building Supply Flare
-HD Health Supply Flare
-HD Ammo Supply Flare
-HD Food Supply Flare
-Each drop has it's own custom supplies. 
-Flares are found inside Army Trucks & Munitions boxes but are set to Rare finds.
-I tested that this works, but not how often the flares show up in loot... 
-In testing I saw good weapons dropping too early, that's why it's disabled by default under the OP separator.```
+"KHZMusik Zombies" Zombies, enabled.
+Adds some new zombies.```
