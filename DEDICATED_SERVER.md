@@ -140,3 +140,5 @@ Fire can be hard on server performance and sometimes act buggy.
 
 
 4. Also be aware of things like your settings on either Remote Crafting/Beyond Storage 2 if you choose either.
+   
+5. A Community Member reported the mod "More Gore" is not compatible on Dedicated Servers.  
