@@ -425,8 +425,24 @@ If you choose more than one Z2 ammo option, it fails with game breaking errors.
 
 <img width="2124" height="1254" alt="image" src="https://github.com/user-attachments/assets/c2d8c75e-93b1-49c4-a968-ebb544d34af5" />
 
+## Performance Issues
 
+- Avoid RWG maps larger than **10k** on weak hardware
+- Descent Requires 16GB of System RAM.
+- Better Biomes is an FPS Hog! 20-50 hit to FPS.
+- Urban Decay can cause a minor hit to FPS. 5-10 FPS hit.
+- If you play with NPCs, it will hit your performance. 10-30 FPS hit.
+- Using the CompoPack and CUBP will hit your performance. 10-30 FPS hit.
 
+### How to handle Performance Issues:
+
+- Use the Super Resolution Mod and your GPU's correct technology. AMD = FSR, Nvidia = DLSS. Try different profiles.
+- Update your GPU Drivers.
+- Play with your GPU software settings. AMD = Adrenaline, Nvidia = Nvidia Control Panel + GeForce App.
+- Optimize your Windows settings.
+- Lower your in-game Graphics Settings.
+- Disable some or all of the resource heavy mods.
+- Invest in new hardware. For 7DtD, CPU is the most important, than GPU and Memory. 
 
 **Benign Warnings and Errors**
 
