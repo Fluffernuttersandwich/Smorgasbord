@@ -461,14 +461,14 @@ I have hundreds of hours played with these warnings present.
 
 ### How to handle Performance Issues:
 
-- Use the Super Resolution Mod and your GPU's correct technology. AMD = FSR, Nvidia = DLSS. Try different profiles.
+- Use the Super Resolution Mod and your GPU's correct technology. AMD = FSR, Nvidia = DLSS. Try different profiles. Nvidia 20 and 30 series should use Preset K. 40 and 50 series should use Preset M. 
 - Update your GPU Drivers.
-- Play with your GPU software settings. AMD = Adrenaline, Nvidia = Nvidia Control Panel + GeForce App.
-- Optimize your Windows settings.
-- Lower your in-game Graphics Settings.
+- Optimize your GPU software settings. AMD = Adrenaline, Nvidia = Nvidia Control Panel + GeForce App.
+- Optimize your Windows settings. https://www.youtube.com/watch?v=Ntkc6PeImhU
+- Lower your in-game Graphics Settings. https://www.youtube.com/watch?v=rN1r5hFoWOo
 - Disable some or all of the resource heavy mods.
-- Try using the Lossless Scaling App.
-- Invest in new hardware. For 7DtD, CPU is the most important, than GPU and Memory. 
+- Try using the Lossless Scaling App. https://www.youtube.com/watch?v=qc3zZEYpfLY
+- Invest in new hardware. For 7DtD, CPU is the most important, than GPU and Memory. Free tip: Whenever I build I PC, I start with the Display, to hit those metrics.
 
 ---
 
