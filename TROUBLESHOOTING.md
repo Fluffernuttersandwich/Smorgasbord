@@ -467,6 +467,7 @@ I have hundreds of hours played with these warnings present.
 - Optimize your Windows settings.
 - Lower your in-game Graphics Settings.
 - Disable some or all of the resource heavy mods.
+- Try using the Lossless Scaling App.
 - Invest in new hardware. For 7DtD, CPU is the most important, than GPU and Memory. 
 
 ---
