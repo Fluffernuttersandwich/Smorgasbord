@@ -113,8 +113,6 @@ Ideal if you are:
 ## Requirements & Hardware
 
 - Hardware capable of running vanilla 7DtD. If you can run the base game, you can run this list.
-- Some mods may reduce FPS by **15–30**.  Descent Requires 16GB of System RAM. Better Biomes is an FPS Hog!
-- Avoid RWG maps larger than **10k** on weak hardware
 
 
 <img width="627" height="372" alt="image" src="https://github.com/user-attachments/assets/90bcfd0f-68b5-4236-8161-6f68cbeeab26" />
@@ -264,7 +262,7 @@ Don't FOMO! The list isn't going anywhere!
 
 ## Troubleshooting & Known Issues
 
-All troubleshooting, logs, performance issues, and known problems are documented here:
+All troubleshooting, logs, list of resource heavy mods, performance issues, and known problems are documented here:
 
 ➡ **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)**
 
