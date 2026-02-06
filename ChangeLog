@@ -1,3 +1,58 @@
+2.5.2.14 13:00 EST 06FEB2026
+
+Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
+If you are happy with your current playthrough, don't update until you are ready to start a new game. 
+
+Comments:
+
+N/A
+
+Mods Removed: 
+
+N/A
+
+Mods Updated:
+
+"Quartz"
+"POI Scourge"
+"Minimize Mining Reliance"
+"KHZMusik Zombies"
+"KF SFX"
+"KF CUL"
+"Medical Conditions"
+"The Wasteland"
+"Audible Breaking Glass"
+"Goodbye Stone Tools"
+
+Mods Added:
+
+"Molotov cocktail shale oil" OP, Enabled.
+2nd recipe for Molotovs. 
+
+"Food Can Craftable" OP, enabled.
+Recipes that allow you to craft Canned Food.
+
+"Less Grass"
+"Less Tree" Performance, enabled.
+Reducing trees and grass can boost performance slightly (5-10 FPS). Must toggle mod in a new world.
+
+"Byteblazar's RWG Tweaks" Experimental, disabled.
+Not your average RWG tweaks. Improve POI diversity, prevent duplicates, cap POI tiers by biome, etc. 
+This mod can wreck your RWG process if you don't understand what you are doing. 
+Please read the NexusMods page carefully before using.
+Note from FNS: if using Modded POIs like those in Smorgasbord (above 100x100 size) with ByteBlazar's RWG Tweaks mod, set Wilderness POIs to Few when generating a world.
+I successfully tested the RWG Tweaks mod with these other RWG mods: ISI Randomized Traders, ISI World Gen Tweaker, and PGz All Map Size Generation.
+I have not tested this mod with CompoPack/CUBP, and wouldn't recommend the combination. 
+
+"16k_Default_Map_252" POIs, enabled.
+Another map for Smorgasbord, but jumbo-sized for you folks who play multiplayer, or just want a a massive world to explore in a long playthrough.
+I've been thinking about settling in for a slower progression longer playthrough that forces me to use Vehicle Madness for a better vehicle.  
+I used ByteBlazar's RWG Tweaks to create this Map.
+The main takeaway is this: you will not see duplicate POIs within the same biome.
+Yes, you will see duplicate POIs in different biomes.
+
+__________________________________________________________
+
 2.5.2.13 13:00 EST 30JAN2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
