@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.5.2.13 13:00 EST 30JAN2026
+**Smörgåsbord ModList Update:** ```2.5.2.14 10:00 EST 06FEB2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
 If you are happy with your current playthrough, don't update until you are ready to start a new game. 
@@ -13,15 +13,30 @@ N/A
 
 Mods Updated:
 
-"CAS" 
-"WalkerSim"
-"War3zuk HD Supply Drops"
-"Extended World Settings Plus"
+"Quartz"
+"POI Scourge"
+"Minimize Mining Reliance"
+"KHZMusik Zombies"
+"KF SFX"
+"KF CUL"
+"Medical Conditions"
+"The Wasteland"
+"Audible Breaking Glass"
+"Goodbye Stone Tools"
 
 Mods Added:
 
-"KHZMusik NPCs" NPC, disabled.
-Adds Psychos, Rogues, and Civilians.
+"Molotov cocktail shale oil" OP, Enabled.
+2nd recipe for Molotovs. 
 
-"KHZMusik Zombies" Zombies, enabled.
-Adds some new zombies.```
+"Food Can Craftable" OP, enabled.
+Recipes that allow you to craft Canned Food.
+
+"Less Grass"
+"Less Tree" Performance, enabled.
+Reducing trees and grass can boost performance slightly (5-10 FPS). Must toggle mod in a new world.
+
+"Byteblazar's RWG Tweaks" Experimental, disabled.
+Not your average RWG tweaks. Improve POI diversity, prevent duplicates, cap POI tiers by biome, etc. 
+This mod can wreck your RWG process if you don't understand what you are doing. 
+Please read the NexusMods page carefully before using. ```
