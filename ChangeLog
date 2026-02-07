@@ -1,3 +1,38 @@
+2.5.2.15 16:25 EST 07FEB2026
+
+Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
+If you are happy with your current playthrough, don't update until you are ready to start a new game. 
+
+Comments:
+
+1. Regarding "7 Days Super Resolution", Laydor released an Add-on for Nvidia GPU users called "Unity Nvidia Modules".
+You can choose to manually opt in to this yourself.
+It's optional, and requires EAC to be disabled. So, if you play vanilla with EAC enabled sometimes, don't do this.
+It requires you to manually drag the file into your 7DtD root directory to replace the vanilla files. 
+These optional files are to help improve image quality.
+If the game updates versions, you will probably need to repeat this manual installation process. 
+Reminder: Super Resolution is only for Windows, not Linux/Mac.  
+
+Mods Removed: 
+
+N/A
+
+Mods Updated:
+
+"LRS CAS"
+"LRS & Mumpfy Fallout Armor"
+"DismemberRandomizer"
+"7 Days Super Resolution"
+
+Mods Added:
+
+"Food Spoilage and Preserved Goods" Survivalist, Disabled.
+Introduces food spoilage to the game, and new preserved foods that do not spoil. 
+You have to read 55 Electrical Wiring magazines to unlock the ability to craft Powered Refrigerators to keep food from spoiling (into rotten flesh). 
+See NexusMods for details.
+
+__________________________________________________________
+
 2.5.2.14 13:00 EST 06FEB2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
