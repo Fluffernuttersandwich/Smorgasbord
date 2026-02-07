@@ -1,11 +1,17 @@
-**Smörgåsbord ModList Update:** ```2.5.2.14 13:00 EST 06FEB2026
+**Smörgåsbord ModList Update:** ```2.5.2.15 16:25 EST 07FEB2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
 If you are happy with your current playthrough, don't update until you are ready to start a new game. 
 
 Comments:
 
-N/A
+1. Regarding "7 Days Super Resolution", Laydor released an Add-on for Nvidia GPU users called "Unity Nvidia Modules".
+You can choose to manually opt in to this yourself.
+It's optional, and requires EAC to be disabled. So, if you play vanilla with EAC enabled sometimes, don't do this.
+It requires you to manually drag the file into your 7DtD root directory to replace the vanilla files. 
+These optional files are to help improve image quality and go into your game folder.
+If the game updates versions, you will probably need to repeat this manual installation process. 
+Reminder: Super Resolution is only for Windows, not Linux/Mac.  
 
 Mods Removed: 
 
@@ -13,41 +19,16 @@ N/A
 
 Mods Updated:
 
-"Quartz"
-"POI Scourge"
-"Minimize Mining Reliance"
-"KHZMusik Zombies"
-"KF SFX"
-"KF CUL"
-"Medical Conditions"
-"The Wasteland"
-"Audible Breaking Glass"
-"Goodbye Stone Tools"
+"LRS CAS"
+"LRS & Mumpfy Fallout Armor"
+"DismemberRandomizer"
+"7 Days Super Resolution"
 
 Mods Added:
 
-"Molotov cocktail shale oil" OP, Enabled.
-2nd recipe for Molotovs. 
+"Food Spoilage and Preserved Goods" Survivalist, Disabled.
+Introduces food spoilage to the game, and new preserved foods that do not spoil. 
+You have to read 55 Electircal Wiring magazines to unlcok the ability to craft Powered Refridgerators to keep food from spoiling (into rotten flesh). 
+See NexusMods for details.
 
-"Food Can Craftable" OP, enabled.
-Recipes that allow you to craft Canned Food.
-
-"Less Grass"
-"Less Tree" Performance, enabled.
-Reducing trees and grass can boost performance slightly (5-10 FPS). Must toggle mod in a new world.
-
-"Byteblazar's RWG Tweaks" Experimental, disabled.
-Not your average RWG tweaks. Improve POI diversity, prevent duplicates, cap POI tiers by biome, etc. 
-This mod can wreck your RWG process if you don't understand what you are doing. 
-Please read the NexusMods page carefully before using.
-Note from FNS: if using Modded POIs like those in Smorgasbord (above 100x100 size) with ByteBlazar's RWG Tweaks mod, set Wilderness POIs to Few when generating a world.
-I successfully tested the RWG Tweaks mod with these other RWG mods: ISI Randomized Traders, ISI World Gen Tweaker, and PGz All Map Size Generation.
-I have not tested this mod with CompoPack/CUBP, and wouldn't recommend the combination. 
-
-"16k_Default_Map_252" POIs, enabled.
-Another map for Smorgasbord, but jumbo-sized for you folks who play multiplayer, or just want a a massive world to explore in a long playthrough.
-I've been thinking about settling in for a slower progression longer playthrough that forces me to use Vehicle Madness for a better vehicle.  
-I used ByteBlazar's RWG Tweaks to create this Map.
-The main takeaway is this: you will not see duplicate POIs within the same biome.
-Yes, you will see duplicate POIs in different biomes.
 ```
