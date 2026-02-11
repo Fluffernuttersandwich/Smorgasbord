@@ -1,26 +1,69 @@
-**Smörgåsbord ModList Update:** ```2.5.2.16 11:00 EST 09FEB2026
+**Smörgåsbord ModList Update:** ```2.5.2.17 11:00 EST 11FEB2026
 
 Warning: There's no guarantee you can update the mod list and continue to play in the same save. 
 If you are happy with your current playthrough, don't update until you are ready to start a new game. 
 
 Comments:
 
-Small correction in the Survivalist Profile. 
-I accidentally left "Sleep until morning" and "Insomnia" both enabled. 
-I corrected this.
+N/A
 
 Mods Removed: 
 
-N/A
+"Loot Abundance Not Ignored" Because it was redundant with the new "Not So Empty" mod. 
 
 Mods Updated:
 
-"EFTX Suite"
+"Vault Pack POIs"
+"Medical Conditions"
 "RWG Tweaks"
-"(V2) Oakraven Chicken Coops"
+"DismemberRandomizer"
+"The Wasteland"
 
 Mods Added:
 
-N/A
+"DDG_AutopickupArrowsAndBolts" QoL, disabled. 
+Autopickup. Arrows and bolts are automatically collected when you pass over them. Also applies to dead entities with arrows/bolts in their bodies.
+Visual indicators (NavObjects). An arrow icon will appear (ONLY on the screen, not on the compass or map) indicating the exact location where the projectile is “sticked,” showing the distance between you and it. 
+If it is on an entity, the number of projectiles “sticked” will also appear.
+Loot grouping on corpses. When despawning a corpse, incrusted arrows/bolts are released into bags grouped by type and quantity, avoiding dozens of individual "bags".
+From Fin: The on-screen NavObjects are too visually busy for my taste. I wish there was a way to disable the NavObjects.  
+
+"Halicopter" QoL, enabled.
+Halicopter is a new drone that can return to your base to drop items off for you while you carry on exploring.
+Place a Halipad at your base, fill him up and ask him to go home. The bags of loot will be waiting for you when you get back (hopefully).
+If you start a new game, you will receive one free from the trader.
+If you enable this mod midsave, it won't hurt anything, but you will need to award yourself the halicopter from the creative menu/craft it yourself.
+
+"Black Wolf's better full armor set bonuses (1.0 and 2.0)" OP, enabled.
+From the Author:
+After playing for a while I noticed that despite the developers and the game encouraging it, most full armor sets are simply not worth picking over wearing the best pieces of armor available from different types. 
+This mod makes wearing a complete set of vanilla armor worthwhile.
+See NexusMods page for details.
+
+"(TMO) Wandering Hordes PLUS x EAC Friendly x v2.4Stable" Zombies, disabled.
+Will not work with WalkerSim! 
+From the Author: Want to take control of your Horde Sizes and how often they Spawn in? This is the Mod for you. Simple. Effective. Scary as Hell.
+
+"Zombie Invasions" Zombies, disabled.
+Hordes of zombies will invade and attack you every in game day. 
+Once the timer runs out zombies will spawn and hunt you down. 
+Invasions get harder each time they happen. 
+Also included items that will add/remove the invasion buff. Need to start a new game. 
+If you don't want to start a new game, you need to make the Hive concoction and that will allow you to be invaded.
+
+"More Armor Plates 1.0" OP, disabled.
+Adds new armor mods.
+
+"Modern Houses Revival" POI, enabled.
+Brings back 3 vanilla modern houses missing in 2.5 RWG.
+Reminder: You will need to perform Advanced RWG to create a new world to see these.
+
+"Not So Empty" QoL, enabled.
+From the Author:
+If you ever tried lowering Loot Abundance under 100%, you might have noticed containers often have no items as a result.
+This design is intentional, but not great if you ask me.
+This tiny mod tweaks loot abundance so that every time it detects a container is empty as a result of loot abundance (as opposed to just having bad luck), one extra roll is made, with a chance of spawning one item.
+The chance of this roll succeeding is the loot abundance value itself, so at 50% loot abundance, it's a 50% chance, and at 25% it's 25%, etc.
+In addition to that, it applies an XML tweak that causes all containers to honor loot abundance, so things are more balanced at the lower end of the scale.
 
 ```
