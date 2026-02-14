@@ -141,4 +141,27 @@ Fire can be hard on server performance and sometimes act buggy.
 
 4. Also be aware of things like your settings on either Remote Crafting/Beyond Storage 2 if you choose either.
    
-5. A Community Member reported the mod "More Gore" is not compatible on Dedicated Servers.  
+5. A Community Member reported the mod "More Gore" is not compatible on Dedicated Servers.
+
+
+From Community Member: Mix
+
+[Damage Numbers]
+no major problems with this mod it just throws a massive amount of errors in the server console none stop
+
+[Replace Zombie Knockdown Animation With Kneel]
+this mod will randomly throw NullReferenceException for a random client causing the server to freeze them go in to a massive memory leak tail spin
+
+[QuickStack]
+would desync players forcing every one to relog
+
+[StorageSync]
+would throw a UI error and lock a client into a loot menu stuck at 0% forcing them to altf4
+
+[Skyrim Style Lockpicking MiniGame]
+worked sometimes but would throw random NullReferenceException errors causing server to lock
+
+[POI Scourge]
+not causing any major issues but very bugy on dedicated
+jack o lanterns keep spawning in cleared pois like are base and across the street to the point theres 50+ on 1 spot and after you clear a Poi of you lure a zombie in to it and kill it you get rewarded for clearing it again cooking the scourge token economy
+
