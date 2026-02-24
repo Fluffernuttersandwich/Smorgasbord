@@ -203,7 +203,7 @@ This significantly improves:
 
 ---
 
-### C. Consider Lossless Scaling
+### :duck:  C. Consider Lossless Scaling
 
 Try **Lossless Scaling’s Frame Generation**.
 
@@ -215,6 +215,10 @@ It is rarely worth the effort.
 If performance is insufficient:
 - Save up
 - Upgrade your GPU
+
+
+<img width="2178" height="1998" alt="image" src="https://github.com/user-attachments/assets/cb6c2fb7-0ec0-4b69-bd4b-6f6fc7e26b36" />
+
 
 ---
 
