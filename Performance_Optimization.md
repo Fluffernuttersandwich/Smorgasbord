@@ -222,7 +222,7 @@ If performance is insufficient:
 
 ---
 
-### :desktop:  D. Upgrade Your Hardware
+### :computer:  D. Upgrade Your Hardware
 
 Sometimes the honest answer is:
 
