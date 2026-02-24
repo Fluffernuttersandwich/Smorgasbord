@@ -29,6 +29,10 @@ Feel free to experiment based on your priorities:
 - Visual fidelity
 - Frame pacing stability
 
+
+<img width="1558" height="1120" alt="image" src="https://github.com/user-attachments/assets/960473a2-3bfa-45b4-b5e5-933208679cdc" />
+
+
 ---
 
 # 2️⃣ Super Resolution Mod (Included in MO2)
@@ -84,6 +88,10 @@ This enables GPU-specific upscaling and frame generation options inside 7DtD’s
 7. **Apply Changes**
    - Click **Apply**
 
+
+<img width="2526" height="858" alt="image" src="https://github.com/user-attachments/assets/2e0d1c04-f2ca-4663-ab73-29c63cc7b3e6" />
+
+
 ---
 
 # 3️⃣ 7DtD In-Game Graphics Settings
@@ -106,11 +114,19 @@ Adjust accordingly.
 
 # 4️⃣ Fixing Low Resolution & Blurry Textures
 
+
+<img width="882" height="802" alt="image" src="https://github.com/user-attachments/assets/575db94c-991c-4a9e-88da-8342450cb12a" />
+
+
 If you experience:
 - Blurry texture pop-in
 - Low-resolution textures loading slowly
 
 Enable the **“No Blurry Textures”** mod in MO2.
+
+
+<img width="2554" height="1084" alt="image" src="https://github.com/user-attachments/assets/2cc1e969-7d29-4f4a-960a-5d8a2d0d9b94" />
+
 
 ### Important Notes
 
