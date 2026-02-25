@@ -46,6 +46,12 @@ My Display's Max Refresh Rate is 165Hz, so I set my Max FPS Rate to 165 as well.
 
 By Application, on some intensive games, I might lock FPS lower to 60, 120, etc, depending on the game.
 
+Generally you want to lock an individual game's Max FPS Rate to the average FPS you get in your game.
+
+Let's say your FPS for Smorgasbord bounces between 40 and 90 FPS, but mostly hangs out at 60, lock your FPS to 60.
+
+Nvidia Control Panel is not the only way to lock FPS, there are other applications and methods, but this one works fine.
+
 
 <img width="1992" height="1446" alt="image" src="https://github.com/user-attachments/assets/0ff7d659-943e-421c-982b-f2cf99461288" />
 
