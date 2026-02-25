@@ -66,9 +66,11 @@ This mod enables GPU-specific frame generation options inside 7DtD’s video set
 
 ### NVIDIA GPUs
 - Use **DLSS**
-- Try lower presets like:
+- To maximize performance, experiment with lower presets like:
   - Balanced
   - Performance
+
+I personally use a 5090, with the Nvidia App DLSS Preset M, and in-game DLSS Preset on Ultra Quality or DLAA.
 
 ---
 
@@ -265,14 +267,15 @@ Try **Lossless Scaling’s Frame Generation**.
 Avoid going down the:
 > “Dual-GPU optimization rabbit hole”
 
-It is rarely worth the effort.
+Dual-GPU Lossless Scaling is rarely worth the effort.
 
 If performance is insufficient:
-- Save up
+- Save up $
 - Upgrade your GPU
 
 
 <img width="2178" height="1998" alt="image" src="https://github.com/user-attachments/assets/cb6c2fb7-0ec0-4b69-bd4b-6f6fc7e26b36" />
+
 
 
 ---
@@ -293,6 +296,16 @@ If you want:
 
 You need hardware capable of supporting that.
 
+
+**For Advanced Users**: you could also look into undervolting, and overclocking your hardware. 
+
+This is very hardware-model and unique hardware-piece specific.
+
+You can go to YouTube, and look up your specific GPU/CPU/Memory and try to squeeze a bit more out.
+I was able to safely undervolt and overclock my GPU, and give my CPU a slight bump. 
+However, my Memory didn't win the "Silicon Lottery", and I can only use the normal BIOS EXPO/DOCP boost.
+
+
 ---
 
 # Final Advice
@@ -309,3 +322,7 @@ Smörgåsbord gives you modular control — use it wisely.
 Adjust settings intentionally.
 
 Don’t blindly copy someone else’s configuration.
+
+
+
+
