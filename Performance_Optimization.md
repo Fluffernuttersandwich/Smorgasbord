@@ -143,7 +143,7 @@ If you experience:
 Enable the **“No Blurry Textures”** mod in MO2.
 
 
-If not using Smorgasbord, you can download the list from here:
+If not using Smorgasbord, you can download the mod from here:
 
 https://www.nexusmods.com/7daystodie/mods/7343
 
