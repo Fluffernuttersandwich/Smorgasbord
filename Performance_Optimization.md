@@ -18,6 +18,8 @@ This video guide walks through various Windows, BIOS, and NVIDIA Control Panel o
 - I do **not** agree with every setting shown in the video.
 - The creator primarily focuses on **latency reduction for competitive online gaming**.
 - I personally play single-player and prioritize **visual quality over latency**.
+- Before you make any changes to regedit, make a Windows Restore Point as a back-up!
+- If you don't feel comfortable doing the regedit portion, just skip it.
 
 ### Example Difference
 
