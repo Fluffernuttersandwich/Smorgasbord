@@ -35,13 +35,21 @@ Feel free to experiment based on your priorities:
 <img width="1558" height="1120" alt="image" src="https://github.com/user-attachments/assets/960473a2-3bfa-45b4-b5e5-933208679cdc" />
 
 
+https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
+
+
 ---
 
 # 2️⃣ Super Resolution Mod (Included in MO2)
 
-In Mod Organizer 2 (MO2), I include a mod called **Super Resolution**.
+The Smorgasbord Mod List already includes this mod in Mod Organizer 2 (MO2).
 
-This enables GPU-specific upscaling and frame generation options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
+If you are not using Smorgasbord, you can download **Super Resolution** from here:
+
+https://www.nexusmods.com/7daystodie/mods/6781
+
+
+This mod enables GPU-specific frame generation options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
 
 
 <img width="2308" height="764" alt="image" src="https://github.com/user-attachments/assets/7c9d8aaf-dd20-4c0b-ad8c-386f634569a9" />
@@ -98,6 +106,10 @@ This enables GPU-specific upscaling and frame generation options inside 7DtD’s
 <img width="2526" height="858" alt="image" src="https://github.com/user-attachments/assets/2e0d1c04-f2ca-4663-ab73-29c63cc7b3e6" />
 
 
+You can download the Nvidia App from:
+https://www.nvidia.com/en-eu/software/nvidia-app/
+
+
 ---
 
 # 3️⃣ 7DtD In-Game Graphics Settings
@@ -126,9 +138,14 @@ Adjust accordingly.
 
 If you experience:
 - Blurry texture pop-in
-- Low-resolution textures loading slowly
+- Low-resolution textures loading slowly (PS2 graphics)
 
 Enable the **“No Blurry Textures”** mod in MO2.
+
+
+If not using Smorgasbord, you can download the list from here:
+
+https://www.nexusmods.com/7daystodie/mods/7343
 
 
 <img width="2554" height="1084" alt="image" src="https://github.com/user-attachments/assets/2cc1e969-7d29-4f4a-960a-5d8a2d0d9b94" />
