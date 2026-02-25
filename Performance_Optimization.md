@@ -129,6 +129,23 @@ To enable the Nvidia Overlay within the Nvidia App:
 <img width="2856" height="1470" alt="image" src="https://github.com/user-attachments/assets/b1cb09a3-79ba-400d-ba2e-1566a121c7c0" />
 
 
+You can edit your overlay's ddisplay setting like this:
+
+Press Alt+z to get into the Nvidia Overlay once you toggled it to be availabe within the app. 
+
+Then click the "Statistics" button at the bottom.
+
+
+<img width="1022" height="2158" alt="image" src="https://github.com/user-attachments/assets/2b488fe5-49f0-4ec2-bfc0-eb6077a01b00" />
+
+
+<img width="1013" height="1390" alt="image" src="https://github.com/user-attachments/assets/7384fb3a-5c73-4389-a6a6-5d006a6147a1" />
+
+
+<img width="3838" height="1470" alt="image" src="https://github.com/user-attachments/assets/1c86ba34-ec3c-4f8a-8925-954be82b40ac" />
+
+
+
 ---
 
 # 3️⃣ 7DtD In-Game Graphics Settings
