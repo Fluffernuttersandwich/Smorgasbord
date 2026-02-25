@@ -109,7 +109,24 @@ This mod enables GPU-specific frame generation options inside 7DtD’s video set
 
 
 You can download the Nvidia App from:
+
 https://www.nvidia.com/en-eu/software/nvidia-app/
+
+
+Inside the Nvidia App, you can also Automatically Tune your GPU for a slight performance bump. 
+
+Close all other applications, toggle the button in this screenshot, and let it run. 
+
+It may take a few hours, it's best to launch this process prior to going to bed and letting it run overnight.
+
+
+<img width="2880" height="1674" alt="image" src="https://github.com/user-attachments/assets/848e0349-5d72-4643-8fae-50981cb73d7a" />
+
+
+To enable the Nvidia Overlay within the Nvidia App:
+
+
+<img width="2856" height="1470" alt="image" src="https://github.com/user-attachments/assets/b1cb09a3-79ba-400d-ba2e-1566a121c7c0" />
 
 
 ---
