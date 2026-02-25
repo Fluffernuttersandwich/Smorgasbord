@@ -185,7 +185,10 @@ Your performance depends heavily on:
 - Active mod selection
 - NPC usage
 - Biome density mods
+- Number of entities and shadow-producing light sources on screen
 
+The more objects and shadows the game has to render, the harder it is on performance.  
+Trees, grass, zombies, NPCs, debris, modded blocks, modded POIs, etc. 
 Adjust accordingly.
 
 ---
