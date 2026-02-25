@@ -38,7 +38,13 @@ The two most important settings in the Nvidia Control Panel are Max Frame Rate a
 Set Shader Cache Size to 10GB.
 
 
-Max Frame Rate:
+## Max Frame Rate and why you should cap your FPS:
+
+You are playing an open world voxel game with mods. 
+When you move around the world the game loads and unloads stuff. 
+Your CPU, RAM speed and even storage read speeds become bottlenecks. 
+Any sudden drop of FPS will be perceived by you as stuttering, so a workaround is to cap FPS closer to the lower bound _your PC can deliver at a constant rate no matter what._
+
 
 Globally (for all applications), I set Max Frame Rate to my monitors Max Refresh Rate. 
 
@@ -46,11 +52,11 @@ My Display's Max Refresh Rate is 165Hz, so I set my Max FPS Rate to 165 as well.
 
 By Application, on some intensive games, I might lock FPS lower to 60, 120, etc, depending on the game.
 
-Generally you want to lock an individual game's Max FPS Rate to the average FPS you get in your game.
+Generally you want to lock an individual game's Max FPS Rate to the average FPS you get in your (modded) game.
 
-Let's say your FPS for Smorgasbord bounces between 40 and 90 FPS, but mostly hangs out at 60, lock your FPS to 60.
+Let's say your FPS for Smorgasbord bounces between 40 and 90 FPS, but mostly hangs out at 60. You should lock your FPS to 60.
 
-Nvidia Control Panel is not the only way to lock FPS, there are other applications and methods, but this one works fine.
+Nvidia Control Panel is _not_ the only way to lock FPS, there are other applications and methods, but this one works fine.
 
 
 <img width="1992" height="1446" alt="image" src="https://github.com/user-attachments/assets/0ff7d659-943e-421c-982b-f2cf99461288" />
