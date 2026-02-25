@@ -293,3 +293,7 @@ All troubleshooting, logs, list of resource heavy mods, performance issues, and 
 Not expected — always appreciated.
 
 ▶ https://next.nexusmods.com/profile/FlufferNutterSandwich
+
+
+<img width="1716" height="588" alt="image" src="https://github.com/user-attachments/assets/8c94316e-6c5f-405a-8a7f-5f6a21276b9f" />
+
