@@ -32,7 +32,23 @@ Feel free to experiment based on your priorities:
 - Frame pacing stability
 
 
-<img width="1558" height="1120" alt="image" src="https://github.com/user-attachments/assets/960473a2-3bfa-45b4-b5e5-933208679cdc" />
+The two most important settings in the Nvidia Control Panel are Max Frame Rate and Shader Cache Size.
+
+
+Set Shader Cache Size to 10GB.
+
+
+Max Frame Rate:
+
+Globally (for all applications), I set Max Frame Rate to my monitors Max Refresh Rate. 
+
+My Display's Max Refresh Rate is 165Hz, so I set my Max FPS Rate to 165 as well.
+
+By Application, on some intensive games, I might lock FPS lower to 60, 120, etc, depending on the game.
+
+
+<img width="1992" height="1446" alt="image" src="https://github.com/user-attachments/assets/0ff7d659-943e-421c-982b-f2cf99461288" />
+
 
 
 You can download the Nvidia Control Panel from here:
