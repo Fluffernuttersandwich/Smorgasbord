@@ -70,6 +70,18 @@ https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
 
 ---
 
+
+## Use Process Lasso to maximize your CPU for gaming
+
+https://www.youtube.com/watch?v=puuGDPXmcfQ
+
+https://bitsum.com/
+
+
+---
+
+
+
 # 2️⃣ Super Resolution Mod (Included in MO2)
 
 The Smorgasbord Mod List already includes this mod in Mod Organizer 2 (MO2).
