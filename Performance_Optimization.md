@@ -83,7 +83,9 @@ https://bitsum.com/
 Once again, before you make any changes to regedit, make a Windows Restore Point as a back-up!
 
 
-ISLC (Intelligent Standby List Cleaner) for Memory (RAM) - Boost FPS and Reduce Latency!
+---
+
+## ISLC (Intelligent Standby List Cleaner) for Memory (RAM) - Boost FPS and Reduce Latency!
 
 
 https://www.youtube.com/watch?v=4uTZb2nhJD8
