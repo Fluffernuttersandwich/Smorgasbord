@@ -28,7 +28,7 @@
 - [Credits](#credits)
 - [Donations](#donations)
 - [Troubleshooting & Known Issues](#troubleshooting--known-issues)
-- [Performance Optimization](#performance--optimization)
+- [Performance Optimization](#performance-optimization)
 
 ---
 
