@@ -268,6 +268,10 @@ All troubleshooting, logs, list of resource heavy mods, performance issues, and 
 
 ---
 
+A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7DtD overhauls like Smorgasbord.
+
+➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+
 ## Additional Links
 
 - YouTube: https://www.youtube.com/@FlufferNutterSandwich
