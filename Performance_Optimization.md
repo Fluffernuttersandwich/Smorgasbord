@@ -21,6 +21,9 @@ This video guide walks through various Windows, BIOS, and NVIDIA Control Panel o
 - Before you make any changes to regedit, make a Windows Restore Point as a back-up!
 - If you don't feel comfortable doing the regedit portion, just skip it.
 
+How to make a Windows 11 Restore Point: https://www.youtube.com/watch?v=Nm2EjpsOXms
+
+
 ### Example Difference
 
 - I leave **VSync enabled in NVIDIA Control Panel**
@@ -41,8 +44,8 @@ Set Shader Cache Size to 10GB.
 ## Max Frame Rate and why you should cap your FPS:
 
 You are playing an open world voxel game with mods. 
-When you move around the world the game loads and unloads stuff. 
-Your CPU, RAM speed and even storage read speeds become bottlenecks. 
+When you move around the world, the game loads and unloads stuff. 
+Your CPU, Memory, and even storage-read speeds become bottlenecks. 
 Any sudden drop of FPS will be perceived by you as stuttering, so a workaround is to cap FPS closer to the lower bound _your PC can deliver at a constant rate no matter what._
 
 
@@ -76,6 +79,8 @@ https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
 https://www.youtube.com/watch?v=puuGDPXmcfQ
 
 https://bitsum.com/
+
+Once again, before you make any changes to regedit, make a Windows Restore Point as a back-up!
 
 
 ---
