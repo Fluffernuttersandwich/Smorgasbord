@@ -28,6 +28,7 @@
 - [Credits](#credits)
 - [Donations](#donations)
 - [Troubleshooting & Known Issues](#troubleshooting--known-issues)
+- [Performance Optimization](#performance--optimization)
 
 ---
 
@@ -268,15 +269,18 @@ All troubleshooting, logs, list of resource heavy mods, performance issues, and 
 
 ---
 
+## Performance Optimization
+
 A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7DtD overhauls like Smorgasbord.
 
 ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+
+---
 
 ## Additional Links
 
 - YouTube: https://www.youtube.com/@FlufferNutterSandwich
 - POI Creation Guide: https://www.nexusmods.com/7daystodie/articles/790
-- Performance Tuning: https://www.nexusmods.com/7daystodie/articles/792
 - Modding Social Contract: https://www.nexusmods.com/7daystodie/articles/806
 - MO2 Guide: https://www.nexusmods.com/7daystodie/articles/1053
 
@@ -286,9 +290,9 @@ A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7Dt
 
 - YOU for reading all of this
 - Wabbajack Team
-- Mod Authors
+- 7DtD Mod Authors for all the great mods
 - TFP for making the game we love
-- Guppy’s Discord Community
+- Guppy’s Discord Community for hosting us
 
 ---
 
