@@ -76,11 +76,11 @@ https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
 
 ## Use Process Lasso to maximize your CPU for gaming
 
-https://www.youtube.com/watch?v=puuGDPXmcfQ
+https://www.youtube.com/watch?v=xXpnCqXxwz8
 
 https://bitsum.com/
 
-Once again, before you make any changes to regedit, make a Windows Restore Point as a back-up!
+I recommend you watch this video at half-speed to follow along.
 
 
 ---
