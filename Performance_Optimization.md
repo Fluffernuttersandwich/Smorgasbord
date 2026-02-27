@@ -1,8 +1,11 @@
-# 🎮 Smörgåsbord Performance Optimization Guide
-
-This document outlines recommended steps to improve performance when using the Smörgåsbord ModList for 7 Days to Die.
+# 🎮 Performance Optimization Guide for PC Gaming and 7DtD specifically
 
 Not all suggestions apply equally to every system.  
+
+Many of the options are hardware specific, or based on personal preference.
+
+If you do everything in this guide, you could see a 2-20% boost to FPS in your gaming.
+
 Your mileage may vary.
 
 ---
@@ -18,8 +21,8 @@ This video guide walks through various Windows, BIOS, and NVIDIA Control Panel o
 - I do **not** agree with every setting shown in the video.
 - The creator primarily focuses on **latency reduction for competitive online gaming**.
 - I personally play single-player and prioritize **visual quality over latency**.
-- Before you make any changes to regedit, make a Windows Restore Point as a back-up!
-- If you don't feel comfortable doing the regedit portion, just skip it.
+- **Before you make any changes to regedit, make a Windows Restore Point as a back-up!**
+- _If you don't feel comfortable doing the regedit portion, just skip it._
 
 How to make a Windows 11 Restore Point: https://www.youtube.com/watch?v=Nm2EjpsOXms
 
@@ -122,11 +125,13 @@ This mod enables GPU-specific frame generation options inside 7DtD’s video set
 
 ### NVIDIA GPUs
 - Use **DLSS**
-- To maximize performance, experiment with lower presets like:
+- To maximize performance, you may choose to experiment with lower presets like:
   - Balanced
   - Performance
 
-I personally use a 5090, with the Nvidia App DLSS Preset M, and in-game DLSS Preset on Ultra Quality or DLAA.
+I personally use a 5090, with the Nvidia App DLSS Preset M, and in-game DLSS Preset on Ultra Quality or DLAA for 7DtD.
+
+The 7DtD Super Resolution mod is only for Windows OS! Not Linux, not Mac.
 
 ---
 
@@ -208,7 +213,7 @@ Then click the "Statistics" button at the bottom.
 
 # 3️⃣ 7DtD In-Game Graphics Settings
 
-Follow this guide and adjust according to your hardware and mod load:
+Follow this guide and adjust according to your hardware and personal preferences:
 
 ▶ https://youtu.be/rN1r5hFoWOo
 
@@ -222,12 +227,12 @@ Your performance depends heavily on:
 - Number of entities and shadow-producing light sources on screen
 
 The more objects and shadows the game has to render, the harder it is on performance.  
-Trees, grass, zombies, NPCs, debris, modded blocks, modded POIs, etc. 
+Trees, grass, animals, zombies, NPCs, light sources, debris, decorations, modded blocks, modded POIs, etc. 
 Adjust accordingly.
 
 ---
 
-# 4️⃣ Fixing Low Resolution & Blurry Textures
+# 4️⃣ Fixing Low Resolution & Blurry Textures in 7DtD
 
 
 <img width="882" height="802" alt="image" src="https://github.com/user-attachments/assets/575db94c-991c-4a9e-88da-8342450cb12a" />
@@ -299,7 +304,7 @@ Leave **at least 100GB free** on the drive where:
 - The game is installed
 - The modlist is installed
 
-Games use overhead storage during runtime.
+Games use overhead storage during runtime, if you don't have any, it can cause a slowdown.
 
 ---
 
@@ -322,20 +327,21 @@ This significantly improves:
 
 ### :duck:  C. Consider Lossless Scaling
 
-Try **Lossless Scaling’s Frame Generation**.
+Try **Lossless Scaling’s Frame Generation**. 
+It costs $7USD on Steam, but occasionally goes on sale for less.
+It can add Frame Generation to games that don't natively support it.
+This can often double your FPS with "fake frames" in many games.
 
 Avoid going down the:
 > “Dual-GPU optimization rabbit hole”
-
-Dual-GPU Lossless Scaling is rarely worth the effort.
-
-If performance is insufficient:
-- Save up $
-- Upgrade your GPU
+Dual-GPU Lossless Scaling is rarely worth the effort. 
+It's more hassle than it's work.
+Minimal performance boost, doesn't work on many games, or is a hassle to get it to work.
+I speak as someone with expereince, don't bother with Dual-GPU LSFG. 
+Just save up $, and upgrade your main GPU and other components.
 
 
 <img width="2178" height="1998" alt="image" src="https://github.com/user-attachments/assets/cb6c2fb7-0ec0-4b69-bd4b-6f6fc7e26b36" />
-
 
 
 ---
@@ -377,12 +383,8 @@ Performance tuning is always a balance between:
 - Frame pacing
 - Hardware limitations
 
-Smörgåsbord gives you modular control — use it wisely.
+For 7DtD, Smörgåsbord gives you modular control of your mods — use it wisely.
 
 Adjust settings intentionally.
 
 Don’t blindly copy someone else’s configuration.
-
-
-
-
