@@ -201,7 +201,7 @@ To enable the Nvidia Overlay within the Nvidia App:
 <img width="2856" height="1470" alt="image" src="https://github.com/user-attachments/assets/b1cb09a3-79ba-400d-ba2e-1566a121c7c0" />
 
 
-You can edit your overlay's ddisplay setting like this:
+You can edit your overlay's display setting like this:
 
 Press Alt+z to get into the Nvidia Overlay once you toggled it to be availabe within the app. 
 
@@ -344,6 +344,7 @@ This can often double your FPS with "fake frames" in many games.
 Avoid going down the:
 > “Dual-GPU optimization rabbit hole”
 Dual-GPU Lossless Scaling is rarely worth the effort. 
+
 It's more hassle than it's work.
 Minimal performance boost, doesn't work on many games, or is a hassle to get it to work.
 I speak as someone with expereince, don't bother with Dual-GPU LSFG. 
@@ -352,6 +353,8 @@ Just save up $, and upgrade your main GPU and other components.
 
 <img width="2178" height="1998" alt="image" src="https://github.com/user-attachments/assets/cb6c2fb7-0ec0-4b69-bd4b-6f6fc7e26b36" />
 
+
+For some games (not 7DtD), you can also investigate "PureDark". It's a pay-for application, but it's incredible for games like modded Skyrim.
 
 ---
 
