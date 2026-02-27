@@ -70,7 +70,7 @@ Nvidia Control Panel is _not_ the only way to lock FPS, there are other applicat
 
 
 **Global Setting**
-<img width="1992" height="1446" alt="image" src="https://github.com/user-attachments/assets/0ff7d659-943e-421c-982b-f2cf99461288" />
+<img width="2012" height="1464" alt="image" src="https://github.com/user-attachments/assets/708a66a3-3245-4760-9942-2aee6aa50b60" />
 
 
 **Application Setting**
