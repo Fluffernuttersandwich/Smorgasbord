@@ -1,4 +1,4 @@
-# 🎮 Performance Optimization Guide for PC Gaming and 7DtD specifically
+# 🎮 Performance Optimization Guide for PC Gaming
 
 Not all suggestions apply equally to every system.  
 
