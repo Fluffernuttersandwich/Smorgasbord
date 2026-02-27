@@ -119,7 +119,7 @@ If you are not using Smorgasbord, you can download **Super Resolution** from her
 https://www.nexusmods.com/7daystodie/mods/6781
 
 
-This mod enables GPU-specific frame generation options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
+This mod enables GPU-specific Upscaling options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
 
 
 <img width="2308" height="764" alt="image" src="https://github.com/user-attachments/assets/7c9d8aaf-dd20-4c0b-ad8c-386f634569a9" />
