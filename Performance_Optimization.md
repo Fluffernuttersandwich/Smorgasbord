@@ -4,7 +4,7 @@ Not all suggestions apply equally to every system.
 
 Many of the options are hardware specific, or based on personal preference.
 
-If you do everything in this guide, you could see a 2-20% boost to FPS in your gaming.
+If you do everything in this guide, you could see a 2-30% boost to FPS in your gaming.
 
 Your mileage may vary.
 
