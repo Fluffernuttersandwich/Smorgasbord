@@ -58,7 +58,7 @@ Globally (for all applications), I set Max Frame Rate to my monitors Max Refresh
 
 My Display's Max Refresh Rate is 165Hz, so I set my Max FPS Rate to 165 as well.
 
-By Application, on some intensive games, I might lock FPS lower to 60, 120, etc, depending on the game.
+By Application, on some intensive games, I might lock FPS lower to 60 (Skyrim), 120, etc, depending on the game.
 
 Generally you want to lock an individual game's Max FPS Rate to the average FPS you get in your (modded) game.
 
