@@ -8,6 +8,8 @@ If you do everything in this guide, you could see a 2-20% boost to FPS in your g
 
 Your mileage may vary.
 
+This guide was written primarily for modded 7DtD, but can be beneficial for any PC Game.
+
 ---
 
 # 1️⃣ Optimizing Windows 11 for Gaming
