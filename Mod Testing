@@ -1,12 +1,14 @@
-**Smörgåsbord ModList Update:** ```2.5.2.20 20:20 EST 25FEB2026
+**Smörgåsbord ModList Update:** ```2.5.2.20 08:30 EST 27FEB2026
 
 Comments:
 
-N/A
+We're still on STABLE game version 2.5. 
+Smorgasbord will not move to v2.6 until it goes STABLE.
+I haven't tested it on 2.6 yet...
 
 Mods Removed:
 
-N/A
+Superfluous Steel Suite mods. Thanks wellslls
 
 Mods Updated:
 
@@ -18,7 +20,8 @@ Mods Updated:
 "Army Biological Center" POI
 "GoFasterOnRoads"
 "PerkMastery"
-"AlternativeBloodMoons" Added GEARS support.
+"AlternativeBloodMoons" Added GEARS support. Thanks ALo.
+"Singularity"
 
 Mods Added:
 
@@ -27,7 +30,7 @@ Reduces grass, trees, debris, and makes performance increases.
 This is best for low-end systems and servers.
 
 "Sifu Drathos Master Conductor" Audio, disabled.
-Music overhaul mod.
+Music overhaul mod. Some of it's great, and it's fun to try for the variety.
 
 "OmniSprint" OP, disabled.
 Sprint in any direction, not just forward.
@@ -39,13 +42,14 @@ Does what it says.
 Does what it says.
 
 "Discord Log Hook" QoL, disabled.
-Dicord Log Hook mod that allows dedicated server operators show game messages in their discord.
+Discord Log Hook mod that allows dedicated server operators show game messages in their Discord.
 
 "Wash Your Body" Standard, enabled.
 Adds sinks, showers, and baths you can craft to wash away the Smell debuff. 
-Search for "Plumbing" in the crafting menu to create the block. 
+Search for "Plumbing" in the crafting menu to create the new block. 
 You can change the model of the Block to shower, bath, sink, etc.
 Go near the block, loot it, it will take a minute to wash your body, but it grants you 60 minutes of smell immunity.
+I was working on a similar consumable Deodorant Spray, but can't get it to work, if someone wants to help...
 
 "LittleRedSonja Ash Williams NPC" NPCs, disabled.
 Ash, from the Evil Dead series.
@@ -55,6 +59,12 @@ Dog Training facility.
 
 "Rainstorm" Performance, enabled.
 Overhauls the vanilla clouds, skybox, and visual weather effects systems. 
-It adds new volumetric clouds and volumetric fog and a physically based skybox, with more to come.
+It adds new volumetric clouds and volumetric fog and a physically based skybox, with more to come. 
+You might see a slight hit to performance, 1-5 FPS.
+
+"Drone Rework" Standard, enabled.
+You add various (vanilla) medical items to your (vanilla) Drone's Inventory, it detects your (vanilla) ailments and uses the right meds automatically.
+Example: Player breaks arm, Drone has a cast in it's inventory, Drone applies cast to player.
+
 
 ```
