@@ -276,6 +276,7 @@ If you are struggling with FPS, consider disabling heavier mods first.
 | NPCCore + NPC Mods | -10 to -30 FPS |
 | CompoPack | -5 to -20 FPS |
 | CUBP | -15 to -30 FPS |
+| Rainstorm | -1 to -5 FPS |
 
 ---
 
