@@ -58,7 +58,9 @@ Globally (for all applications), I set Max Frame Rate to my monitors Max Refresh
 
 My Display's Max Refresh Rate is 165Hz, so I set my Max FPS Rate to 165 as well.
 
-By Application, on some intensive games, I might lock FPS lower to 60 (Skyrim), 120, etc, depending on the game.
+However, you can and should cap FPS by Application for games like 7DtD.
+On each intensive (or heavily modded overhaul) game, you should test it yourself.
+On some older titles like Skyrim and Fallout New Vegas, you want to cap FPS to 60, but then use other tools for Frame Generation.
 
 Generally you want to lock an individual game's Max FPS Rate to the average FPS you get in your (modded) game.
 
@@ -67,7 +69,12 @@ Let's say your FPS for Smorgasbord bounces between 40 and 90 FPS, but mostly han
 Nvidia Control Panel is _not_ the only way to lock FPS, there are other applications and methods, but this one works fine.
 
 
+**Global Setting**
 <img width="1992" height="1446" alt="image" src="https://github.com/user-attachments/assets/0ff7d659-943e-421c-982b-f2cf99461288" />
+
+
+**Application Setting**
+<img width="1458" height="1138" alt="image" src="https://github.com/user-attachments/assets/dc2c97ae-ce40-48c1-a839-c5edeba96f3c" />
 
 
 
