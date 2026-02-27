@@ -2,13 +2,15 @@
 
 Comments:
 
-We're still on STABLE game version 2.5. 
+1. We're still on STABLE game version 2.5. 
 Smorgasbord will not move to v2.6 until it goes STABLE.
-I haven't tested it on 2.6 yet...
+I haven't tested it on 2.6 yet... I'm hoping there won't be any issues.
+
+2. 
 
 Mods Removed:
 
-Superfluous Steel Suite mods. Thanks wellslls
+Superfluous Steel Suite mods. Thanks wellslls!
 
 Mods Updated:
 
@@ -61,6 +63,7 @@ Dog Training facility.
 "Rainstorm" Performance, enabled.
 Overhauls the vanilla clouds, skybox, and visual weather effects systems. 
 It adds new volumetric clouds and volumetric fog and a physically based skybox, with more to come. 
+You can change the preset in the in-game Mods (Gears) menu. Make it foggier
 You might see a slight hit to performance, 1-5 FPS.
 
 "Drone Rework" Standard, enabled.
