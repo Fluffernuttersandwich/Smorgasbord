@@ -114,6 +114,7 @@ Ideal if you are:
 ## Requirements & Hardware
 
 - Hardware capable of running vanilla 7DtD. If you can run the base game, you can run this list.
+- As-is, the list is not overly demanding. You may choose to toggle mods that can effect performance for yourself.
 
 
 <img width="627" height="372" alt="image" src="https://github.com/user-attachments/assets/90bcfd0f-68b5-4236-8161-6f68cbeeab26" />
