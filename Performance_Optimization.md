@@ -293,6 +293,14 @@ If you are struggling with FPS, consider disabling heavier mods first.
 | The Descent Mods | -10 to -20 FPS |
 | Rainstorm | -1 to -5 FPS |
 
+
+Note: For the WalkerSim mod specifically, ZombiePopulationDensity will effect your FPS. 
+The higher the number, the more FPS you will lose.
+
+
+SCore adds Fire-Spreads features. This can be demanding on servers and low-end hardware. 
+
+
 ---
 
 ## 🟢 Performance-Improving Mods
@@ -303,6 +311,13 @@ If you are struggling with FPS, consider disabling heavier mods first.
 | Less Grass | +1 to +5 FPS |
 | TMO’s Performance Plus | +5 to +10 FPS |
 | Despawn Zombies | +1 to +5 FPS |
+
+
+### In game tips to prevent uneccessary FPS loss: 
+- Don't plant too many trees or plants near to your base. Keep your tree farm far away from your base.
+- Don't use too many lights/torches/fires. Overlapping lights makes your game work harder than it needs to. 
+- Maybe lower the number of zombies in the in-game settings if you are really struggling.  
+
 
 ---
 
@@ -346,7 +361,7 @@ Avoid going down the:
 > “Dual-GPU optimization rabbit hole”
 Dual-GPU Lossless Scaling is rarely worth the effort. 
 
-It's more hassle than it's work.
+It's more hassle than it's worth.
 Minimal performance boost, doesn't work on many games, or is a hassle to get it to work.
 I speak as someone with expereince, don't bother with Dual-GPU LSFG. 
 Just save up $, and upgrade your main GPU and other components.
@@ -383,6 +398,7 @@ This is very hardware-model and unique hardware-piece specific.
 You can go to YouTube, and look up your specific GPU/CPU/Memory and try to squeeze a bit more out.
 I was able to safely undervolt and overclock my GPU, and give my CPU a slight bump. 
 However, my Memory didn't win the "Silicon Lottery", and I can only use the normal BIOS EXPO/DOCP boost.
+Any time you experiment with overclocking and undervolting your components, always err to a conservative setting.
 
 
 ---
