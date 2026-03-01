@@ -85,7 +85,7 @@ Ideal if you are:
 - Highly modular Vanilla+ experience
 - No forced systems
 - QoL-focused
-- Self-contained
+- Self-contained (Virtual File System, will not effect base game files)
 - Balance is subjective — disable what you don’t like
 
 ---
