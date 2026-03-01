@@ -1,75 +1,19 @@
-**Smörgåsbord ModList Update:** ```2.5.2.20 16:30 EST 27FEB2026
+**Smörgåsbord ModList Update:** ```2.6.1.1 13:00 EST 13MAR2026
 
 Comments:
 
-1. We're still on STABLE game version 2.5. 
-Smorgasbord will not move to v2.6 until it goes STABLE.
-I haven't tested it on 2.6 yet... I'm hoping there won't be any issues.
-
-2. 
+1. Smorgasbord is now compatible with 7DtD STABLE game version 2.6.
 
 Mods Removed:
 
-Superfluous Steel Suite mods. Thanks wellslls!
+N/A
 
 Mods Updated:
 
-"Animal Pain Sound Remover"
-"Quest Revamp-Gears Edition"
-"More Quest Options"
-"DismemberRandomizer"
-"Medical Conditions"
-"Army Biological Center" POI
-"GoFasterOnRoads"
-"PerkMastery"
-"AlternativeBloodMoons" Added GEARS support. Thanks ALo.
-"Singularity"
-"(V2) Oakraven Rock Drill"
-"EFTX Suite"
+"CAS"
 
 Mods Added:
 
-"TMO's Performance Plus" Performance, disabled.
-Reduces grass, trees, debris, and makes performance increases. 
-This is best for low-end systems and servers.
-
-"Sifu Drathos Master Conductor" Audio, disabled.
-Music overhaul mod. Some of it's great, and it's fun to try for the variety.
-
-"OmniSprint" OP, disabled.
-Sprint in any direction, not just forward.
-
-"Pick Up ALL The Chairs (including broken chairs and plastic seats)" Standard, enabled.
-Does what it says.
-
-"LandClaimBlocksPreventSpawning" Standard, enabled.
-Does what it says.
-
-"Discord Log Hook" QoL, disabled.
-Discord Log Hook mod that allows dedicated server operators show game messages in their Discord.
-
-"Wash Your Body" Standard, enabled.
-Adds sinks, showers, and baths you can craft to wash away the Smell debuff. 
-Search for "Plumbing" in the crafting menu to create the new block. 
-You can change the model of the Block to shower, bath, sink, etc.
-Go near the block, loot it, it will take a minute to wash your body, but it grants you 60 minutes of smell immunity.
-I was working on a similar consumable Deodorant Spray, but can't get it to work, if someone wants to help...
-
-"LittleRedSonja Ash Williams NPC" NPCs, disabled.
-Ash, from the Evil Dead series.
-
-"Training Doug" POI, enabled.
-Dog Training facility.
-
-"Rainstorm" Performance, enabled.
-Overhauls the vanilla clouds, skybox, and visual weather effects systems. 
-It adds new volumetric clouds and volumetric fog and a physically based skybox, with more to come. 
-You can change the preset in the in-game Mods (Gears) menu. Make it foggier
-You might see a slight hit to performance, 1-5 FPS.
-
-"Drone Rework" Standard, enabled.
-You add various (vanilla) medical items to your (vanilla) Drone's Inventory, it detects your (vanilla) ailments and uses the right meds automatically.
-Example: Player breaks arm, Drone has a cast in it's inventory, Drone applies cast to player.
-
+"
 
 ```
