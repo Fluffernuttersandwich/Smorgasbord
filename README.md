@@ -135,10 +135,9 @@ Ideal if you are:
 - **EAC is disabled**
 - You did NOT delete `0_TFP_Harmony`
 - Vanilla launched once before modding
-- No mods exist in:
-C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
-C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
-(Except Harmony)
+- No mods exist in: `C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods`
+- No mods exist in: `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`
+- The only mod you want to see in your base game's Mods folder is the 0-Harmony folder. This is required!
 
 
 <img width="726" height="250" alt="image" src="https://github.com/user-attachments/assets/9129c7f5-c947-4eef-abd3-4a2a54042aa3" />
