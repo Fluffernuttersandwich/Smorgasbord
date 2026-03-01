@@ -208,16 +208,18 @@ https://www.wabbajack.org/
 - Choose **ONE UI Suite**
 - Choose **ONE Perk Suite**
 - Enable optional mods as desired
+- It's considered best practice to only toggle mods when starting a new game. 
 
 ---
 
 ## Random World Generation
 
 - Recommended size: **6–10k**
-- RWG may take **5–60 minutes**, it's very hardware dependant.
+- RWG may take **3–60 minutes**, it's very hardware dependant.
 - Descent adds large underground systems (keep maps 6-10k)
 - CompoPack adds a ton of POIs.
 - The unique RWG mods make the process take longer.
+- I can generate a 6k map for Smorgasbord in 3 minutes. A 16k Smorgasbord map takes an hour to run, and may sometimes fail.
 
 ---
 
