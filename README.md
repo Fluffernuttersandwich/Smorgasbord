@@ -285,7 +285,6 @@ A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7Dt
 - YouTube: https://www.youtube.com/@FlufferNutterSandwich
 - POI Creation Guide: https://www.nexusmods.com/7daystodie/articles/790
 - Modding Social Contract: https://www.nexusmods.com/7daystodie/articles/806
-- MO2 Guide: https://www.nexusmods.com/7daystodie/articles/1053
 
 ---
 
