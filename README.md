@@ -240,10 +240,11 @@ https://www.wabbajack.org/
 - New versions may require a new save
 
 
-Just like you downloaded everything the first time.
+You update Smorgasbord just like you downloaded everything the first time.
 The difference is, it will only download new/updated mods.
 
-**Standard warning:** There's no guarantee you can update the ModList and continue to play in an old save.
+> [!WARNING]
+> There's no guarantee you can update the ModList and continue to play in an old save!
 
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 
