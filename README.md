@@ -239,12 +239,15 @@ https://www.wabbajack.org/
 - Overwrite existing installation
 - New versions may require a new save
 
+I post smaller updates regularly, and advertise this on my channel over at Guppy's Discord.
+
 
 You update Smorgasbord just like you downloaded everything the first time.
+
 The difference is, it will only download new/updated mods.
 
 > [!WARNING]
-> There's no guarantee you can update the ModList and continue to play in an old save!
+> There's no guarantee you can update the Mod List and continue to play in an old save!
 
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 
