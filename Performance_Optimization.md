@@ -372,12 +372,17 @@ Avoid going down the:
 Dual-GPU Lossless Scaling is rarely worth the effort. 
 
 It's more hassle than it's worth.
+
 Minimal performance boost, doesn't work on many games, or is a hassle to get it to work.
+
 I speak as someone with expereince, don't bother with Dual-GPU LSFG. 
+
 Just save up $, and upgrade your main GPU and other components.
 
 
-For some games (not 7DtD), you can also investigate "PureDark". It's a pay-for application, but it's incredible for games like modded Skyrim.
+For some games (not 7DtD), you can also investigate "**PureDark**". 
+
+It's a pay-for application, but it's incredible for games like modded Skyrim.
 
 ---
 
