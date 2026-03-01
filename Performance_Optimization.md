@@ -350,12 +350,22 @@ This significantly improves:
 
 ---
 
-### :duck:  C. Consider Lossless Scaling
+### :duck:  C. Consider Lossless Scaling (LS)
 
 Try **Lossless Scaling’s Frame Generation**. 
+
 It costs $7USD on Steam, but occasionally goes on sale for less.
-It can add Frame Generation to games that don't natively support it.
+
+It can add Upscaling and Frame Generation to games that don't natively support it.
+
 This can often double your FPS with "fake frames" in many games.
+
+Here's a guide on LS:
+https://youtu.be/fCOEDTfLsSs
+
+
+<img width="2246" height="1626" alt="image" src="https://github.com/user-attachments/assets/6d85385b-3095-48de-9794-3139060f1034" />
+
 
 Avoid going down the:
 > “Dual-GPU optimization rabbit hole”
@@ -365,9 +375,6 @@ It's more hassle than it's worth.
 Minimal performance boost, doesn't work on many games, or is a hassle to get it to work.
 I speak as someone with expereince, don't bother with Dual-GPU LSFG. 
 Just save up $, and upgrade your main GPU and other components.
-
-
-<img width="2178" height="1998" alt="image" src="https://github.com/user-attachments/assets/cb6c2fb7-0ec0-4b69-bd4b-6f6fc7e26b36" />
 
 
 For some games (not 7DtD), you can also investigate "PureDark". It's a pay-for application, but it's incredible for games like modded Skyrim.
