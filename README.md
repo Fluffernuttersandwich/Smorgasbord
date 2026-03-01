@@ -58,7 +58,7 @@ Anyone who has played vanilla and/or major overhauls and wants something new.
 ## Compatibility
 
 - **Game Version:** Stable **7 Days to Die v2.5**
-- **Install Method:** **Wabbajack + Mod Organizer 2 (MO2)** *(required)*
+- **Install Method:** **Wabbajack (it includes Mod Organizer 2 in the download)** *(required)*
 
 ---
 
@@ -76,7 +76,7 @@ This video covers:
 Ideal if you are:
 - New to modding
 - New to 7DtD modding
-- New to MO2
+- New to ModOrganizer2 (MO2)
 
 ---
 
