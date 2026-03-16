@@ -1,11 +1,10 @@
-**Smörgåsbord ModList Update:** ```2.5.2.24 14:15 EST 08MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.26 14:30 EST 16MAR2026
 
 Comments:
 
-1. Minor update this week. I'll try to clean up some of my own POIs and make mod updates next week. 
-I assume (making an educated guess) that TFP will make 2.6 Stable around 13MAR2026, and will plan for updates next weekend.
-
-2. Thank you to Eye of Wolf for noticing the cop-puke bug, MPL for pointing me in the right direction, and ByteBlazar for his rapid response with updating XFX.
+1. We're still on 2.5 officially until 2.6 goes stable. 
+You must download/update the list on 2.5, but you can switch your game to 2.6 experimental after the download if you so choose.
+If you choose to move to 2.6, NPCs have not been updated for that game version yet on the mod list.
 
 Mods Removed:
 
@@ -13,19 +12,42 @@ N/A
 
 Mods Updated:
 
-"POI Scourge"
-"Oakraven AmmoPress"
-"Perk Mastery"
-"DismemberRandomizer"
-"Hunlight's Loot Rebalance"
-"XFX"
-
+"Neon Lights"
+"Serenity"
+"Snack and Drive"
+"Textual Repairs"
+"Party Scout"
+"Trader Sync"
+"Storage Sync"
+"Kill Feed"
+"LittleRedSonja T2 into T3 grade weapons"
+"Medical Conditions"
+"(V2) Oakraven Power Things"
+"FNS Minibosses"
+"Deluxe POI Pack by FNS" 
+I watched a few YouTubers camping instead of commiting to an intended combat in a few of my POIs.
+We can't have that now can we? :P
 
 Mods Added:
 
-"QueenSilly's The Lux" POI, enabled.
-Modern house.
+"Smart Spotlights" Standard, enabled.
+You can now craft improved spotlights you can aim and auto-swivel to targets like turrets.
 
+"Harry's L4D2 Zombie Sound Replacer" Audio, disabled.
+Multiple Mods. Replaces many standard zombie noises with those from Left for Dead 2. 
+These are compatible with the other zombie noise replacer mods, but these may override some of those.  
+
+"Peek Lean" Weapons, disabled. 
+This mod allow you to peek corners by leaning.
+'Makes stealth clearing feel like Stalker.
+It is compatible with all of the weapon mods I tested. 
+You will need to remap keybinds in the game settings to use this mod!
+﻿It allows you to peek/lean using two keybinds (Q and E by default).
+I recommend you make the F key the Interact key, and use H key for the Light-source on/off.
+For the mod itself, you can swap the keybinds in the (Gears) Mods menu if you don't want to use Q and E.
+Be careful if vanilla or other mods use your prefered keys.
+I have not tested this mod in multiplayer / dedicated server!
+It's an awesome mod, but I disabled it by default because some players won't want to remap their keys. 
 
 ```
 
