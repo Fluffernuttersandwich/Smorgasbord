@@ -15,7 +15,10 @@ N/A
 
 Mods Updated:
 
-"
+"Clopex Estate"
+"WatchTower7"
+"LRS Ammo Recycling"
+"WalkerSim"
 
 Mods Added:
 
@@ -28,6 +31,12 @@ This mod adds an HK G11K3.
 
 "Into the Void" POI, enabled.
 Adds cave entrances to the Descent into a handful of vanilla POIs. 
+
+"TiaoZaoMiniMap" UI, disabled.
+Adds a minimap to the in-game UI at the Middle Right of the screen.
+You can adjust settings from the in-game (Gears) Mods menu, under Quartz.
+You can toggle it on/off with the NumPadEnter key.
+This is compatible with either Steel UI, CAT UI, or the Vanilla UI.
 
 ```
 
