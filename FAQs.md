@@ -184,7 +184,10 @@ To remove the Debug and Creative Menus, simply go back into the (F1) console and
 
 11. Interesting information about MO2 for 7DtD:  **It's a self-contained ModList!**
 
+MO2 uses a Virtual File system.  This means, it does not make changes ot any base game files.
+
 This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, Vanilla, and Smörgåsbord by FNS.  
+Install any other mod, or overhaul to MO2, disable other mods, and now you can play those as well... this may (will) require _you_ to perform troubleshooting mod compatibility.
 
 I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other ModPacks.      
 
@@ -196,11 +199,11 @@ ModLauncher can also be self-contained so long as you set it up correctly.
 
 No, that would be unethical.  This system does _not_ bundle their work in a zip and pass it off as mine.  
 
-From a credit and Donation Point aspect, it's no different than a user going and manually downloading each of these mods one-at-a-time on NexusMods.
+From a Unique Download credit and Donation Point aspect, it's no different than a user going and manually downloading each of these mods one-at-a-time on NexusMods.
 
 The Wabbajack and MO2 applications connect the API to NexusMods, so it downloads each mod individually.
 
-Mod Authors still get download credit, complete ownership of their mods, and Donations Points (if they opted in) every time a player installs the mods from this ModList.
+Mod Authors still get download credit, complete ownership of their mods, and Unique Download Donations Points (if they opted in) every time a player installs the mods from this ModList.
 
 Wabbajack and MO2 work in harmony to provide curators like me (FNS) the ability to create ModLists for users to efficiently download and run with.
 
@@ -221,7 +224,7 @@ But, that's never been an issue because we try to keep people happy.
 
 14. "Is Wabbajack/MO2 complicated to use... do I have to use that black screen with the white letters thing?"
 
-Nope, it's the easiest method to enjoy other people's ModLists.  No command-line-interface, just a simple GUI.
+Nope, it's the easiest method to enjoy other people's ModLists.  No command-line-interface (CLI), just a simple Graphical User Interface (GUI).
 
 ---
 
