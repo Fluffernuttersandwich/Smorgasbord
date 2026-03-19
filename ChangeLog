@@ -1,3 +1,48 @@
+**Smörgåsbord ModList Update:** ```2.5.2.26 12:15 EST 19MAR2026
+
+Comments:
+
+1. We're still on 2.5 officially until 2.6 goes stable. 
+You must download/update the list on 2.5, but you can switch your game to 2.6 experimental after the download if you so choose.
+If you choose to move to 2.6, NPCs have not been updated for that game version yet on the mod list.
+
+2. Standard Warning: Do not update the mod list until you are ready to start a new save. 
+There's no guarantee updating the list will allow you to continue in a save.
+
+Mods Removed:
+
+N/A
+
+Mods Updated:
+
+"Clopex Estate"
+"WatchTower7"
+"LRS Ammo Recycling"
+"WalkerSim"
+"More Skill Points per level" 3, 5, 10. I edited the mod names so these load late.
+
+Mods Added:
+
+"Funuukemaguro's Requiem(RE9) Early release" Weapons, enabled.
+"Funukemaguro's HK G11K3" Weapons, enabled.
+You must use some of the requirement mods used with EFTX.
+See NexusMods page of this mod for the full list of requirements.
+This mod adds the heavy pistol from RE9 Requiem.
+This mod adds an HK G11K3.
+
+"Into the Void" POI, enabled.
+Adds cave entrances to the Descent into a handful of vanilla POIs. 
+
+"TiaoZaoMiniMap" UI, disabled.
+Adds a minimap to the in-game UI at the Middle Right of the screen.
+You can adjust settings from the in-game (Gears) Mods menu, under Quartz.
+You can toggle it on/off with the NumPadEnter key.
+This is compatible with either Steel UI, CAT UI, or the Vanilla UI.
+
+```
+
+________________________________________________________________
+
 **Smörgåsbord ModList Update:** ```2.5.2.25 14:30 EST 16MAR2026
 
 Comments:
