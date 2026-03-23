@@ -8,7 +8,7 @@ If you do everything in this guide, you could see a 2-30% boost to FPS in your g
 
 Your mileage may vary.
 
-This guide was written primarily for modded 7DtD, but can be beneficial for any PC Game.
+This guide was written primarily for modded 7DtD, but much of it can be beneficial for any PC Game.
 
 ---
 
