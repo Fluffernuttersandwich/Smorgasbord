@@ -9,15 +9,16 @@ If you choose to move to 2.6, NPCs have not been updated for that game version y
 2. Standard Warning: Do not update the mod list until you are ready to start a new save. 
 There's no guarantee updating the list will allow you to continue in a save.
 
-3. Witos Vehicles: I added some of Witos's vehicles to the list. 
-The Boats and Hovercraft do not require his other framework mods.
-Witos's flying vehicles do require his Root and Camera mods.
-I would consider his flying vehicles (and requirements) for advanced users who are true vehicle enthusiasts.
-Most casual users will not like the added controls and visual UI which is why they are disabled by default.
-Note: "Why not add Witos vehicles that have working mounted guns?" 
-Because that would entail adding other requirement mods that introduce compatibility issues with other mods.
-If one of you want to test them to see which ones (like EFTX, Izy, etc) cause the problems, by all means.
-Or, one of you could make a patch to allow it all to work together... I don't have the time for that right now. 
+3. I created a new separator for Witos Advanced Vehicle Mods: 
+Witos's flying and/or firing vehicles do have requirements.
+I would consider his flying/firing vehicles (and requirements) for advanced users who are true vehicle enthusiasts.
+Most casual users will not like the more complex controls, UI, camera which is why they are disabled by default.
+With the update of the their requirement mods, I tested firing vehicles without issues. 
+It's vitally important you read the notes, go to the NexusMods pages, and/or watch the videos on how to use these mods.
+Example: Tanks require diesel to refuel.
+You must mount weapon mods to some vehicles to make them work. 
+You must keep ammo in your backpack. 
+Hold Left-Alt and press 1-3 to change weaponry. G key fires. 
 
 Mods Removed:
 
@@ -49,36 +50,16 @@ You can change the setting from the in-game Mods (Gears) menu.
 
 "Military Tablet" OP, enabled.
 Adds in a military tablet and smartphone. 
-If you've ever found yourself looking through an entire poi multiple times this stops that completely! 
-With the functions of both items you can now see where the zombies are on the map on the device.
+If you've ever found yourself looking through an entire POI multiple times this stops that completely! 
+With the functions of both items you can now see where the zombies are on the map on the handheld device.
 The tablet has a see through function allowing the player to see through immediate walls. 
 While the smartphone has a flashlight function allowing the player to seek the zombies even in complete darkness.
 
-"Starting Bicycle For Streamers and Busy People"
+"Starting Bicycle For Streamers and Busy People" QoL, disabled.
 Lets you start your zombie-slaying adventures with the bicycle.
 
-"Witos Boats and Hovercraft" Vehicles, enabled.
-
-"Witos Root" Vehicles, disabled.
-Requirement Framework mod for Witos advanced flying vehicles.
-
-"Witos Camera Controller" Vehicles, disabled.
-Requirement mod for Witos advanced flying vehicles.
-It adds a different in-cabin camera system for some of his vehicles.
-This might cause "Weeb-o-vision" if combined with Custom Avatars (VRoid).
-
-"Witos Advanced Flying Vehicles" Vehicles, disabled.
-Cessna
-Airplanes
-CargoBob
-Gh Transport
-Osprey
-
-
-
-
-
-
+"Witos Advanced Vehicles". Disabled.
+A ton of new vehicles, some with functional weaponry!
 
 ```
 
