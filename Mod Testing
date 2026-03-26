@@ -58,6 +58,12 @@ While the smartphone has a flashlight function allowing the player to seek the z
 "Starting Bicycle For Streamers and Busy People" QoL, disabled.
 Lets you start your zombie-slaying adventures with the bicycle.
 
+"No Loot Bags" Survivalist, disabled.
+Entities no longer drop loot bags. 
+For those of you looking for more of a challenge or greater sense of realism. 
+Only works on zombies and animals that use vanilla naming structures like contains 'zombie' or contains 'animal'... 
+so if a mod adds entities with a fruit loop naming convention, it no worky.
+
 "Witos Advanced Vehicles" Separator, Disabled.
 A ton of new vehicles, some with functional weaponry!
 
