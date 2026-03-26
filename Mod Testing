@@ -9,6 +9,16 @@ If you choose to move to 2.6, NPCs have not been updated for that game version y
 2. Standard Warning: Do not update the mod list until you are ready to start a new save. 
 There's no guarantee updating the list will allow you to continue in a save.
 
+3. Witos Vehicles: I added some of Witos's vehicles to the list. 
+The Boats and Hovercraft do not require his other framework mods.
+Witos's flying vehicles do require his Root and Camera mods.
+I would consider his flying vehicles (and requirements) for advanced users who are true vehicle enthusiasts.
+Most casual users will not like the added controls and visual UI which is why they are disabled by default.
+Note: "Why not add Witos vehicles that have working mounted guns?" 
+Because that would entail adding other requirement mods that introduce compatibility issues with other mods.
+If one of you want to test them to see which ones (like EFTX, Izy, etc) cause the problems, by all means.
+Or, one of you could make a patch to allow it all to work together... I don't have the time for that right now. 
+
 Mods Removed:
 
 N/A
@@ -25,9 +35,12 @@ Mods Added:
 "Viridian Isles 8k" POI, enabled.
 Custom handmade map of islands designed by Grimlok. 
 If you ever wanted to play a game centered on using boats to island-hop, this map is for you!
+You can select this map just like you would a vanilla pregen world when you go to start a new game.
 Notice:
-1. Disable Biome Progression in-game settings for this playthrough! 
-2. I recommend that you keep Witos Boats mod enabled for this playthrough as they will be your primary means of conveyance. 
+1. You must disable Biome Progression in-game settings for this playthrough! 
+2. I recommend that you keep the Witos Boats mod enabled for this playthrough as they will be your primary means of conveyance. 
+3. Reminder: Custom maps like this do not include modded POIs. 
+But don't let that stop you from playing this map, because Grimlok handcrafted an amazing world!
 
 "Hostile Architecture" Zombies, disabled.
 Makes breaking blocks painfully realistic (for enemies, not players). 
@@ -43,18 +56,19 @@ While the smartphone has a flashlight function allowing the player to seek the z
 "Starting Bicycle For Streamers and Busy People"
 Lets you start your zombie-slaying adventures with the bicycle.
 
-"Witos Root" Vehicles, enabled.
-Requirement Framework mod for Witos Vehicles.
+"Witos Boats and Hovercraft" Vehicles, enabled.
 
-"Witos Camera Controller" Vehicles, enabled.
-Requirement mod for some of Witos Vehicles.
-Required for some of Witos Vehicle Mods. 
+"Witos Root" Vehicles, disabled.
+Requirement Framework mod for Witos advanced flying vehicles.
+
+"Witos Camera Controller" Vehicles, disabled.
+Requirement mod for Witos advanced flying vehicles.
 It adds a different in-cabin camera system for some of his vehicles.
+This might cause "Weeb-o-vision" if combined with Custom Avatars (VRoid).
 
-Witos Vehicles. Vehicles, mostly enabled.
+"Witos Advanced Flying Vehicles" Vehicles, disabled.
 Cessna
 Airplanes
-Hovercraft
 CargoBob
 Gh Transport
 Osprey
