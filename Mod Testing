@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.5.2.27 15:30 EST 21MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.28 12:00 EST 26MAR2026
 
 Comments:
 
@@ -11,24 +11,59 @@ There's no guarantee updating the list will allow you to continue in a save.
 
 Mods Removed:
 
-Svarii's individual POIs were replace by his new POI Pack. 
+N/A
 
 Mods Updated:
 
-"WalkerSim" HOTFIX!
+"Funuukemaguro's Door Knocker"
+"Funuukemaguro's Requiem(RE9) Early release"
+"Medical Conditions"
+"Beyond Storage"
 
 Mods Added:
 
-"Funuukemaguro's Door Knocker" Weapons, enabled.
-You must use some of the requirement mods used with EFTX.
-See NexusMods page of this mod for the full list of requirements.
-This mod adds a single-shot anti-tank pistol called a Door Knocker.
+"Viridian Isles 8k" POI, enabled.
+Custom handmade map of islands designed by Grimlok. 
+If you ever wanted to play a game centered on using boats to island-hop, this map is for you!
+Notice:
+1. Disable Biome Progression in-game settings for this playthrough! 
+2. I recommend that you keep Witos Boats mod enabled for this playthrough as they will be your primary means of conveyance. 
 
-"Tier 1 Melee Weapons As Intro Buried Supplies Rewards" Quest, disabled.
-Does what it says. 
+"Hostile Architecture" Zombies, disabled.
+Makes breaking blocks painfully realistic (for enemies, not players). 
+You can change the setting from the in-game Mods (Gears) menu.
 
-"Svarii's Prefab Package" POI, enabled.
-POI Pack. 
+"Military Tablet" OP, enabled.
+Adds in a military tablet and smartphone. 
+If you've ever found yourself looking through an entire poi multiple times this stops that completely! 
+With the functions of both items you can now see where the zombies are on the map on the device.
+The tablet has a see through function allowing the player to see through immediate walls. 
+While the smartphone has a flashlight function allowing the player to seek the zombies even in complete darkness.
+
+"Starting Bicycle For Streamers and Busy People"
+Lets you start your zombie-slaying adventures with the bicycle.
+
+"Witos Root" Vehicles, enabled.
+Requirement Framework mod for Witos Vehicles.
+
+"Witos Camera Controller" Vehicles, enabled.
+Requirement mod for some of Witos Vehicles.
+Required for some of Witos Vehicle Mods. 
+It adds a different in-cabin camera system for some of his vehicles.
+
+Witos Vehicles. Vehicles, mostly enabled.
+Cessna
+Airplanes
+Hovercraft
+CargoBob
+Gh Transport
+Osprey
+
+
+
+
+
+
 
 ```
 
