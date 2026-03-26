@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.5.2.28 12:00 EST 26MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.28 17:00 EST 26MAR2026
 
 Comments:
 
@@ -12,12 +12,12 @@ There's no guarantee updating the list will allow you to continue in a save.
 3. I created a new separator for Witos Advanced Vehicle Mods: 
 Witos's flying and/or firing vehicles do have requirements.
 I would consider his flying/firing vehicles (and requirements) for advanced users who are true vehicle enthusiasts.
-Most casual users will not like the more complex controls, UI, camera which is why they are disabled by default.
+Too many casual users will not like the more complex controls, UI, and camera which is why these mods are disabled by default.
 With the update of the their requirement mods, I tested firing vehicles without issues. 
-It's vitally important you read the notes, go to the NexusMods pages, and/or watch the videos on how to use these mods.
+It's vitally important you read the mod notes, go to the NexusMods pages, and/or watch the videos on how to use these mods.
 Example: Tanks require diesel to refuel.
-You must mount weapon mods to some vehicles to make them work. 
-You must keep ammo in your backpack. 
+You must mount weapon mods to some of the vehicles to make them work. 
+You must keep specific ammo in your backpack... vanilla .762, K-Rounds, Missiles, etc.
 Hold Left-Alt and press 1-3 to change weaponry. G key fires. 
 
 Mods Removed:
@@ -58,7 +58,7 @@ While the smartphone has a flashlight function allowing the player to seek the z
 "Starting Bicycle For Streamers and Busy People" QoL, disabled.
 Lets you start your zombie-slaying adventures with the bicycle.
 
-"Witos Advanced Vehicles". Disabled.
+"Witos Advanced Vehicles" Separator, Disabled.
 A ton of new vehicles, some with functional weaponry!
 
 ```
