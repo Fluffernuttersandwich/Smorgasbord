@@ -10,20 +10,20 @@ If you choose to move to 2.6, NPCs have not been updated for that game version y
 There's no guarantee updating the list will allow you to continue in a save.
 
 3. MAJOR WARNING! I have removed all of TMO's mods from the Mod List. 
-This wasn't my choice. He hid his mods and I don't know if/when they are coming back.
-I tried to contact him, but didn't receive a response... 
+This wasn't my choice. He hid his mods and I don't know if/when they are coming back, or if they'll be obtainable through Wabbajack.
+I tried to contact him, but I didn't receive a response... 
 I didn't want to leave the list in a broken state, and the show must go on.
 So if you have them in your Mod List already, you must put [NoDelete] in front of each TMO mod you want to keep in MO2 prior to updating the list.
 If you don't do this, the next time you update the list those mods will be removed, and I will be unable to help you get them back.
-For new users, those mods are just no longer available.
+For new users, I cannot obtain them for you.
 If they're gone, I can not distribute my local copies to you, and do not ask for anyone at Guppy's to redistribute them.
 
 Mods Removed:
 
-All of TMO's mods.
-"Witos Vans" (I didn't realize they were deprecated) 
-"Path Smoothing" (needs an update because of vanilla AI changes)
-"BraindeadZed" (needs an update because of vanilla AI changes)
+All of TMO's mods have been removed.
+"Witos Vans". I didn't realize they were deprecated.
+"Path Smoothing". 'needs an update because of vanilla AI changes.
+"Braindead Zed". 'needs an update because of vanilla AI changes.
 
 Mods Updated:
 
@@ -37,7 +37,7 @@ Mods Added:
 Does what it says.
 
 "Dot Crosshair" UI, enabled.
-Replaces the vanilla crosshair with a small white dot. Compatible with Immersive Crosshair.
+Replaces the vanilla crosshair with a small white dot. Compatible with "Immersive Crosshair", do not combine with "Crosshair Hub".
 
 "Crosshair Hub" UI disabled.
 Customizable Crosshair. Do not combine with the "Dot Crosshair" mod.
@@ -45,7 +45,6 @@ Customizable Crosshair. Do not combine with the "Dot Crosshair" mod.
 "DM Automatically Close Trader Doors (Server side) v2.5 b32" Standard, enabled.
 Gates and doors at the trader automatically close in 5 seconds. 
 Both exterior and interior doors of the trader compounds will auto-close.
-
 
 
 ```
