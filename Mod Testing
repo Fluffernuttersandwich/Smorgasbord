@@ -20,7 +20,10 @@ If they're gone, I can not distribute my local copies to you, and do not ask for
 
 Mods Removed:
 
-Witos Vans (I didn't realize they were deprecated) 
+All of TMO's mods.
+"Witos Vans" (I didn't realize they were deprecated) 
+"Path Smoothing" (needs an update)
+"BraindeadZed" (needs an update)
 
 Mods Updated:
 
@@ -28,6 +31,18 @@ N/A
 
 Mods Added:
 
+"Trader Never Closes" QoL, enabled.
+Does what it says.
+
+"Dot Crosshair" UI, enabled.
+Replaces the vanilla crosshair with a small white dot. Compatible with Immersive Crosshair.
+
+"Crosshair Hub" UI disabled.
+Customizable Crosshair. Do not combine with the "Dot Crosshair" mod.
+
+"DM Automatically Close Trader Doors (Server side) v2.5 b32" Standard, enabled.
+Gates and doors at the trader automatically close in 5 seconds. 
+Both exterior and interior doors of the trader compounds will auto-close.
 
 ```
 
