@@ -22,12 +22,14 @@ Mods Removed:
 
 All of TMO's mods.
 "Witos Vans" (I didn't realize they were deprecated) 
-"Path Smoothing" (needs an update)
-"BraindeadZed" (needs an update)
+"Path Smoothing" (needs an update because of AI changes)
+"BraindeadZed" (needs an update because of AI changes)
 
 Mods Updated:
 
-N/A
+"Deluxe Block POI Pack by FNS"
+I replaced TMO mods and blocks with the UBBI mod and blocks in these POIs.
+Thanks LRS!
 
 Mods Added:
 
@@ -43,6 +45,8 @@ Customizable Crosshair. Do not combine with the "Dot Crosshair" mod.
 "DM Automatically Close Trader Doors (Server side) v2.5 b32" Standard, enabled.
 Gates and doors at the trader automatically close in 5 seconds. 
 Both exterior and interior doors of the trader compounds will auto-close.
+
+
 
 ```
 
