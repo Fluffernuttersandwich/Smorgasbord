@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorg5.webp",
       "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_3b76070b-1e95-4f10-a79c-fd6c5e2a57c5",
+      "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_1f3fdd2f-e1d7-446c-bd97-af6204f2ba90",
       "machineURL": "Smorgasbord",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": "https://github.com/Fluffernuttersandwich/Smorgasbord"
     },
     "download_metadata": {
-      "Hash": "gVg50LG+XTw=",
-      "Size": 5765717,
-      "NumberOfArchives": 516,
-      "SizeOfArchives": 38845978626,
-      "NumberOfInstalledFiles": 71341,
-      "SizeOfInstalledFiles": 57700453947,
-      "TotalSize": 96546432573
+      "Hash": "WPqkr0ogYmU=",
+      "Size": 5728080,
+      "NumberOfArchives": 506,
+      "SizeOfArchives": 38743217711,
+      "NumberOfInstalledFiles": 70967,
+      "SizeOfInstalledFiles": 57590258945,
+      "TotalSize": 96333476656
     },
-    "version": "2.5.2.28",
+    "version": "2.5.2.29",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-26T22:36:11.3429764Z",
+    "dateUpdated": "2026-03-27T19:05:43.003864Z",
     "repositoryName": "Better 7DTD"
   }
 ]
