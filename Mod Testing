@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.5.2.28 17:00 EST 26MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.29 16:00 EST 27MAR2026
 
 Comments:
 
@@ -9,63 +9,25 @@ If you choose to move to 2.6, NPCs have not been updated for that game version y
 2. Standard Warning: Do not update the mod list until you are ready to start a new save. 
 There's no guarantee updating the list will allow you to continue in a save.
 
-3. I created a new separator for Witos Advanced Vehicle Mods: 
-Witos's flying and/or firing vehicles do have requirements.
-I would consider his flying/firing vehicles (and requirements) for advanced users who are true vehicle enthusiasts.
-Too many casual users will not like the more complex controls, UI, and camera which is why these mods are disabled by default.
-With the update of the their requirement mods, I tested firing vehicles without issues. 
-It's vitally important you read the mod notes, go to the NexusMods pages, and/or watch the videos on how to use these mods.
-Example: Tanks require diesel to refuel.
-You must mount weapon mods to some of the vehicles to make them work. 
-You must keep specific ammo in your backpack... vanilla .762, K-Rounds, Missiles, etc.
-Hold Left-Alt and press 1-3 to change weaponry. G key fires. 
+3. MAJOR WARNING! I have removed all of TMO's mods from the Mod List. 
+This wasn't my choice. He hid his mods and I don't know if/when they are coming back.
+I tried to contact him, but didn't receive a response... 
+I didn't want to leave the list in a broken state, and the show must go on.
+So if you have them in your Mod List already, you must put [NoDelete] in front of each TMO mod you want to keep in MO2 prior to updating the list.
+If you don't do this, the next time you update the list those mods will be removed, and I will be unable to help you get them back.
+For new users, those mods are just no longer available.
+If they're gone, I can not distribute my local copies to you, and do not ask for anyone at Guppy's to redistribute them.
 
 Mods Removed:
 
-N/A
+Witos Vans (I didn't realize they were deprecated) 
 
 Mods Updated:
 
-"Funuukemaguro's Door Knocker"
-"Funuukemaguro's Requiem(RE9) Early release"
-"Medical Conditions"
-"Beyond Storage"
+N/A
 
 Mods Added:
 
-"Viridian Isles 8k" POI, enabled.
-Custom handmade map of islands designed by Grimlok. 
-If you ever wanted to play a game centered on using boats to island-hop, this map is for you!
-You can select this map just like you would a vanilla pregen world when you go to start a new game.
-Yes, this map has traders.
-Notice:
-1. You must disable Biome Progression in-game settings for this playthrough! 
-2. I recommend that you keep the Witos Boats mod enabled for this playthrough as they will be your primary means of conveyance. 
-3. Reminder: Custom maps like this do not include modded POIs. 
-But don't let that stop you from playing this map, because Grimlok handcrafted an amazing world!
-
-"Hostile Architecture" Zombies, disabled.
-Makes breaking blocks painfully realistic (for enemies, not players). 
-You can change the setting from the in-game Mods (Gears) menu.
-
-"Military Tablet" OP, enabled.
-Adds in a military tablet and smartphone. 
-If you've ever found yourself looking through an entire POI multiple times this stops that completely! 
-With the functions of both items you can now see where the zombies are on the map on the handheld device.
-The tablet has a see through function allowing the player to see through immediate walls. 
-While the smartphone has a flashlight function allowing the player to seek the zombies even in complete darkness.
-
-"Starting Bicycle For Streamers and Busy People" QoL, disabled.
-Lets you start your zombie-slaying adventures with the bicycle.
-
-"No Loot Bags" Survivalist, disabled.
-Entities no longer drop loot bags. 
-For those of you looking for more of a challenge or greater sense of realism. 
-Only works on zombies and animals that use vanilla naming structures like contains 'zombie' or contains 'animal'... 
-so if a mod adds entities with a fruit loop naming convention, it no worky.
-
-"Witos Advanced Vehicles" Separator, Disabled.
-A ton of new vehicles, some with functional weaponry!
 
 ```
 
