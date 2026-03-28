@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.5.2.29 15:15 EST 27MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.31 11:15 EST 28MAR2026
 
 Comments:
 
@@ -9,39 +9,29 @@ If you choose to move to 2.6, NPCs have not been updated for that game version y
 2. Standard Warning: Do not update the mod list until you are ready to start a new save. 
 There's no guarantee updating the list will allow you to continue in a save.
 
-3. MAJOR WARNING! I have removed all of TMO's mods from the Mod List. 
-This wasn't my choice. He hid his mods and I don't know if/when they are coming back, or if they'll be obtainable through Wabbajack.
-I tried to contact him, but I didn't receive a response... TMO might be moving his mods to his own hosting site.
-I didn't want to leave the list in a broken state, and the show must go on.
-So if you have them in your Mod List already, you must put [NoDelete] in front of each TMO mod you want to keep in MO2 prior to updating the list.
-If you don't do this, the next time you update the list those mods will be removed, and I will be unable to help you get them back.
-For new users, I cannot obtain them for you.
-If they're gone, I can not distribute my local copies to you, and do not ask for anyone at Guppy's to redistribute them.
-
 Mods Removed:
 
-All of TMO's mods have been removed.
-"Witos Vans". I didn't realize they were deprecated.
-"Path Smoothing". 'needs an update because of vanilla AI changes.
-"Braindead Zed". 'needs an update because of vanilla AI changes.
+Old Smorgasbord Maps have been replaced by updated versions. 
+Warning!
+If you are using an old map on your current playthrough, do not update the Mod List until you are ready to start a new game.
+They've been removed/replaced!
 
 Mods Updated:
 
-"Deluxe Block POI Pack by FNS"
-I replaced TMO mods and blocks with the UBBI mod and blocks in these POIs.
-Thanks LRS!
+"SoundExp (Enhanced sound experience)"
 
 Mods Added:
 
-"Trader Never Closes" QoL, enabled.
-Does what it says.
+POIs, enabled:
+The Apex Tower by RunnerMen
+The Fallen Spire by RunnerMen
+Club Hotel by SG1o9
+Harold Fetchkick Asylum by SG1o9
+Epidemic Playland by SG1o9
 
-"Dot Crosshair" UI, enabled.
-Replaces the vanilla crosshair with a small white dot. Compatible with "Immersive Crosshair", do not combine with "Crosshair Hub".
-
-"Crosshair Hub" UI disabled.
-Customizable Crosshair. Do not combine with the "Dot Crosshair" mod.
-
+Maps, enabled:
+6k, 8k, and 10k Default Smorgasbord maps with new POIs.
+7k 'No Trader' Default Smorgasbord map with new POIs.
 
 ```
 
