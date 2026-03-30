@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.5.2.31 12:40 EST 28MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.32 21:20 EST 29MAR2026
 
 Comments:
 
@@ -11,27 +11,42 @@ There's no guarantee updating the list will allow you to continue in a save.
 
 Mods Removed:
 
-Old Smorgasbord Maps have been replaced by updated versions. 
-Warning!
-If you are using an old map on your current playthrough, do not update the Mod List until you are ready to start a new game.
-They've been removed/replaced!
+N/A
 
 Mods Updated:
 
-"SoundExp (Enhanced sound experience)"
+"Better Biomes"
+"LittleRedSonja and Mumpfy ArmorPack06 Resident Evil"
+"Viridian Isles"
 
 Mods Added:
 
+"Enhanced Archery Damage" OP, enabled.
+Increases damage for bows, crossbows, arrows, and bolts to make archery a more viable combat option in the mid and late game.
+
+"No Stamina Drain on Aiming Down Sight (ADS)" Weapons, enabled.
+Does what it says.
+
+Zombies, enabled:
+"No Heat Generation"
+"Olfactory Screamers"
+"Byteblazar's Screamers"
+Combined, these three mods change when/how Screamers spawn and makes them more challenging.
+
 POIs, enabled:
-The Apex Tower by RunnerMen
-The Fallen Spire by RunnerMen
-Club Hotel by SG1o9
-Harold Fetchkick Asylum by SG1o9
-Epidemic Playland by SG1o9
+"KatsPurr's Modern House Prefab Pack"
 
 Maps, enabled:
-6k, 8k, and 10k Default Smorgasbord maps with new POIs.
-7k 'No Trader' Default Smorgasbord map with new POIs.
+"Supercity V2 6k Custom Map"
+Keep this mod disabled, unless you intend to use this map specifically.
+Otherwise, it will inject PEP POIs into your RWG.
+SuperCity, the map popularized by Glock9!
+I recommend you consider disabling Biome Progression within the in-game settings for this playthrough, but you do you.
+This is a Custom map that includes the PEP-POI-Pack. 
+Warning! Some PEP POIs are not balanced (tier 1 with 15 feral bikers), and may have old (A15-A19, removed) vanilla POIs of lower quality standards. 
+Reminder: Custom maps like this do not include modded POIs from outside of this map pack. 
+Note: You may choose to toggle Better Biomes and Urban Decay upon your start of a new game if you wish to use those. 
+Once you toggle those mods on for a playthrough, you commit to use them, or toggle them off and start a new save without them.
 
 ```
 
