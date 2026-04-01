@@ -1,13 +1,16 @@
-**Smörgåsbord ModList Update:** ```2.5.2.32 21:20 EST 29MAR2026
+**Smörgåsbord ModList Update:** ```2.5.2.33 21:20 EST 29MAR2026
 
 Comments:
 
-1. We're still on 2.5 officially until 2.6 goes stable. 
-You must download/update the list on 2.5, but you can switch your game to 2.6 experimental after the download if you so choose.
-If you choose to move to 2.6, NPCs have not been updated for that game version yet on the mod list.
+1. We have officially moved to stable version 2.6!
 
 2. Standard Warning: Do not update the mod list until you are ready to start a new save. 
 There's no guarantee updating the list will allow you to continue in a save.
+
+3. If you haven't seen it yet, I made a new trailer for the mod list.
+If you good people want to share it, I'd appreciate the exposure.
+I have a new project I'm working on.
+It will be an edited playthrough of Viridian Isles as a cinematic story... More to come.
 
 Mods Removed:
 
@@ -15,24 +18,32 @@ N/A
 
 Mods Updated:
 
-"Funuukemaguro's Requiem(RE9) Early release"
+"WalkerSim"
+"Witos Camera Controller"
+"Witos JLTV"
+"Witos Root"
+"LittleRedSonja and Mumpfy ArmorPack06 Resident Evil"
+"WalkerSim"
+"Singularity"
 
 Mods Added:
 
-"Flatlander's Fixes for IZY-All in One Gun Pack v5.1" Weapons, disabled.
-Bug patches and missed recipes for Izy AIO.
+"Nuketown" POI, enabled.
+From CoDBLOps.
 
-"Tier 1 Common Ranged Weapons As Intro Buried Supplies Rewards" Quests, enabled.
-Instead of receiving a crappy tier 0 pipe gun from the trader for completing the initial buried supply quest, you can choose from a tier 1 gun. 
-I like this because I often jump from pipe guns to tier 2 guns quickly so this gives you time with something in-between. 
-Sure, you can find tier 1 toilet pistols, but I rarely ever use the double barrel shotgun or hunting rifle in a normal playthrough. 
-Now you can select from: Double Barrel Shotgun, Hunting Rifle, Iron Crossbow, Pistol, Wooden Bow. 
-This is also great for struggling Archery users. 
-Do not combine with: "Tier 1 Melee Weapons As Intro Buried Supplies Rewards" nor "Z4_EFTX_No_Vanilla_Guns V2".
+"TFP Raft" Vehicles, enabled.
+Boat
 
-"No Stamina Drain on Aiming Down Sight (ADS)" Weapons, enabled.
-Does what it says.
+"Remove Trader XP - V2.5 b23" Survivalist, enabled.
+You no longer gain XP from trading. 
+This is to help balance the game and prolong your playthrough.
+Thank you to one of our new community members aAndrew for the suggestion.
 
+"Persistent Crosshair in ADS" UI, enabled.
+The crosshair (or dot) will remain on-screen when you Aim Down Scope (ADS) with vanilla guns/bows, Izy, and EFTX weapons.
+Works in 1st/3rd person ADS, works with either vanilla UI, Steel UI, and Cat UI.
+Some of the EFTX weapon mods will hide that as an override. I don't know how to address that.
+Big thanks to ALo for helping me with this mod.
 
 
 ```
