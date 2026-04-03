@@ -23,11 +23,12 @@ Mods Updated:
 "Witos JLTV"
 "Witos Root"
 "LittleRedSonja and Mumpfy ArmorPack06 Resident Evil"
-"WalkerSim"
 "Singularity"
 "Score"
 "Hydroponic Farming"
 "Wasteland"
+"Jen Model Revival"
+"MiniMap"
 
 Mods Added:
 
@@ -47,6 +48,13 @@ The crosshair (or dot) will remain on-screen when you Aim Down Scope (ADS) with 
 Works in 1st/3rd person ADS, works with either vanilla UI, Steel UI, and Cat UI.
 Some of the EFTX weapon mods will hide that as an override. I don't know how to address that.
 Big thanks to ALo for helping me with this mod.
+
+"Smart Goggles v2.6(Latest)" OP, disabled.
+With these super-powerful smart goggles, which combine 5 attribute mods, you gain +1 to all attributes, +10% XP, +10 to loot level and a reduced treasure radius. 
+A perfect upgrade for survivors seeking efficiency, power and faster progression in the apocalypse.
+
+"Blood Moon Kill Counter v2.6(Latest)" UI, disabled.
+Track your kills and headshots during Blood Moon nights in real time.
 
 
 ```
