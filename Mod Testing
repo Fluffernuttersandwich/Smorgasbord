@@ -60,6 +60,9 @@ Track your kills and headshots during Blood Moon nights in real time.
 "RockyRocks" Standard, enabled.
 Rocks thrown from player's toolbelt can actually damage zombies.
 
+"OCB Water Shader" Graphics, enabled.
+Changes the water shader. This is good to keep enabled with Rainstorm to prevent the water from turning inky blue. 
+
 
 ```
 
