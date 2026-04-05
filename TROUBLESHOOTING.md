@@ -2,8 +2,6 @@
 
 This document contains **all troubleshooting, diagnostics, and known issues** for the **Smörgåsbord** Mod List.
 
-If you skipped the README: go back and read it.  
-
 
 > [!CAUTION]
 > If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it.
