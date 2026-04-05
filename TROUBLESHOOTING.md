@@ -19,9 +19,9 @@ If you skipped the README: go back and read it.
 
 ## 🚫 Game will not launch / crashes immediately
 - Disable **EAC** in the launcher  
-- Clear **Additional Launch Parameters**
+- Clear **Additional Launch Parameters** From Steam and/or MO2.
 - Launch **ONLY via MO2 (Wabbajack install)**
-- Verify game files → restores **Harmony**
+- Verify game files → restores **0-Harmony**
 - Update GPU drivers
 
 ---
@@ -37,12 +37,6 @@ If you skipped the README: go back and read it.
 - Remove ALL mods from: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods_
 - Post logs in **Guppy’s Discord → #fns-smorgasbord**
 - Drag & drop full log file (not screenshots)
-
-### Be kind:
-- We are not paid tech support  
-- We are not psychic  
-- Screenshots ≠ logs  
-- You will not be helped without logs  
 
 ---
 
@@ -60,7 +54,7 @@ If you skipped the README: go back and read it.
 
 ## 1. Game Version
 - Must match **Smörgåsbord version**
-- Experimental builds not supported
+- Experimental builds are not supported
 
 ---
 
@@ -79,16 +73,15 @@ Must exist in the base game's Mods folder: _...\7 Days To Die\Mods\0_TFP_Harmony
 
 ## 4. Mods in Wrong Locations
 
-### ❌ The AppsData Mods folder MUST BE EMPTY: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods_
+### ❌ The AppsData Mods folder MUST BE EMPTY or deleted: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods_
 
 ---
 
 ## ⚕️ Wabbajack errors when downloading
 
-### A. If a mod fails to download, sometimes just wait 10-15 minutes and press the Download & Install button again.
+### A. If a mod fails to download, sometimes just wait 5-10 minutes and press the Download & Install button again.
 
 This is usually just a hiccup at NexusMods.
-
 
 
 ### B. If you see errors like:
@@ -101,7 +94,7 @@ This is because you are on a game version different than the list.
 
 <img width="2232" height="1090" alt="image" src="https://github.com/user-attachments/assets/61895011-999f-42a1-a90c-3f8a056235c5" />
 
-→ You must be on the same game version the list is made for. 
+**→ You must be on the same game version the list is made for.**
 
 Example: if the Wabbajack list shows game version 2.5, your game in Steam must also be on 2.5.
 
@@ -201,7 +194,10 @@ If you contact me without logs, I will tell you to send logs.
 
 Logs can be posted in the Guppy's Unofficial 7DtD Modding Discord Server in the fns-smorgasbord channel.
 
-Drag and drop your logs file into the chat.
+discord.gg/WpVPJWj7Xk
+
+Drag and drop your logs file into the chat at #fns-smorgasbord.
+
 
 I or one of the other community members will assist you as time permits.  
 
@@ -496,8 +492,6 @@ make sure you delete the contents from: _C:\Users\Username\AppData\Roaming\7Days
 
 ---
 
-
-
 ## Wabbajack Issue
 
 If you are having a problem downloading the list through Wabbajack, it could be because you haven't switched your Windows Region settings to English.
@@ -524,7 +518,6 @@ Click the **Priority** column header to re-sort.
 
 
 <img width="1754" height="417" alt="image" src="https://github.com/user-attachments/assets/b4262a38-e6f5-41a5-9acf-b8d04d18b829" />
-
 
 
 ### “I toggled mods willy nilly, I can't remember what I toggled, now I get endless errors! What do I do to fix it?!”
