@@ -447,7 +447,7 @@ Modding is important to me.
 Yet, I am all for making the process more convenient for users. 
 Wabbajack has made it the easiet it's ever been, but it still requires a sense of ownership. 
 
-**If a user is unwillingly to read and follow the directions, _they do not deserve the deluxe modded experience_.**
+**If a user is unwilling to read and follow the directions, _they do not deserve the deluxe modded experience_.**
 
 
 ## Remember kids, Gatekeeping is not a curse-word, it's your civic duty! 
