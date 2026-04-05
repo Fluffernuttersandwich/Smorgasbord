@@ -44,6 +44,12 @@ You can change your game version like this:
 **Game will not launch / crashes immediately?**
 
 → Check EAC is **disabled** from the Game Launcher
+→ Delete anything in the "Selected Launch Options" box.
+
+<img width="2124" height="1234" alt="image" src="https://github.com/user-attachments/assets/561d11f1-0a8f-45c6-883b-700211f7d5c3" />
+
+
+
 
 → Verify game files in Steam to ensure Harmony is there.
 
