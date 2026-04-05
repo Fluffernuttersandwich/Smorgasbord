@@ -19,11 +19,17 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 
 **Wabbajack errors when downloading:**
 1    Data_Config_Localization.txt    Game file source
+
 2    Data_Config_loot.xml    Game file source
+
 3    Data_Config_recipes.xml    Game file source 
+
 ...
+
+
 → You must be on the same game version the list is made for. 
-Example, if the Wabbajack list shows game version 2.5, your game in Steam must also be on 2.5.
+
+Example: if the Wabbajack list shows game version 2.5, your game in Steam must also be on 2.5.
 
 <img width="1992" height="920" alt="image" src="https://github.com/user-attachments/assets/eb9d4a60-396e-400d-852a-eb1f0b599287" />
 
