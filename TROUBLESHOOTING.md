@@ -4,8 +4,6 @@ This document contains **all troubleshooting, diagnostics, performance considera
 
 If you skipped the README: go back and read it.  
 
-If you didn’t read it: this document will hurt your feelings, and yes, you deserve that.
-
 
 > [!CAUTION]
 > If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it.
