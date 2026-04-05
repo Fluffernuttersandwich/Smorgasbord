@@ -45,7 +45,7 @@ This document contains **all troubleshooting, diagnostics, and known issues** fo
 
 ### Default location: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\logs_
 
-### Alternative Log Location: C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
+### Alternative Log Location: _C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die_
 
 
 ---
