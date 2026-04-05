@@ -17,13 +17,13 @@ If you skipped the README: go back and read it.
 
 ## ⚕️ Wabbajack errors when downloading
 
-A. If a mod fails to download, sometimes just wait 10-15 minutes and press the Download & Install button again.
+### A. If a mod fails to download, sometimes just wait 10-15 minutes and press the Download & Install button again.
 
 This is usually just a hiccup at NexusMods.
 
 
 
-B. If you see errors like:
+### B. If you see errors like:
 
 
 1    Data_Config_Localization.txt    Game file source
@@ -54,7 +54,7 @@ You can change your game version like this:
 
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
-**Game will not launch / crashes immediately?**
+### **Game will not launch / crashes immediately?**
 
 → Check EAC is **disabled** from the Game Launcher
 
@@ -73,7 +73,7 @@ Use the correct Launcher:
 
 
 
-→ Verify game files in Steam to ensure Harmony is in the Base Game's Mods folder.
+### → Verify game files in Steam to ensure Harmony is in the Base Game's Mods folder.
 
 <img width="1828" height="848" alt="image" src="https://github.com/user-attachments/assets/06238cb7-c84c-4f99-b2dc-1577f3a4ee81" />
 
@@ -83,7 +83,8 @@ Use the correct Launcher:
 
 
 
-**Stuck on “Building Environment…” or crafting queue frozen?**
+### **Stuck on “Building Environment…” or crafting queue frozen?**
+
 → Press F1
 
 → Endless red errors? You removed, added mods mid-save, or introduced a compatibility issue. 
@@ -96,13 +97,11 @@ Start a new save.
 
 → Mods exist in `AppData\Roaming\7DaysToDie\Mods`. Remove ALL mods from that folder.  
 
-**Multiplayer not working?**
-
-→ Crossplay should be **disabled**
+### **Multiplayer not working?**
 
 → Server + clients must match mods exactly  
 
-**Random crashes after playing for a while?**
+### **Random crashes after playing for a while?**
 
 → Your overall Graphics settings are too high for your hardware. Lower them.
 
@@ -113,9 +112,7 @@ Start a new save.
 → Performance Issues? Reduce Graphic Settings and Map size. Maybe disable The Descent and/or CompoPack POIs.
 You can also play around with things like DLSS, try purchasing Lossless Scaling, or upgrading your hardware.
 
-If none of the above applies:
-
-→ **Send logs**
+### If none of the above applies: → **Send logs**
 
 
 ---
@@ -148,7 +145,7 @@ Drag and drop your logs file into the chat.
 I or one of the other community members will assist you as time permits.  
 
 
-**Be kind:**
+### **Be kind:**
 
 → We are not paid tech support.  
 
@@ -419,7 +416,7 @@ To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memor
 
 ## BepinEx Issue:
 
-BepinEx is a dirty way to mod because it adds junk to the base game's files that can cause issues with other mods (like Smorgasbord).
+BepinEx is a dirty way to mod because it adds junk to the base game's files that can cause issues with other modding methods (like Smorgasbord).
 
 If you ever modded your game with BepinEx, uninstall 7DtD, delete any remaining 7DtD folders in the Steam Directory, and perform a clean installation.
 
@@ -497,7 +494,7 @@ Here is an example:
 
 In MO2, under the Weapons Separator, it states that if you are playing with EFTX, you must choose One, and only One, "Z2" ammo option.
 
-If you don't choose a Z2 ammo option, it fails with game breaking errors.
+If you don't choose a "Z2" ammo option, it fails with game breaking errors.
 
 If you choose _more than one_ "Z2" ammo option, it fails with game breaking errors.
 
@@ -506,7 +503,7 @@ If you choose _more than one_ "Z2" ammo option, it fails with game breaking erro
 <img width="2124" height="1254" alt="image" src="https://github.com/user-attachments/assets/c2d8c75e-93b1-49c4-a968-ebb544d34af5" />
 
 
-**Benign Warnings and Errors**
+### **Benign Warnings and Errors**
 
 Warnings come in yellow font within the (F1) Console.
 
@@ -532,7 +529,7 @@ I have hundreds of hours played with these warnings present.
 
 ## Performance Issues
 
-➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+➡ Please see the **[Performance_Optimization.md](Performance_Optimization.md)**
 
 ---
 
