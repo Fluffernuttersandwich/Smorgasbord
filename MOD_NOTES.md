@@ -21,6 +21,9 @@ This is how this game is meant to be played!
 <img width="1157" height="243" alt="image" src="https://github.com/user-attachments/assets/8b03f6de-ed3c-479a-9e6e-34dc82bda5d8" />
 
 
+If you don't like that Brightness, disable the mod and use vanilla brightness settings, or install your own lighting mod.
+
+
 ---
 
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
