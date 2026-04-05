@@ -260,7 +260,7 @@ Don't FOMO! The list isn't going anywhere!
 - Is this compatible with Overhaul Mods? No! Not compatible with Darkness Falls / Rebirth / nor any other Overhaul
 - Does this work with Vortex? No!  This is not compatible with Vortex.
 - Is this a lightweight modlist? No!
-- Does this work with Linux? Maybe, but you are on your own, I will not help Linux people.
+- Does this work with Linux? Yes, but you are on your own, I will not help Linux people. None of the Linux bros have given me a write-up for this.
 - Can you help me set up MO2 without downloading Smorgasbord? Nope. Too time consuming, figure it out yourself. 
 
 ---
