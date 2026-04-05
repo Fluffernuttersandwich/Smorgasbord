@@ -225,19 +225,17 @@ https://www.wabbajack.org/
 
 ## Dedicated Servers
 
-- Multiplayer supported
-- Dedicated servers supported
-- Server and clients must match mods
-- EAC must be disabled
+- Some community members have successfully converted the list to Dedicated Server use:
+➡ **[DEDICATED_SERVER.md](DEDICATED_SERVER.md)**
 
 ---
 
 ## Updates
 
 - Track the Smorgasbord Mod Page on NexusMods
-- Update via Wabbajack
+- Update the Smorgasbord Mod List via Wabbajack
 - Overwrite existing installation
-- New versions may require a new save
+- Updating the Mod List may require a new save
 
 I post smaller updates regularly, and advertise this on my channel over at Guppy's Discord.
 
