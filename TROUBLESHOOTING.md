@@ -17,6 +17,23 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
+** Wabbajack errors when downloading:
+1    Data_Config_Localization.txt    Game file source
+2    Data_Config_loot.xml    Game file source
+3    Data_Config_recipes.xml    Game file source 
+...
+→ You must be on the same game version the list is made for. 
+Example, if the Wabbajack list shows game version 2.5, your game in Steam must also be on 2.5.
+
+<img width="1992" height="920" alt="image" src="https://github.com/user-attachments/assets/eb9d4a60-396e-400d-852a-eb1f0b599287" />
+
+You can change your game version like this:
+
+<img width="2346" height="1186" alt="image" src="https://github.com/user-attachments/assets/3f20553e-4d58-429b-ab21-6a60e7298587" />
+
+<img width="1652" height="1066" alt="image" src="https://github.com/user-attachments/assets/1c552610-1a93-4e79-9024-d16f83cf1eb2" />
+
+
 **Game will not launch / crashes immediately?**
 
 → Check EAC is **disabled** from the Game Launcher
