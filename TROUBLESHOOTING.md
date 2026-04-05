@@ -385,9 +385,13 @@ Create Antivirus exceptions for:
 - `7daystodie.exe`
 
 ## Windows Issue
-This is an obscure one, but could be messing with 0_Harmony... Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).
+This is an obscure one, but could be messing with 0_Harmony... 
+
+if you see Harmony errors in your logs, check: Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).
+
 If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 
 0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched. 
+
 To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
 
 
