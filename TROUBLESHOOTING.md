@@ -17,7 +17,7 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
-** Wabbajack errors when downloading:
+**Wabbajack errors when downloading:**
 1    Data_Config_Localization.txt    Game file source
 2    Data_Config_loot.xml    Game file source
 3    Data_Config_recipes.xml    Game file source 
