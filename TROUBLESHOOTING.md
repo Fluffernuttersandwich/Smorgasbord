@@ -45,6 +45,12 @@ You can change your game version like this:
 
 → Check EAC is **disabled** from the Game Launcher
 
+→ Delete anything that could be a potential conflict in the "Select Launch Options" box. 
+
+
+<img width="2124" height="1234" alt="image" src="https://github.com/user-attachments/assets/ffd116cc-0df4-4d03-b8a1-802206ca8402" />
+
+
 → Verify game files in Steam to ensure Harmony is there.
 
 → Update GPU drivers  
