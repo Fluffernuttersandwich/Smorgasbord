@@ -51,6 +51,15 @@ You can change your game version like this:
 <img width="2124" height="1234" alt="image" src="https://github.com/user-attachments/assets/ffd116cc-0df4-4d03-b8a1-802206ca8402" />
 
 
+Make sure you are launching from the MO2 application provided by Wabbajack where you downloaded the Smorgasbord list.
+
+
+Use the correct Launcher:
+
+<img width="2452" height="1234" alt="image" src="https://github.com/user-attachments/assets/e4c27558-6330-4c11-85c3-f48b3ec89aaf" />
+
+
+
 → Verify game files in Steam to ensure Harmony is there.
 
 → Update GPU drivers  
@@ -58,7 +67,7 @@ You can change your game version like this:
 **Stuck on “Building Environment…” or crafting queue frozen?**
 → Press F1
 
-→ Endless red errors? You removed or added mods mid-save. Start a new save. 
+→ Endless red errors? You removed, added mods mid-save, or introduced a compatibility issue. Start a new save. 
 
 **Game frozen, or the Console is a waterfall of Red Errors?**
 
