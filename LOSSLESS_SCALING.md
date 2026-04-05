@@ -16,7 +16,7 @@ If not — skip it. Smörgåsbord works without it.
 You should consider LS if:
 
 1. You have a **120Hz+ monitor** (higher is better)
-2. You are okay playing games **windowed**
+2. You are okay playing games **windowed** or **windowed borderless**
 3. You can follow setup instructions carefully
 4. You understand this game is **CPU-bottlenecked**
 
