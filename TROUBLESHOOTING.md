@@ -209,9 +209,11 @@ Respect your time, and respect ours.  **JUST POST THE LOGS!**
 
 ### 1. Game Version
 
-You **must** be on the current stable version of **7 Days to Die**.
+You **must** be on the current stable version of **7 Days to Die** that the Smorgasbord Mod List supports. 
 
-Experimental builds are **not supported**.
+Compare what the Smorgasbord Mod List version is at compared to your Steam Game Version is. these must be the same!
+
+Experimental builds are generally **not supported**.
 
 ---
 
@@ -246,7 +248,7 @@ If you deleted it:
 
 Notice: Some Smorgasbord mods will add folders to your Mods folder, these are fine, they store your local settings for those mods.
 
-Example: When you launch Smorgasbord from MO2, TMO Core creates a mod folder in the base game's Mods folder. This stores your perosnal settings for his mods. 
+Example: When you launch Smorgasbord from MO2, some mods create a mod folder in the base game's Mods folder. This stores your perosnal settings for his mods. 
 
 
 ---
@@ -468,11 +470,11 @@ If you fail to read the Notes of mods in MO2, and toggle mods willy-nilly, you w
 
 Here is an example:
 
-In MO2, under the Weapons Separator, it states that if you are playing with EFTX, you must choose One, and only One, Z2 ammo option.
+In MO2, under the Weapons Separator, it states that if you are playing with EFTX, you must choose One, and only One, "Z2" ammo option.
 
 If you don't choose a Z2 ammo option, it fails with game breaking errors.
 
-If you choose more than one Z2 ammo option, it fails with game breaking errors.
+If you choose _more than one_ "Z2" ammo option, it fails with game breaking errors.
 
 
 
