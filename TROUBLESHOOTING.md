@@ -424,6 +424,12 @@ You should be good to go after that.
 
 ---
 
+### If you ever modded the game with Vortex...
+
+make sure you delete the contents from: _C:\Users\Username\AppData\Roaming\7DaysToDie\Mods_
+
+---
+
 
 
 ## Wabbajack Issue
