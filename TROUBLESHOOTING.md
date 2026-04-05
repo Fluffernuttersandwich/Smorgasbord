@@ -36,6 +36,17 @@ B. If you see errors like:
 
 ...
 
+
+This is because you are on a game version different than the list.
+
+<img width="2232" height="1090" alt="image" src="https://github.com/user-attachments/assets/61895011-999f-42a1-a90c-3f8a056235c5" />
+
+
+Go back into Steam, set the Game Version for 7DtD to be the same as the Mod List in Wabbajack
+
+<img width="1848" height="1174" alt="image" src="https://github.com/user-attachments/assets/45770f14-a632-42fb-b469-cecf5930c7fd" />
+
+
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
 → You must be on the same game version the list is made for. 
