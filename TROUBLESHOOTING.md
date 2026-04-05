@@ -1,6 +1,6 @@
 # 🧯 Smörgåsbord — Troubleshooting, Performance & Known Issues
 
-This document contains **all troubleshooting, diagnostics, performance consideration, and known issues** for the **Smörgåsbord** Mod List.
+This document contains **all troubleshooting, diagnostics, and known issues** for the **Smörgåsbord** Mod List.
 
 If you skipped the README: go back and read it.  
 
