@@ -13,7 +13,75 @@ If you skipped the README: go back and read it.
 > Any Errors you added to your Smorgasbord game by including your own new mods is _your_ problem to deal with.
 
 
+---
 
+# ⚡ Quick Troubleshooting Flow (START HERE)
+
+## 🚫 Game will not launch / crashes immediately
+- Disable **EAC** in the launcher  
+- Clear **Additional Launch Parameters**
+- Launch **ONLY via MO2 (Wabbajack install)**
+- Verify game files → restores **Harmony**
+- Update GPU drivers
+
+---
+
+## 🔴 Game frozen / red error spam / stuck on “Building Environment…”
+- Press **F1**
+- Endless red errors = broken mod state:
+  - Mods added/removed mid-save
+  - Load order broken
+  - External mods present
+
+### Fix:
+- Remove ALL mods from: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods_
+- Post logs in **Guppy’s Discord → #fns-smorgasbord**
+- Drag & drop full log file (not screenshots)
+
+### Be kind:
+- We are not paid tech support  
+- We are not psychic  
+- Screenshots ≠ logs  
+- You will not be helped without logs  
+
+---
+
+# 📄 Log Files (Required)
+
+### In-game:
+- Press **F1 → “Open Log Folder”**
+
+### Default location: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\logs_
+
+
+---
+
+# ✅ Basic Sanity Checks
+
+## 1. Game Version
+- Must match **Smörgåsbord version**
+- Experimental builds not supported
+
+---
+
+## 2. Easy Anti-Cheat (EAC)
+- Must be **disabled permanently**
+
+---
+
+## 3. Harmony Folder (CRITICAL)
+
+Must exist in the base game's Mods folder: _...\7 Days To Die\Mods\0_TFP_Harmony_
+- Harmony should be the **only** mod allowed in base game's Mods folder
+- Restore via **Steam → Verify Files**
+
+---
+
+## 4. Mods in Wrong Locations
+
+### ❌ The AppsData Mods folder MUST BE EMPTY: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods_
+
+---
 
 ## ⚕️ Wabbajack errors when downloading
 
@@ -25,15 +93,9 @@ This is usually just a hiccup at NexusMods.
 
 ### B. If you see errors like:
 
-
-1    Data_Config_Localization.txt    Game file source
-
-2    Data_Config_loot.xml    Game file source
-
-3    Data_Config_recipes.xml    Game file source 
-
-...
-
+> 1    Data_Config_Localization.txt    Game file source
+> 2    Data_Config_loot.xml    Game file source
+> 3    Data_Config_recipes.xml    Game file source 
 
 This is because you are on a game version different than the list.
 
@@ -52,7 +114,7 @@ You can change your game version like this:
 <img width="1652" height="1066" alt="image" src="https://github.com/user-attachments/assets/1c552610-1a93-4e79-9024-d16f83cf1eb2" />
 
 
-## ⚡ Quick Troubleshooting Flowchart (Read This First)
+## Common Troubleshooting Issues
 
 ### **Game will not launch / crashes immediately?**
 
@@ -79,8 +141,7 @@ Use the correct Launcher:
 
 
 
-→ Update GPU drivers  
-
+→ Update GPU drivers  (Nvidia or AMD apps)
 
 
 ### **Stuck on “Building Environment…” or crafting queue frozen?**
@@ -172,7 +233,6 @@ If the log file is too large, delete the lines after the Errors start endlessly 
 
 
 <img width="618" height="247" alt="image" src="https://github.com/user-attachments/assets/c3ffe936-4b6c-4d8f-82cc-84d23dfbb18d" />
-
 
 
 
@@ -287,6 +347,7 @@ With the exception of the Harmony mod in the base game's folder, do not run any 
 
 - Update Wabbajack to the **latest version**
 - Old versions **do not support 7DtD**
+- Sign into NexusMods from Wabbajack Settings
 - Clear Wabbajack cache occasionally
 
 To reset Wabbajack:
@@ -300,7 +361,7 @@ To reset Wabbajack:
 
 ### NexusMods Login
 
-You **must** be logged into Nexus Mods **inside Wabbajack**.
+You **must** be logged into Nexus Mods **inside the Wabbajack application**.
 
 Being logged in via browser alone is not enough.
 
@@ -416,9 +477,14 @@ To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memor
 
 ## BepinEx Issue:
 
-BepinEx is a dirty way to mod because it adds junk to the base game's files that can cause issues with other modding methods (like Smorgasbord).
+BepinEx is a dirty way to mod because it adds junk to the base game's files that can cause conflicts with other modding methods (like Smorgasbord).
 
-If you ever modded your game with BepinEx, uninstall 7DtD, delete any remaining 7DtD folders in the Steam Directory, and perform a clean installation.
+If you ever modded your game with BepinEx, you have two options:
+
+
+1. Delete the BepinEx files from the base game's folder.
+2. Or, uninstall 7DtD, delete any remaining 7DtD folders in the Steam Directory, and perform a clean installation.
+
 
 You should be good to go after that.
 
@@ -518,7 +584,7 @@ Errors are listed in Red within the (F1) Console.
 - WalkerSim produces many yellow warnings — **normal**
 - Descent + Bait Bags produces a benign error — **harmless**
 - Closer Weapon's Pack creates some yellow warnings — **acceptable**
--  OCB Maurice's Parachute mod. It will pop-open the console with an Error, but it still works.  
+-  OCB Maurice's Parachute mod. It will pop-open the console with an Error, but it still works without any issues.  
 The mod is disabled by default until he updates it. 
 This happens every time TFP updates the game, but OCB usually only recompiles his mods when something is actually broken.
 - There's likely more I'm missing
@@ -534,6 +600,8 @@ I have hundreds of hours played with these warnings present.
 
 
 ## Performance Issues
+
+If your FPS is lower than expected, or you have low texture resolution, or stuttering...
 
 ➡ Please see the **[Performance_Optimization.md](Performance_Optimization.md)**
 
