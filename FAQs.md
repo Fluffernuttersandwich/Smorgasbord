@@ -404,7 +404,7 @@ DoubleG did a great job with his zombies, and he is an entertaining YouTuber.
 
 Download and drag the zip into your MO2 "downloads" folder.
 Then when you see it on the right of the MO2 application Downloads section, drag it over to the Mod List and enable it.
-Put `[No Delete]` in front of the name of it so the next update of Smorgasbord will not delete the added mod.
+Put `[NoDelete]` in front of the name of it so the next update of Smorgasbord will not delete the added mod.
 
 
 ---
