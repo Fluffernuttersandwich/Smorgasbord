@@ -1,6 +1,6 @@
 # 🧯 Smörgåsbord — Troubleshooting, Performance & Known Issues
 
-This document contains **all troubleshooting, diagnostics, performance tuning, and known issues** for the **Smörgåsbord**.
+This document contains **all troubleshooting, diagnostics, performance consideration, and known issues** for the **Smörgåsbord**.
 
 If you skipped the README: go back and read it.  
 
@@ -15,9 +15,18 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 > Any Errors you added to your Smorgasbord game by including your own new mods is _your_ problem to deal with.
 
 
-## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
-**Wabbajack errors when downloading:**
+
+## ⚕️ Wabbajack errors when downloading
+
+A. If a mod fails to download, sometimes just wait 10-15 minutes and press the Download & Install button again.
+
+This is usually just a hiccup at NexusMods.
+
+
+
+B. If you see errors like:
+
 
 1    Data_Config_Localization.txt    Game file source
 
@@ -27,6 +36,7 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 
 ...
 
+## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
 → You must be on the same game version the list is made for. 
 
