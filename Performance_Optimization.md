@@ -294,11 +294,14 @@ If you are struggling with FPS, consider disabling heavier mods first.
 | Rainstorm | -1 to -5 FPS |
 
 
-Note: For the WalkerSim mod specifically, ZombiePopulationDensity will effect your FPS. 
-The higher the number, the more FPS you will lose.
+Note 1: For the WalkerSim mod specifically, ZombiePopulationDensity will effect your FPS. 
+The higher the number, the more FPS you will lose. 180 is fine for most systems.
 
 
-SCore adds Fire-Spreads features. This can be demanding on servers and low-end hardware. 
+Note 2: The Descent mod requires a system with 16GB of System Memory
+
+
+Note 3: SCore adds a Fire-Spreads feature. This can be demanding on servers and low-end hardware. 
 
 
 ---
