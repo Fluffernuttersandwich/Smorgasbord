@@ -1,6 +1,6 @@
 # 🧯 Smörgåsbord — Troubleshooting, Performance & Known Issues
 
-This document contains **all troubleshooting, diagnostics, performance consideration, and known issues** for the **Smörgåsbord**.
+This document contains **all troubleshooting, diagnostics, performance consideration, and known issues** for the **Smörgåsbord** Mod List.
 
 If you skipped the README: go back and read it.  
 
@@ -51,6 +51,7 @@ You can change your game version like this:
 
 <img width="1652" height="1066" alt="image" src="https://github.com/user-attachments/assets/1c552610-1a93-4e79-9024-d16f83cf1eb2" />
 
+
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
 
 **Game will not launch / crashes immediately?**
@@ -72,14 +73,24 @@ Use the correct Launcher:
 
 
 
-→ Verify game files in Steam to ensure Harmony is there.
+→ Verify game files in Steam to ensure Harmony is in the Base Game's Mods folder.
+
+<img width="1828" height="848" alt="image" src="https://github.com/user-attachments/assets/06238cb7-c84c-4f99-b2dc-1577f3a4ee81" />
+
+
 
 → Update GPU drivers  
+
+
 
 **Stuck on “Building Environment…” or crafting queue frozen?**
 → Press F1
 
-→ Endless red errors? You removed, added mods mid-save, or introduced a compatibility issue. Start a new save. 
+→ Endless red errors? You removed, added mods mid-save, or introduced a compatibility issue. 
+
+Disable any off-list mods you added. Update the Mod List from Wabbajack to reset the toggled mods to default.
+
+Start a new save. 
 
 **Game frozen, or the Console is a waterfall of Red Errors?**
 
@@ -132,6 +143,8 @@ If you contact me without logs, I will tell you to send logs.
 
 Logs can be posted in the Guppy's Unofficial 7DtD Modding Discord Server in the fns-smorgasbord channel.
 
+Drag and drop your logs file into the chat.
+
 I or one of the other community members will assist you as time permits.  
 
 
@@ -141,13 +154,16 @@ I or one of the other community members will assist you as time permits.
 
 → We are not psychic.  
 
-→ Screenshots of the F1 console are **not logs**.
+→ Screenshots of the F1 console are **not logs**. These are useless to assist you.
 
 → You will not be assisted without logs!
 
 ---
 
 ## Log Files (Required)
+
+Within the game, you can press the F1 Key, and in the top right there is a button for "Folder Location of Logs". 
+Get your most recet log with the problem.
 
 When using **MO2 + Wabbajack**, logs are stored here:
 
@@ -156,10 +172,6 @@ C:\Users\YourUserName\AppData\Roaming\7DaysToDie\logs
 Attach the **entire log file**, not screenshots.
 
 If the log file is too large, delete the lines after the Errors start endlessly repeating. 
-
-
-Within the game, you can press the F1 Key, and in the top right there is a button for "Folder Location of Logs". 
-Get your most recet log with the problem.
 
 
 <img width="618" height="247" alt="image" src="https://github.com/user-attachments/assets/c3ffe936-4b6c-4d8f-82cc-84d23dfbb18d" />
@@ -404,6 +416,17 @@ To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memor
 
 
 ---
+
+## BepinEx Issue:
+
+BepinEx is a dirty way to mod because it adds junk to the base game's files that can cause issues with other mods (like Smorgasbord).
+
+If you ever modded your game with BepinEx, uninstall 7DtD, delete any remaining 7DtD folders in the Steam Directory, and perform a clean installation.
+
+You should be good to go after that.
+
+---
+
 
 
 ## Wabbajack Issue
