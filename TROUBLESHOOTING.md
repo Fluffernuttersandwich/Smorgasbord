@@ -217,7 +217,7 @@ Experimental builds are **not supported**.
 
 ### 2. Easy Anti-Cheat (EAC)
 
-EAC **must be disabled**, not muted.
+EAC **must be disabled**, not temporarily muted.
 
 Disable it in the Steam 7DtD Game Launcher — permanently.
 
@@ -289,7 +289,7 @@ To reset Wabbajack:
 
 ---
 
-### Nexus Mods Login
+### NexusMods Login
 
 You **must** be logged into Nexus Mods **inside Wabbajack**.
 
@@ -497,7 +497,7 @@ This happens every time TFP updates the game, but OCB usually only recompiles hi
 I have hundreds of hours played with these warnings present.
 
 
-- Experimental mods are **not vetted**
+- Experimental mods are **not thoroughly vetted**
 
 
 ---
