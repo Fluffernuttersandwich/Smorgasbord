@@ -184,9 +184,10 @@ To remove the Debug and Creative Menus, simply go back into the (F1) console and
 
 11. Interesting information about MO2 for 7DtD:  **It's a self-contained ModList!**
 
-MO2 uses a Virtual File system.  This means, it does not make changes ot any base game files.
+MO2 uses a Virtual File system.  This means, it does not make changes to any base game files.
 
 This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, Vanilla, and Smörgåsbord by FNS.  
+I strongly recommend you create a new "Profile" in MO2.
 Install any other mod, or overhaul to MO2, disable other mods, and now you can play those as well... this may (will) require _you_ to perform troubleshooting mod compatibility.
 
 I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other ModPacks.      
