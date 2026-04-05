@@ -479,6 +479,11 @@ If you ever modded your game with BepinEx, you have two options:
 
 
 1. Delete the BepinEx files from the base game's folder.
+
+
+<img width="1118" height="818" alt="image" src="https://github.com/user-attachments/assets/faf33f28-e003-462b-a09a-d9960647bacf" />
+
+
 2. Or, uninstall 7DtD, delete any remaining 7DtD folders in the Steam Directory, and perform a clean installation.
 
 
