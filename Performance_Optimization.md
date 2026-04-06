@@ -312,7 +312,6 @@ Note 3: SCore adds a Fire-Spreads feature. This can be demanding on servers and 
 |------|--------------------|
 | Less Trees | +1 to +5 FPS |
 | Less Grass | +1 to +5 FPS |
-| TMO’s Performance Plus | +5 to +10 FPS |
 | Despawn Zombies | +1 to +5 FPS |
 
 
