@@ -83,7 +83,7 @@ You can download the Nvidia Control Panel from here:
 https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
 
 
-For the handful of you with AMD GPUs: https://www.youtube.com/watch?v=03y1ToHieog
+For the handful of you with AMD GPUs, ignor all of the Nvidia stuff, use this video: https://www.youtube.com/watch?v=03y1ToHieog
 
 ---
 
