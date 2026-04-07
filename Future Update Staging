@@ -31,6 +31,10 @@ Mods Updated:
 "Funukemaguro's Door Knocker"
 "KHZ_Musik_Zombies"
 "0-SCore"
+"BeyondStorage"
+"DismemberRandomizer"
+"ISI Randomized Traders"
+
 
 Mods Added:
 
@@ -63,6 +67,11 @@ Rocks thrown from player's toolbelt can actually damage zombies.
 
 "OCB Water Shader" Graphics, enabled.
 Changes the water shader. This is good to keep enabled with Rainstorm to prevent the water from turning inky blue. 
+
+"Unofficial - Scrollable Paginated 405 Slot Backpack" UI, disabled.
+Choose either the 80 slot backpack, or this one, not both! 
+This is a backpack with 9 pages each of 9x5 slots per page, with a total of 405 inventory slots.
+
 
 
 ```
