@@ -28,6 +28,7 @@ This video guide walks through various Windows, BIOS, and NVIDIA Control Panel o
 
 How to make a Windows 11 Restore Point: https://www.youtube.com/watch?v=Nm2EjpsOXms
 
+For the handful of you with AMD GPUs, ignore all of the Nvidia stuff, use this video: https://www.youtube.com/watch?v=03y1ToHieog
 
 ### Example Difference
 
@@ -83,7 +84,7 @@ You can download the Nvidia Control Panel from here:
 https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
 
 
-For the handful of you with AMD GPUs, ignor all of the Nvidia stuff, use this video: https://www.youtube.com/watch?v=03y1ToHieog
+
 
 ---
 
