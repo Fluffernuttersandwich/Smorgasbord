@@ -86,9 +86,8 @@ This is usually just a hiccup at NexusMods.
 
 ### B. If you see errors like:
 
-> 1    Data_Config_Localization.txt    Game file source
-> 2    Data_Config_loot.xml    Game file source
-> 3    Data_Config_recipes.xml    Game file source 
+<img width="1782" height="576" alt="image" src="https://github.com/user-attachments/assets/b5a9bc0f-0071-4fac-84fc-7bb1a948d4d0" />
+
 
 This is because you are on a game version different than the list.
 
