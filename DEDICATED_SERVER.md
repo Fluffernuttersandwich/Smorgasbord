@@ -165,3 +165,12 @@ worked sometimes but would throw random NullReferenceException errors causing se
 not causing any major issues but very bugy on dedicated
 jack o lanterns keep spawning in cleared pois like are base and across the street to the point theres 50+ on 1 spot and after you clear a Poi of you lure a zombie in to it and kill it you get rewarded for clearing it again cooking the scourge token economy
 
+
+
+For general advice on setting up dedi with 7dtd, you can also try searching and asking over on the **7DTD Admin Coalition Discord Server**. 
+
+It has it's own discord server, but they don't deal with Smorgasbord directly. 
+
+https://discord.gg/VwwYA5h
+
+
