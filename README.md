@@ -114,6 +114,7 @@ Ideal if you are:
 ## Requirements & Hardware
 
 - Hardware capable of running vanilla 7DtD. If you can run the base game, you can run this list.
+- Note: The Descent mod requires at least 16GB of System Memory (RAM). This is an optional mod (enabled by default).
 - As-is, the list is not overly demanding. You may choose to toggle mods that can effect performance for yourself.
 
 
