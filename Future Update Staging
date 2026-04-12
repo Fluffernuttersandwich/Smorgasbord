@@ -1,77 +1,26 @@
-**Smörgåsbord ModList Update:** ```2.6.1.1 TBD
+**Smörgåsbord ModList Update:** ```2.6.1.1 15:30 EST 12APR2026
 
 Comments:
 
-1. We have officially moved to stable version 2.6!
-
-2. You will very likely need to start a new save for this update. 
+1. Smörgåsbord has officially moved to stable game version 2.6!
+This is a MAJOR revision! You will need to start a new save for this update!
 If you are happy with your current playthrough, wait to update the mod list.
+
+2. I moved some mods around in MO2, disabled a few for improved balance (by default), and added a bunch of new stuff. 
+It would be too exhausting for me to cover all of the changes this time so you will need to update to see the changes.
 
 3. If you haven't seen it yet, I made a new trailer for the mod list.
 If you good people want to share it, I'd appreciate the exposure.
-I have a new project I'm working on.
+https://www.youtube.com/watch?v=SsNUjvyT7Wg
+
+I will work on a shorter installation guide video at some point in the future.
+
+4. I have a new project I'm working on. 
 It will be recording an edited playthrough of Viridian Isles as a cinematic story... More to come.
 
-Mods Removed:
-
-I swapped the Craft Clothing mod for a better one. 
-
-Mods Updated:
-
-"WalkerSim"
-"Witos Camera Controller"
-"Witos JLTV"
-"Witos Root"
-"LittleRedSonja and Mumpfy ArmorPack06 Resident Evil"
-"Singularity"
-"Hydroponic Farming"
-"Wasteland"
-"Jen Model Revival"
-"MiniMap"
-"Funukemaguro's Door Knocker"
-"KHZ_Musik_Zombies"
-"0-SCore"
-"BeyondStorage"
-"DismemberRandomizer"
-"ISI Randomized Traders"
-
-
-Mods Added:
-
-"Nuketown" POI, enabled.
-From CoDBLOps.
-
-"TFP Raft" Vehicles, enabled.
-Boat
-
-"Remove Trader XP - V2.5 b23" Survivalist, enabled.
-You no longer gain XP from trading. 
-This is to help balance the game and prolong your playthrough.
-Thank you to one of our new community members aAndrew for the suggestion.
-
-"Persistent Crosshair in ADS" UI, enabled.
-The crosshair (or dot) will remain on-screen when you Aim Down Scope (ADS) with vanilla guns/bows, Izy, and EFTX weapons.
-Works in 1st/3rd person ADS, works with either vanilla UI, Steel UI, and Cat UI.
-Some of the EFTX weapon mods will hide that as an override. I don't know how to address that.
-Big thanks to ALo for helping me with this mod.
-
-"Smart Goggles v2.6(Latest)" OP, disabled.
-With these super-powerful smart goggles, which combine 5 attribute mods, you gain +1 to all attributes, +10% XP, +10 to loot level and a reduced treasure radius. 
-A perfect upgrade for survivors seeking efficiency, power and faster progression in the apocalypse.
-
-"Blood Moon Kill Counter v2.6(Latest)" UI, disabled.
-Track your kills and headshots during Blood Moon nights in real time.
-
-"RockyRocks" Standard, enabled.
-Rocks thrown from player's toolbelt can actually damage zombies.
-
-"OCB Water Shader" Graphics, enabled.
-Changes the water shader. This is good to keep enabled with Rainstorm to prevent the water from turning inky blue. 
-
-"Unofficial - Scrollable Paginated 405 Slot Backpack" UI, disabled.
-Choose either the 80 slot backpack, or this one, not both! 
-This is a backpack with 9 pages each of 9x5 slots per page, with a total of 405 inventory slots.
-
+5. Expect some more updates in the near future:
+Izy is working on updating his AIO Weapons Pack. You probably won't get new weapons, just fixes.
+LittleRedSonja & Mumpfy also have a new character creation customization mod on the horizon as well.
 
 
 ```
