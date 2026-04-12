@@ -595,6 +595,72 @@ I have hundreds of hours played with these warnings present.
 
 ---
 
+## 🔧 Black Gun Smoke / Particle Issue
+
+If your gun smoke appears **solid black instead of transparent grey**, this is usually a **graphics/rendering issue**.  
+Mods may **exacerbate it**, but it mostly comes down to your **graphics settings**.
+
+---
+
+### ✅ Step 1 – Set These FIRST
+- **Shader Quality** → High or Ultra  
+- **Particles** → High  
+
+---
+
+### 🚫 Step 2 – Turn These OFF (for testing)
+- Screen Space Reflections (SSR) → Off  
+- Volumetric Fog → Off  
+- Motion Blur → Off  
+- Depth of Field → Off  
+
+---
+
+### 🔄 Step 3 – Post Processing
+Try switching between:
+- Off  
+- Low  
+- High  
+
+> ⚠️ Note: Higher settings can sometimes **fix** the issue.
+
+---
+
+### 🎮 Step 4 – Nvidia Users
+
+**Nvidia Control Panel:**
+- Transparency Supersampling → Off  
+- Antialiasing Mode → Application-controlled  
+
+**Nvidia App:**
+- Disable all filters / overrides  
+  - Freestyle  
+  - DLSS tweaks  
+  - Ray Reconstruction  
+
+---
+
+### 🧪 Step 5 – Quick Reset Test
+- Set Video Preset → High  
+- Restart the game  
+
+---
+
+### 📌 Important
+Mods can **make this more noticeable**, but this is primarily a **client-side rendering/settings issue**, not a direct mod bug.
+
+---
+
+### ❗ Still having issues?
+Please provide:
+- Screenshot of your Video Settings  
+- GPU + Driver Version  
+- Whether Nvidia App filters or overrides are enabled  
+
+This will help narrow down the cause quickly.
+
+---
+
 
 ## Performance Issues
 
