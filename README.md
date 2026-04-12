@@ -94,7 +94,7 @@ Ideal if you are:
 
 ![small_hive](https://github.com/user-attachments/assets/dfb17561-f347-426f-b6a3-03b98d4a0efd)
 
-▶ https://youtu.be/EjcPL_E-l3w
+▶ [https://www.youtube.com/watch?v=SsNUjvyT7Wg](https://www.youtube.com/watch?v=SsNUjvyT7Wg)
 
 ---
 
