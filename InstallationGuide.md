@@ -21,11 +21,11 @@ Smörgåsbord is a Wabbajack Mod List that uses ModOrganizer 2 (MO2) to deliver 
 - 2000 Series Nvidia GPU or newer.
 - Better than ancient CPU.
 
-### 💡 **Lower-end system?** Disable heavier mods in MO2 and refer to the **Performance Guide**.
+### 💡 **Lower-end system?** After download of the list has completed, refer to the **Performance Guide** to disable heavier mods.
 
 ## 📖 Performance Guide:
 
-https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/Performance_Optimization.md
+➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
 ## 🧱 Prerequisites
 
@@ -289,7 +289,7 @@ Fix manually by mimicking working mod structure if needed
 
 📖 Guide:
 
-https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/DEDICATED_SERVER.md
+➡ **[DEDICATED_SERVER.md](DEDICATED_SERVER.md)**
 
 ⚠️ No official support will be provided for setting up or troubleshooting Dedicated Servers!
 
@@ -319,13 +319,13 @@ Reinstall Smorgasbord
 
 📖 Guide:
 
-https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/Performance_Optimization.md
+➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
 ## 🧯 Troubleshooting
 
 📖 Guide:
 
-https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/TROUBLESHOOTING.md
+➡ **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)**
 
 ## 💖 Donations
 
