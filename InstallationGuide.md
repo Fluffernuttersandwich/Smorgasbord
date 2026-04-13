@@ -1,15 +1,12 @@
 # 🧩 Smörgåsbord Mod List – Installation Guide (7 Days to Die)
 
-A modular, Vanilla+ Wabbajack experience powered by MO2
-Built for flexibility, performance tuning, and player choice
-
 ## 📌 Overview
 
-Welcome to the Smörgåsbord Mod List Installation Guide for 7 Days to Die.
+Welcome to the Smörgåsbord Mod List Installation Guide for **7 Days to Die**.
 
 Smörgåsbord is a Wabbajack Mod List that uses ModOrganizer 2 (MO2) to deliver one of the most modular and customizable ways to play 7DtD.
 
-📺 The full script + all links are included in the video description.
+📺 Here is the video guide if you'd like to follow along: 
 
 ## ⚙️ System Requirements
 
@@ -124,20 +121,24 @@ Click _Download & Install_
 
 Paste your folder path (Ctrl+V)
 
-⏳ Download Expectations
+###⏳ Download Expectations
 
-💎 Premium
+💎 **Premium**
 
-One click
+- One click
 
-Fully automated
+- Fully automated
+
+- Moves as fast as your network connection and hardware allows.
 
 
-🆓 Free
+🆓 _Free_
 
-Manual download of every mod
+- Manual download of every mod
 
-Expect hours of clicking
+- Expect hours of clicking
+
+- Capped download speed
 
 ## 🛠️ Troubleshooting Downloads
 
@@ -195,7 +196,7 @@ Click ▶️ Play in MO2
 
 Default Profiles
 
-Profile	Description
+### Profile	Description
 
 - Smorgasbord	Balanced default
 
@@ -218,13 +219,13 @@ Rename
 
 ## ⚙️ Mod Management Tips
 
-Hover notes in MO2 for mod info
+Cursor-hover over mod notes in MO2 for useful info
 
-Read ⚠️ highlighted notes carefully
+**Read ⚠️ highlighted notes carefully**
 
 Enable/disable mods per preference
 
-💡 Don’t like a mod? Disable it and move on 😄
+_💡 Don’t like a mod? Disable it and move on 😄_
 
 ### ⚠️ Best Practices
 
@@ -234,9 +235,9 @@ Enable/disable mods per preference
 
 ❗ Some mods are NOT save-safe
 
-🧪 Testing Recommendation
+### 🧪 Testing Recommendation
 
-✔️ Start a test world before committing
+✔️ Start a test world before committing to a long playthrough
 
 Example:
 
@@ -252,7 +253,7 @@ Not save-safe → requires new game
 
 - 📦 Loot Abundance: ≤ 75%
 
-##➕ Adding Mods (Advanced Users)
+## ➕ Adding Mods (Advanced Users)
 
 ### ⚠️ WARNING: Adding mods voids support
 
