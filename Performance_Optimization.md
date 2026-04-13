@@ -420,6 +420,13 @@ Any time you experiment with overclocking and undervolting your components, alwa
 
 ---
 
+### If you don't like the Lighting:
+
+![Lighting1](https://github.com/user-attachments/assets/19ac7346-61ef-4b1e-a7d4-90d9dc54cb27)
+
+
+---
+
 # Final Advice
 
 Performance tuning is always a balance between:
