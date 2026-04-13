@@ -275,7 +275,7 @@ Install into:
 
 Rename mods in MO2 with this prefix:
 
-[NoDelete]
+[NoDelete]_NameOfExampleMod_
 
 ✔️ Prevents removal during updates
 
