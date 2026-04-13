@@ -1,9 +1,9 @@
-#🧩 Smörgåsbord Mod List – Installation Guide (7 Days to Die)
+# 🧩 Smörgåsbord Mod List – Installation Guide (7 Days to Die)
 
 A modular, Vanilla+ Wabbajack experience powered by MO2
 Built for flexibility, performance tuning, and player choice
 
-##📌 Overview
+## 📌 Overview
 
 Welcome to the Smörgåsbord Mod List Installation Guide for 7 Days to Die.
 
@@ -11,7 +11,7 @@ Smörgåsbord is a Wabbajack Mod List that uses ModOrganizer 2 (MO2) to deliver 
 
 📺 The full script + all links are included in the video description.
 
-##⚙️ System Requirements
+## ⚙️ System Requirements
 
 ✔️ If you can run vanilla → you can run Smörgåsbord
 ⚠️ Some mods are heavier and may require stronger hardware
@@ -22,13 +22,13 @@ Smörgåsbord is a Wabbajack Mod List that uses ModOrganizer 2 (MO2) to deliver 
 - 2000 Series Nvidia GPU or newer.
 - Better than ancient CPU.
 
-###💡 **Lower-end system?** Disable heavier mods in MO2
+### 💡 **Lower-end system?** Disable heavier mods in MO2
 
-##📖 Performance Guide:
+## 📖 Performance Guide:
 
 https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/Performance_Optimization.md
 
-##🧱 Prerequisites
+## 🧱 Prerequisites
 
 🪟 Windows 10 / 11 (Linux not officially supported)
 
@@ -47,13 +47,13 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 💎 Premium vs Free NexusMods Account
 
-###**Premium**
+### **Premium**
 
 ✅ One-click install for Wabbajack Mod Lists
 ⚡ Fast + automated
 💡 Best experience
 
-###_Free_
+### _Free_
 
 ❗ Manual download of 500+ mods
 ⏳ Several hours of clicking
@@ -61,7 +61,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 💡 Pro Tip: Buy 1 month Premium, download a cool mod list for every game you own, cancel later
 
-##📦 Step 2 – Install Wabbajack
+## 📦 Step 2 – Install Wabbajack
 
 👉 https://www.wabbajack.org
 
@@ -139,13 +139,15 @@ Click ▶️ Play in MO2
 
 💡 Pin MO2 to taskbar for convenience
 
-##🎮 MO2 Profiles
+## 🎮 MO2 Profiles
 Default Profiles
 Profile	Description
 Smorgasbord	Balanced default
 Survivalist	Hardcore realism
 Wasteland	Fallout-style overhaul
-🛠️ Create Custom Profile
+
+
+### 🛠️ Create Custom Profile
 Profile Dropdown → Manage
 Copy Smorgasbord
 Rename
@@ -153,14 +155,14 @@ Rename
 ✔️ Safe sandbox for customization
 ✔️ Original list remains untouched
 
-##⚙️ Mod Management Tips
+## ⚙️ Mod Management Tips
 Hover notes in MO2 for mod info
 Read ⚠️ highlighted notes carefully
 Enable/disable mods per preference
 
 💡 Don’t like a mod? Disable it and move on 😄
 
-⚠️ Best Practices
+### ⚠️ Best Practices
 ❗ Only change mods on new saves
 ❗ Never toggle mods while game is running
 ❗ Some mods are NOT save-safe
@@ -178,9 +180,9 @@ Not save-safe → requires new game
 📦 Loot Abundance: ≤ 75%
 ➕ Adding Mods (Advanced Users)
 
-##⚠️ WARNING: Adding mods voids support
+## ⚠️ WARNING: Adding mods voids support
 
-###How to Add Mods
+### How to Add Mods
 Connect Nexus in MO2
 Download mod via Nexus
 
@@ -202,14 +204,14 @@ Some mods may be broken or outdated
 Fix manually by mimicking working mod structure if needed
 
 
-##🖥️ Dedicated Servers
+## 🖥️ Dedicated Servers
 
 📖 Guide:
 https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/DEDICATED_SERVER.md
 
 ⚠️ No official support provided
 
-📢 Updates & Community
+## 📢 Updates & Community
 
 Join:
 👉 discord.gg/WpVPJWj7Xk
@@ -223,23 +225,23 @@ Reinstall Smorgasbord
 ✔️ Only downloads changes
 ❗ May break existing saves
 
-##🚀 Performance Optimization
+## 🚀 Performance Optimization
 
 📖 Guide:
 https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/Performance_Optimization.md
 
-##🧯 Troubleshooting
+## 🧯 Troubleshooting
 
 📖 Guide:
 https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/TROUBLESHOOTING.md
 
-##💖 Donations
+## 💖 Donations
 
 👉 https://www.nexusmods.com/profile/FlufferNutterSandwich
 
 Not expected — always appreciated.
 
-##🧠 Final Note
+## 🧠 Final Note
 
 If you enjoy the mod list, help it grow:
 
