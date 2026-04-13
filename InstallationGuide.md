@@ -177,7 +177,7 @@ Wabbajack shows you a splash-screen of Smorgasbord saying the Mod List Installat
 
 You can now close Wabbajack
 
-# ▶️ Step 5 – Launch MO2
+## ▶️ Step 5 – Launch MO2
 Open your Smorgasbord folder
 Run ModOrganizer2.exe
 First Launch
