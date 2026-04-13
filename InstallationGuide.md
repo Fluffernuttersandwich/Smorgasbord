@@ -178,59 +178,87 @@ Wabbajack shows you a splash-screen of Smorgasbord saying the Mod List Installat
 You can now close Wabbajack
 
 ## ▶️ Step 5 – Launch MO2
+
 Open your Smorgasbord folder
+
 Run ModOrganizer2.exe
+
 First Launch
+
 Accept NXM Association → YES
+
 Launch Game
+
 Click ▶️ Play in MO2
 
-⚠️ ALWAYS launch via MO2
+###⚠️ ALWAYS launch Smorgasbord via MO2
 
 💡 Pin MO2 to taskbar for convenience
 
 ## 🎮 MO2 Profiles
+
 Default Profiles
+
 Profile	Description
-Smorgasbord	Balanced default
-Survivalist	Hardcore realism
-Wasteland	Fallout-style overhaul
+
+- Smorgasbord	Balanced default
+
+- Survivalist	Hardcore realism
+
+- Wasteland	Fallout-style overhaul
 
 
 ### 🛠️ Create Custom Profile
+
 Profile Dropdown → Manage
+
 Copy Smorgasbord
+
 Rename
 
 ✔️ Safe sandbox for customization
+
 ✔️ Original list remains untouched
 
 ## ⚙️ Mod Management Tips
+
 Hover notes in MO2 for mod info
+
 Read ⚠️ highlighted notes carefully
+
 Enable/disable mods per preference
 
 💡 Don’t like a mod? Disable it and move on 😄
 
 ### ⚠️ Best Practices
+
 ❗ Only change mods on new saves
+
 ❗ Never toggle mods while game is running
+
 ❗ Some mods are NOT save-safe
+
 🧪 Testing Recommendation
 
 ✔️ Start a test world before committing
 
 Example:
 
-Try NPCCore → decide early
-Not save-safe → requires new game
-🎯 In-Game Settings Recommendations
-🎯 Difficulty: Survivalist
-🧟 Increase zombie speed (optional)
-📦 Loot Abundance: ≤ 75%
-➕ Adding Mods (Advanced Users)
+Try NPCCore → decide early if you love or hate it.
 
-## ⚠️ WARNING: Adding mods voids support
+Not save-safe → requires new game
+
+## 🎯 In-Game Settings Recommendations
+
+- 🎯 Difficulty: Survivalist
+
+- 🧟 Increase zombie speed (optional)
+
+- 📦 Loot Abundance: ≤ 75%
+
+##➕ Adding Mods (Advanced Users)
+
+### ⚠️ WARNING: Adding mods voids support
 
 ### How to Add Mods
 
