@@ -295,11 +295,11 @@ https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/DEDICATED_SERVER.
 
 ## 📢 Updates & Community
 
-Join:
+Join: **Guppycur's Unofficial 7DtD Modding Discord**
 
 👉 discord.gg/WpVPJWj7Xk
 
-Channel: #fns-smorgasbord
+Channel: _#fns-smorgasbord_
 
 Check pins for updates
 
