@@ -163,11 +163,7 @@ Error: Data_Config_Localization.txt missing
 
 ✔️ Cause: Game version mismatch
 
-✔️ Fix:
-
-Match Steam version to Wabbajack list version
-
-Current version at time of recording: 2.6
+✔️ Fix: Match Steam version to Wabbajack list version
 
 ✅ Installation Complete
 
