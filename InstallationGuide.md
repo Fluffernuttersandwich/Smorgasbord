@@ -188,7 +188,7 @@ Launch Game
 
 Click ▶️ Play in MO2
 
-###⚠️ ALWAYS launch Smorgasbord via MO2
+### ⚠️ ALWAYS launch Smorgasbord via MO2
 
 💡 Pin MO2 to taskbar for convenience
 
