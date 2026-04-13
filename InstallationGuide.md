@@ -21,7 +21,7 @@ Smörgåsbord is a Wabbajack Mod List that uses ModOrganizer 2 (MO2) to deliver 
 - 2000 Series Nvidia GPU or newer.
 - Better than ancient CPU.
 
-### 💡 **Lower-end system?** Disable heavier mods in MO2 and refer to the Performance guide.
+### 💡 **Lower-end system?** Disable heavier mods in MO2 and refer to the **Performance Guide**.
 
 ## 📖 Performance Guide:
 
