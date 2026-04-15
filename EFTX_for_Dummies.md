@@ -6,13 +6,6 @@
 
 
 
-<img width="3708" height="1516" alt="image" src="https://github.com/user-attachments/assets/b818f7f0-b0db-4ace-bf58-3a2835f54842" />
-
-
-
-<img width="2114" height="1442" alt="image" src="https://github.com/user-attachments/assets/52d8c3e3-36f2-4bcc-a51a-28f2687f35f8" />
-
-
 ## Download
 
 ### EFTX Compatibility Reference Spreadsheet
@@ -22,3 +15,14 @@ A two-tab spreadsheet showing:
 - Which weapon attachments are compatible with which EFTX guns
 
 **Download here:** [EFTX_Ammo_and_Mod_Compatibility_Reference.xlsx](./EFTX_Ammo_and_Mod_Compatibility_Reference.xlsx)
+
+
+
+<img width="3708" height="1516" alt="image" src="https://github.com/user-attachments/assets/b818f7f0-b0db-4ace-bf58-3a2835f54842" />
+
+
+
+<img width="2114" height="1442" alt="image" src="https://github.com/user-attachments/assets/52d8c3e3-36f2-4bcc-a51a-28f2687f35f8" />
+
+
+
