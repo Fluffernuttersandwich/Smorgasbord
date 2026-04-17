@@ -6,7 +6,7 @@ Welcome to the Smörgåsbord Mod List Installation Guide for **7 Days to Die**.
 
 Smörgåsbord is a Wabbajack Mod List that uses ModOrganizer 2 (MO2) to deliver one of the most modular and customizable ways to play 7DtD.
 
-📺 Here is the video guide if you'd like to follow along: 
+📺 Here is the video guide if you'd like to follow along: https://www.youtube.com/watch?v=3uUI_Rj-64g
 
 ## ⚙️ System Requirements
 
