@@ -15,7 +15,14 @@ Mod Updates:
 
 Mods Added:
 
-"
+"SCG Defense Solutions" Weapons, enabled.
+Adds new Turrets to the game. 
+Caution, using too many turrets in one area with a lot of zombies (like a horde night base) can decrease FPS. 
+
+"SCG Turrets Use EFTX Ammo" Weapons, enabled.
+When using SCG Defense Solutions + EFTX ammo, it forces SCG Defense Solutions to use EFTX Ammo.
+This mod was made using conditional statements; meaning, it's safe no matter what ammo options you select.
+
 ```
 
 ________________________________________________________________
