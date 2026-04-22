@@ -18,8 +18,6 @@ Mod Updates:
 "Flatlander's Fixes for IZY-All in One Gun Pack v5.1"
 "LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead"
 
-
-
 Mods Added:
 
 "Crafting Preview Stats" UI, enabled within the Steel UI suite.
@@ -28,7 +26,7 @@ Not compatible with CATUI, since it already has this feature.
 Only use this mod with the SteelUI or vanilla UI.
 
 "Don't Eat My Jar" Standard, enabled.
-Recipes like Boiled Eggs, and Boiled Meat normally consume the jar when cooked. Now they don't. 
+Recipes like Boiled Eggs and Boiled Meat normally consume the jar when cooked. Now they don't. 
 
 "LittleRedSonja Never Enough (Armor Dye System)" Armor and Decor, enabled.
 Dye any of the suported armors, choosing up to 4 different colors for each of the armor parts, blending nicely with the fabrics. 
@@ -36,6 +34,7 @@ You can dye both the currently equipped armor or the cosmetic you are wearing.
 You access the dye options from within the item "Modify" screen like you would when adding any other armor mod.
 Note: If you add any of your own "backpack" or "UI" mods, it could cause a mod compatibility conflict. 
 It works with vanilla UI, CATUI + CATUI Backpack, 405-Slot backpack, and Steel UI + Steel 80-slot backpack.
+As always, big thanks to LittleRedSonja for making adjustments to her mod so they are compatible with everything we use!
 
 ```
 
