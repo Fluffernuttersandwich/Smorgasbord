@@ -28,6 +28,13 @@ Only use this mod with the SteelUI or vanilla UI.
 "Don't Eat My Jar" Standard, enabled.
 Recipes like Boiled Eggs and Boiled Meat normally consume the jar when cooked. Now they don't. 
 
+"PGz Storms Brewed" Survivalist, enabled.
+You are able to stay out in storms without being hurt with or without the headgear.
+Storms are intense and reasonably short in duration.
+Visually you are impared by increase winds and limited distance vision.
+Temperature increase or decrease will change based on the biome.
+Run speed is reduced due to the winds. Wearing biome headgear will remove temperature and run speed negative buffs.
+
 "LittleRedSonja Never Enough (Armor Dye System)" Armor and Decor, enabled.
 Dye any of the suported armors, choosing up to 4 different colors for each of the armor parts, blending nicely with the fabrics. 
 You can dye both the currently equipped armor or the cosmetic you are wearing.
