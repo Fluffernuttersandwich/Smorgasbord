@@ -28,7 +28,7 @@ Only use this mod with the SteelUI or vanilla UI.
 "Don't Eat My Jar" Standard, enabled.
 Recipes like Boiled Eggs and Boiled Meat normally consume the jar when cooked. Now they don't. 
 
-"PGz Storms Brewed" Survivalist, enabled.
+"PGz Storms Brewed" Survivalist, disabled.
 You are able to stay out in storms without being hurt with or without the headgear.
 Storms are intense and reasonably short in duration.
 Visually you are impared by increase winds and limited distance vision.
@@ -39,9 +39,9 @@ Run speed is reduced due to the winds. Wearing biome headgear will remove temper
 Dye any of the suported armors, choosing up to 4 different colors for each of the armor parts, blending nicely with the fabrics. 
 You can dye both the currently equipped armor or the cosmetic you are wearing.
 You access the dye options from within the item "Modify" screen like you would when adding any other armor mod.
-Note: If you add any of your own "backpack" or "UI" mods, it could cause a mod compatibility conflict. 
-It works with vanilla UI, CATUI + CATUI Backpack, 405-Slot backpack, and Steel UI + Steel 80-slot backpack.
-As always, big thanks to LittleRedSonja for making adjustments to her mod so they are compatible with everything we use!
+It works with the vanilla UI, CATUI, Steel UI, and various backpack mods included with Smorgasbord.
+It should work with other UI Suites and backpack mods, but you will have to test those yourself. 
+As always, big thanks to LittleRedSonja for making adjustments to her mod so they are compatible with everything we use in Smorgasbord!
 
 ```
 
