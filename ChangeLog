@@ -1,3 +1,50 @@
+2.6.1.9 18:45 EST 23APR2026
+
+Comments:
+
+1. Standard Warning: 
+There is no guarantee you can update the Mod List and continue in an existing save.
+Only update the Mod List when you are ready to start a new game.
+
+Removed Mods:
+
+N/A
+
+Mod Updates:
+
+"Enhanced Archery Damage"
+"Beyond Storage 2"
+"Better Explosives"
+"Flatlander's Fixes for IZY-All in One Gun Pack v5.1"
+"LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead"
+
+Mods Added:
+
+"Crafting Preview Stats" UI, enabled within the Steel UI suite.
+Adds a tab to allow you to preview stats prior to crafting an item. 
+Not compatible with CATUI, since it already has this feature. 
+Only use this mod with the SteelUI or vanilla UI.
+
+"Don't Eat My Jar" Standard, enabled.
+Recipes like Boiled Eggs and Boiled Meat normally consume the jar when cooked. Now they don't. 
+
+"PGz Storms Brewed" Survivalist, disabled.
+You are able to stay out in storms without being hurt with or without the headgear.
+Storms are intense and reasonably short in duration.
+Visually you are impaired by increase winds and limited distance vision.
+Temperature increase or decrease will change based on the biome.
+Run speed is reduced due to the winds. Wearing biome headgear will remove temperature and run speed negative buffs.
+
+"LittleRedSonja Never Enough (Armor Dye System)" Armor and Decor, enabled.
+Dye any of the supported armors, choosing up to 4 different colors for each of the armor parts, blending nicely with the fabrics. 
+You can dye both the currently equipped armor or the cosmetic you are wearing.
+You access the dye options from within the item "Modify" screen like you would when adding any other armor mod.
+It works with the vanilla UI, CATUI, Steel UI, and various backpack mods included with Smorgasbord.
+It should work with other UI Suites and backpack mods, but you will have to test those yourself. 
+As always, big thanks to LittleRedSonja for making adjustments to her mod so they are compatible with everything we use in Smorgasbord!
+
+_________________________________________________________________________________
+
 **Smörgåsbord ModList Update:** ```2.6.1.8 19:30 EST 19APR2026
 
 Comments:
