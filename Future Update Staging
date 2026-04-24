@@ -22,6 +22,9 @@ Mods Added:
 "Don't Blind Me - No Spawn Flash" Standard, enabled.
 No blinding flash upon player spawning into the world.
 
+"PGz Stop Giving Me Magazines" QoL, enabled.
+Prevents fully completed magazine series from appearing in loot, so you only find magazines that still progress your character.
+
 ```
 
 ________________________________________________________________
