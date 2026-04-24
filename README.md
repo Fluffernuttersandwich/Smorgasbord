@@ -71,7 +71,6 @@ This video covers:
 - Wabbajack basics
 - MO2 basics
 - Customization
-- Major mod showcases
 
 Ideal if you are:
 - New to modding
