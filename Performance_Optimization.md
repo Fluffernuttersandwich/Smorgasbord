@@ -150,7 +150,10 @@ The 7DtD Super Resolution mod is only for Windows OS! Not Linux, not Mac.
 ## Recommended DLSS Presets (NVIDIA)
 
 - **RTX 20 & 30 Series:** Use **Preset K**
-- **RTX 40 & 50 Series:** Try **Preset L or M**
+  
+- **RTX 40 & 50 Series:**
+- If you are prioritizing looks, use **Preset L or M**
+- If you are prioritizing performance, use **Preset K**
 
 ---
 
