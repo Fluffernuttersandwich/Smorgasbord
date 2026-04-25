@@ -64,7 +64,7 @@ Anyone who has played vanilla and/or major overhauls and wants something new.
 
 ## Installation Video (Highly Recommended)
 
-▶ https://www.youtube.com/watch?v=ipJ7df0D_0k
+▶ https://youtu.be/3uUI_Rj-64g 
 
 This video covers:
 - Installation
