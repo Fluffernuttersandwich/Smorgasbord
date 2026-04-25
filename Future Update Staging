@@ -27,6 +27,13 @@ No blinding flash upon player spawning into the world.
 "PGz Stop Giving Me Magazines" QoL, enabled.
 Prevents fully completed magazine series from appearing in loot, so you only find magazines that still progress your character.
 
+"Horde 64" Zombies, enabled.
+Normally in vanilla, even if you set Blood Moon Count to 64, the game will only spawn 30 zombies at a time.
+During a Blood Moon, this mod will try to spawn 64 zombies within a 100 block radius of the player.
+Note: This mod ignores what you set Blood Moon Count to in the game settings, and will always max it out to a true 64.
+This mod can cause more frequent and lower FPS dips than vanilla Blood Moons... your performance will be similar to what you see in a T5 POI.
+This mod is compatible with WalkerSim, Blood Moon Chaos, and the rest of Smorgasbord.
+
 ```
 
 ________________________________________________________________
