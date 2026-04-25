@@ -16,8 +16,7 @@ Mod Updates:
 "Black Wolf's better full armor set bonuses"
 "Black Wolf's AC and Heater inside vehicles"
 
-"Flatlander's Fixes for IZY-All in One Gun Pack v5.1"
-Added Gears support. From the in-game Mods menu, you can now toggle kick options.
+"LittleRedSonja and Mumpfy Vanity Vault" MAJOR Update, lots of new features for character customization; practically a new mod!
 
 Mods Added:
 
@@ -28,11 +27,16 @@ No blinding flash upon player spawning into the world.
 Prevents fully completed magazine series from appearing in loot, so you only find magazines that still progress your character.
 
 "Horde 64" Zombies, enabled.
-Normally in vanilla, even if you set Blood Moon Count to 64, the game will only spawn 30 zombies at a time.
-During a Blood Moon, this mod will try to spawn 64 zombies within a 100 block radius of the player.
-Note: This mod ignores what you set Blood Moon Count to in the game settings, and will always max it out to a true 64.
-This mod can cause more frequent and lower FPS dips than vanilla Blood Moons... your performance will be similar to what you see in a T5 POI.
+During a Blood Moon, this mod will try to spawn 64 zombies within a 100 block radius of the player. 
+This mod is always on! This means, your first horde night will send have 64 zombies at you at a time (as God intended). 
+Normally in vanilla, even if you set Blood Moon Count to 64, the game will only spawn 30 zombies at a time. 
+This mod forcibly tries to spawn 64. 
+When we say it tries to spawn 64; the game is hard-coded to prevent performance degredation, so sometimes you will not see the full 64, but you should still see more than 30 making for a spicier Blood Moon.
+This mod ignores what you set Blood Moon Count to in the game settings, and will always max it out to 64. 
+This mod can cause more frequent and lower FPS dips than vanilla Blood Moons, but performance-wise is comparable to a vanilla T5 POI. 
 This mod is compatible with WalkerSim, Blood Moon Chaos, and the rest of Smorgasbord.
+You can edit the groupLiveCount condition check in GameEvents.xml  - change the 64 to whatever you like, but it will effect your performance beyond 64.
+
 
 ```
 
