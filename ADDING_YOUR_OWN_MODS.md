@@ -63,3 +63,8 @@ Unless those pregenerated maps specifically include them, you will not see other
 You see the [NoDelete] in the title of this image of MO2 for the "Less Annoying Vultures" mod? 
 
 Use that so you can add your mods and prevent Smorgasbord updates from deleting them.
+
+## does not contain a ModInfo.xml, ignoring (Double-Nested folder)
+
+<img width="1422" height="1356" alt="DoubleNested" src="https://github.com/user-attachments/assets/ac101250-893d-4653-87f8-bac0c3859300" />
+
