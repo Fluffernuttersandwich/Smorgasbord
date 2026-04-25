@@ -6,6 +6,23 @@
 
 
 
+
+## Key Binds for EFT/EFT Extraction Pack:
+
+How do I change firing type? From Full-Auto to Single-Fire or Burst? Z-key
+
+How do I switch to under-barrel launchers? X-key
+
+How do I switch ammo types from vanilla to EFT ammo on EFT guns? Hold the R-key, use the wheel to select the ammo choice.
+
+There is an Add-on mod to the EFT Extraction Pack called "ZEFT_Extraction_No_Vanilla_Guns".
+
+This mod removes vanilla pipe guns from loot and traders, but you should still be able to craft them.
+
+It also makes it so the Trader rewards you with an EFT gun when you complete the initial Buried Supplies mission.
+
+
+
 ## Download
 
 ### EFTX Compatibility Reference Spreadsheet
