@@ -8,7 +8,9 @@ Only update the Mod List when you are ready to start a new game.
 
 Removed Mods:
 
-N/A
+"Extended World Settings Plus" Replaced with one from Aaramus "(V2) Game Menu Options". 
+
+"Horde 64" replaced by "
 
 Mod Updates:
 
@@ -18,6 +20,14 @@ Mods Added:
 
 "Black Wolf's STFU (A21 - 1.0 - 2.0)" Audio, disabled.
 Removes the annoying, repetitive, and ear piercing sounds when an enemy gets electrified.
+
+"(V2) Game Menu Options" Standard, enabled.
+Extends game menu option setting sliders.
+
+"(V2) 1-SCore Blood Moon Count" Zombies, enabled.
+In vanilla, zombie count is locked to 30, even if you set 64 zombies within the Blood Moon Count. 
+This mod allows for the full 64 to spawn. Optionally, you can go beyond 64, but it will effect your performance!
+
 
 ```
 
