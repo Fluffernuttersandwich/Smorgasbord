@@ -16,6 +16,7 @@ The replacement mod is easier for users to configure in game settings Blood Moon
 Mod Updates:
 
 "Unofficial - Scrollable Paginated 405 Slot Backpack"
+"Reactive Neon Lights"
 
 Mods Added:
 
@@ -27,7 +28,9 @@ Extends game menu option setting sliders.
 
 "(V2) 1-SCore Blood Moon Count" Zombies, enabled.
 In vanilla, zombie count is locked to 30, even if you set 64 zombies within the Blood Moon Count. 
-This mod allows for the full 64 to spawn. Optionally, you can go beyond 64, but it will effect your performance!
+This mod allows for the full 64 to spawn. 
+Optionally, you can go beyond 64, but it will effect your performance!
+I tested it at 150. It is very heavy on performance, but an awesome experience if you have a high-end system that can handle it.
 
 
 ```
