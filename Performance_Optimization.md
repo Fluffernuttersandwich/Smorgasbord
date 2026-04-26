@@ -300,14 +300,21 @@ If you are struggling with FPS, consider disabling heavier mods first.
 | Rainstorm | -1 to -5 FPS |
 
 
-Note 1: For the WalkerSim mod specifically, ZombiePopulationDensity will effect your FPS. 
-The higher the number, the more FPS you will lose. 180 is fine for most systems.
+Note 1: In Smorgasbord, the in-game Blood Moon Count setting can be set beyond 64.
+In Vanilla, normally only 30 zombies will spawn consistently active during horde night (even when set to 64). 
+In Smorgasbord, if you set it to 64, you will see 64.
+If you set it to higher than 64, you will see your performance dip.
+I have a high end system, and can set it to 150, it's awesome, but it is heavy on performance.
+Do not set it to higher than 64 unless your hardware can handle it! 
 
 
-Note 2: The Descent mod requires a system with 16GB of System Memory
+Note 2: For the WalkerSim mod specifically, ZombiePopulationDensity will effect your FPS. 
+The higher the number, the more FPS you will lose. 192 is fine for most systems.
 
 
-Note 3: SCore adds a Fire-Spreads feature. This can be demanding on servers and low-end hardware. 
+Note 3: The Descent mod requires a system with 16GB of System Memory
+
+Note 4: SCore adds a Fire-Spreads feature. This can be demanding on servers and low-end hardware. 
 
 
 ---
