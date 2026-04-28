@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.6.1.11 09:40 EST 26APR2026
+**Smörgåsbord ModList Update:** ```2.6.1.12 xx:xx EST xxAPR2026
 
 Comments:
 
@@ -8,29 +8,21 @@ Only update the Mod List when you are ready to start a new game.
 
 Removed Mods:
 
-"Extended World Settings Plus" Replaced with a more stable offering from Aaramus: "(V2) Game Menu Options"
-
-"Horde 64" replaced by "(V2) 1-SCore Blood Moon Count".
-The replacement mod is easier for users to configure in game settings Blood Moon Count when combined with the "Game Menu Options" mod.
+N/A
 
 Mod Updates:
 
-"Unofficial - Scrollable Paginated 405 Slot Backpack"
 "Reactive Neon Lights"
+"LittleRedSonja Never Enough (Armor Dye System)"
+"FNS Snow-to-H2O and other Obvious Recipes"
 
 Mods Added:
 
-"Black Wolf's STFU (A21 - 1.0 - 2.0)" Audio, disabled.
-Removes the annoying, repetitive, and ear piercing sounds when an enemy gets electrified.
+"PGz Silent Auger"
+"PGz Silent Chainsaw", Audio, disabled.
+Does what it says.
 
-"(V2) Game Menu Options" Standard, enabled.
-Extends game menu option setting sliders.
 
-"(V2) 1-SCore Blood Moon Count" Zombies, enabled.
-In vanilla, zombie count is locked to 30, even if you set 64 zombies within the Blood Moon Count. 
-This mod allows for the full 64 to spawn. 
-Optionally, you can go beyond 64, but it will effect your performance!
-I tested it at 150. It is very heavy on performance, but an awesome experience if you have a high-end system that can handle it.
 
 
 ```
