@@ -457,10 +457,9 @@ This is an obscure one, but could be messing with 0_Harmony...
 <img width="1272" height="262" alt="image" src="https://github.com/user-attachments/assets/90f2a44a-3ff4-49f2-8fe7-ebf47c2e5593" />
 
 
-If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 
-0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched. 
+If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony will not be able to properly patch mods into the game.
 
-To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
+To turn on ASLR, hit the Windows-Key, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
 
 
 <img width="2159" height="1646" alt="image" src="https://github.com/user-attachments/assets/437fbf7b-b35b-4fb6-88a1-76ebb72299c9" />
