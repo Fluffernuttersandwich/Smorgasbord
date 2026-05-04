@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.6.1.13 xx:xx EST xxAPR2026
+**Smörgåsbord ModList Update:** ```2.6.1.15 18:00 EST 04MAY2026
 
 Comments:
 
@@ -6,23 +6,54 @@ Comments:
 There is no guarantee you can update the Mod List and continue in an existing save.
 Only update the Mod List when you are ready to start a new game.
 
+2. If you see zombies at night not aggro-ing to the player, it is a new known issue coming from the Descent Mod. 
+I have already informed the author, and he is looking into it.
+
 Removed Mods:
 
 N/A
 
-Mod Updates:
+The Following Mods were either added or Updated:
 
-"WalkerSim"
-"LittleRedSonja Sonja's Vanity Vault"
-"Food Spoilage and Preserved Goods"
+=== Smorgasbord Changelog ===
 
-"Flatlander's Fixes and Tweaks for IZY-All in One Gun Pack v5.1.3" Added Gears support for toggling Kick-attacks within the in-game Mods menu.
+[UI]
+Game Menu Options (V2) — Expanded menu customization
+Crafting Preview Stats — Shows crafting stat previews
+1-SCore Blood Moon Count — Updated for v2.6
 
+[Audio]
+PGz Silent Chainsaw — Reduced chainsaw noise
+PGz Silent Auger — Reduced auger noise
 
-Mods Added:
+[Armor & Cosmetics]
+LRS Never Enough — Armor dye system
+LRS Vanity Vault — Large cosmetic storage
+LRS + Mumpfy Armor Pack 09 (Fallout) — Themed armor set
 
-N/A
+[Weapons]
+Flatlander’s Fixes (IZY AIO) — Compatibility + bug fixes
 
-```
+[Gameplay]
+khzmusik Food Spoilage — Food decay system
+LRS Ammunition Recycling — Ammo breakdown system
+
+[World / RWG / POIs]
+Zo9ks Rotterdam Tower — New high-rise POI
+RWG Tweaks — Improved world generation
+Terrain Block Gap Fill — Fixes terrain seams with th "/" key
+
+[Base / Defense]
+Electrified Steel Blocks — Powered defense blocks
+Flamethrower Pipes — Trap-based fire defense
+
+[Vehicles]
+WitosRoot 2.2 — Vehicle framework update
+
+[AI]
+WalkerSim v1.1.2 — Persistent zombie simulation overhaul
+
+[Maps]
+7k Smorgasbord Default Map
 
 ________________________________________________________________
