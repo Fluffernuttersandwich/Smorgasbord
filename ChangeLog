@@ -1,3 +1,65 @@
+**Smörgåsbord ModList Update:** ```2.6.1.15 18:00 EST 04MAY2026
+
+Comments:
+
+1. Standard Warning: 
+There is no guarantee you can update the Mod List and continue in an existing save.
+Only update the Mod List when you are ready to start a new game.
+
+2. If you see zombies at night not aggro-ing to the player, it is a new known issue coming from the Descent Mod. 
+I have already informed the author, and he is looking into it.
+
+Removed Mods:
+
+N/A
+
+The Following Mods were either added or Updated:
+
+=== Smorgasbord Changelog ===
+
+[UI]
+Game Menu Options (V2) — Expanded menu customization
+Crafting Preview Stats — Shows crafting stat previews
+1-SCore Blood Moon Count — Updated for v2.6
+
+[Audio]
+PGz Silent Chainsaw — Reduced chainsaw noise
+PGz Silent Auger — Reduced auger noise
+
+[Armor & Cosmetics]
+LRS Never Enough — Armor dye system
+LRS Vanity Vault — Large cosmetic storage
+LRS + Mumpfy Armor Pack 09 (Fallout) — Themed armor set
+
+[Weapons]
+Flatlander’s Fixes (IZY AIO) — Compatibility + bug fixes
+
+[Gameplay]
+khzmusik Food Spoilage — Food decay system
+LRS Ammunition Recycling — Ammo breakdown system
+
+[World / RWG / POIs]
+Zo9ks Rotterdam Tower — New high-rise POI
+RWG Tweaks — Improved world generation
+Terrain Block Gap Fill — Fixes terrain seams with th "/" key
+
+[Base / Defense]
+Electrified Steel Blocks — Powered defense blocks
+Flamethrower Pipes — Trap-based fire defense
+
+[Vehicles]
+WitosRoot 2.2 — Vehicle framework update
+
+[AI]
+WalkerSim v1.1.2 — Persistent zombie simulation overhaul
+
+[Maps]
+7k Smorgasbord Default Map
+
+________________________________________________________________
+
+
+
 **Smörgåsbord ModList Update:** ```2.6.1.11 09:40 EST 26APR2026
 
 Comments:
