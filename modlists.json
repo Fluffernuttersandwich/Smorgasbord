@@ -24,7 +24,12 @@
       "machineURL": "Smorgasbord",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": "https://github.com/Fluffernuttersandwich/Smorgasbord",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "445130",
+        "slug": "3olqbw",
+        "domainName": "7daystodie",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "wMNFbjaBJEI=",
