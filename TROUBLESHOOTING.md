@@ -449,10 +449,13 @@ Create Antivirus exceptions for:
 - `ModOrganizer.exe`
 - `7daystodie.exe`
 
-## Windows Issue
+## Windows "Trampoline" Issue
 This is an obscure one, but could be messing with 0_Harmony... 
 
-if you see Harmony errors in your logs, check: Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).
+### if you see a NullReferenceException error with the word "Trampoline" in it, check: Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).
+
+<img width="1272" height="262" alt="image" src="https://github.com/user-attachments/assets/90f2a44a-3ff4-49f2-8fe7-ebf47c2e5593" />
+
 
 If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 
 0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched. 
