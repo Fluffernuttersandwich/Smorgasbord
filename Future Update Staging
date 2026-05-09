@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.6.1.15 18:00 EST 04MAY2026
+**Smörgåsbord ModList Update:** ```2.6.1.16 18:30 EST 09MAY2026
 
 Comments:
 
@@ -6,8 +6,7 @@ Comments:
 There is no guarantee you can update the Mod List and continue in an existing save.
 Only update the Mod List when you are ready to start a new game.
 
-2. If you see zombies at night not aggro-ing to the player, it is a new known issue coming from the Descent Mod. 
-I have already informed the author, and he is looking into it.
+=== Smorgasbord Changelog ===
 
 Removed Mods:
 
@@ -15,45 +14,42 @@ N/A
 
 The Following Mods were either added or Updated:
 
-=== Smorgasbord Changelog ===
+Smörgåsbord ModList Changelog Update
 
-[UI]
-Game Menu Options (V2) — Expanded menu customization
-Crafting Preview Stats — Shows crafting stat previews
-1-SCore Blood Moon Count — Updated for v2.6
+[Updated Mods]
 
-[Audio]
-PGz Silent Chainsaw — Reduced chainsaw noise
-PGz Silent Auger — Reduced auger noise
+- ZZZ CK Sticky Nade
+  Category: Weapons
 
-[Armor & Cosmetics]
-LRS Never Enough — Armor dye system
-LRS Vanity Vault — Large cosmetic storage
-LRS + Mumpfy Armor Pack 09 (Fallout) — Themed armor set
+- WITOS MH6
+  Category: Vehicles
 
-[Weapons]
-Flatlander’s Fixes (IZY AIO) — Compatibility + bug fixes
+- WitosRoot Osprey
+  Category: Vehicles
 
-[Gameplay]
-khzmusik Food Spoilage — Food decay system
-LRS Ammunition Recycling — Ammo breakdown system
+- ElectriZ
+  Category: Gameplay / Progression
 
-[World / RWG / POIs]
-Zo9ks Rotterdam Tower — New high-rise POI
-RWG Tweaks — Improved world generation
-Terrain Block Gap Fill — Fixes terrain seams with th "/" key
+- Better Molotovs
+  Category: Weapons / Throwables
 
-[Base / Defense]
-Electrified Steel Blocks — Powered defense blocks
-Flamethrower Pipes — Trap-based fire defense
+- Gas Shortage
+  Category: Vehicles / Fuel Economy
 
-[Vehicles]
-WitosRoot 2.2 — Vehicle framework update
+- Austi's Working Machines
+  Category: World / Interactables
 
-[AI]
-WalkerSim v1.1.2 — Persistent zombie simulation overhaul
+- LittleRedSonja Ammunition Recycling
+  Category: Crafting / Ammo
 
-[Maps]
-7k Smorgasbord Default Map
+- LittleRedSonja Mumpfy ArmorPack06 Resident Evil
+  Category: Armor / Character Customization
+
+- BeyondStorage2
+  Category: Storage / Quality of Life
+
+- WitosRoot
+  Category: Vehicles / Framework
+
 
 ________________________________________________________________
