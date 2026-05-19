@@ -73,7 +73,10 @@ Must exist in the base game's Mods folder: _...\7 Days To Die\Mods\0_TFP_Harmony
 
 ## 4. Mods in Wrong Locations
 
+
 ### ❌ The AppsData Mods folder MUST BE EMPTY or deleted: _C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods_
+
+If you don't see a Mods folde rin the AppData path, that's fine.
 
 ---
 
