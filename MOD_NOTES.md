@@ -240,8 +240,8 @@ H. "More Shots" messes with Izy AIO crafting unlock progression.
 
 ---
 
-I. "Tank" and "Vehicle Weapon" mods. Errors. 
+I. "AGF HUD" recent update broke the Perks screen with Smorgasbord.  
 
 ---
 
-J. "AGF HUD" recent update broke the Perks screen with Smorgasbord.  
+J. 
