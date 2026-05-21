@@ -4,3 +4,8 @@ Let's say your username is CoolGuy24, and you have disabled 20 mods, and enabled
 
 Now you can safely update Smorgasbord, and the mods you toggled will have the status you set as enabled/disabled. 
 
+use the Profile Dropdown arrow in MO2, select Manage, Copy the Profile you want, then rename the Profile with [NoDelete] in front of it.
+
+<img width="2276" height="752" alt="image" src="https://github.com/user-attachments/assets/c6ec4b13-aa63-4f9c-a615-c54b0d91be8c" />
+
+
