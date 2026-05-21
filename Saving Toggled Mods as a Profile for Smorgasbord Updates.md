@@ -1,10 +1,92 @@
-So if you want to save the list of mods you enabled and disabled, but still download the next update for Smorgasbord. You need to Copy an existing Profile in MO2, rename it to a new name, don't use an existing Profile name.
+# Saving Your Enabled & Disabled Mods for Future Smorgasbord Updates
 
-Let's say your username is CoolGuy24, and you have disabled 20 mods, and enabled 30 more, and don't want to redo that work after updating SMorgasbord every time... Copy that Profile, give it a new name, and include [NoDelete]CoolGuy24 List.
+When updating Smorgasbord, Mod Organizer 2 (MO2) can overwrite your current profile settings.
 
-Now you can safely update Smorgasbord, and the mods you toggled will have the status you set as enabled/disabled. 
+If you have:
+- Enabled extra mods
+- Disabled mods you do not want
+- Customized your setup
 
-use the Profile Dropdown arrow in MO2, select Manage, Copy the Profile you want, then rename the Profile with [NoDelete] in front of it.
+...you should create a backup profile before updating.
+
+This only takes about a minute and prevents you from having to redo all of your mod toggles after every update.
+
+---
+
+# Why This Matters
+
+MO2 stores your enabled and disabled mod selections inside your Profile.
+
+If you update Smorgasbord using the default profile, your custom mod setup may be reset.
+
+Creating a separate backup profile with the `[NoDelete]` tag protects your personal setup during future updates.
+
+---
+
+# Step-by-Step Instructions
+
+## 1. Open the Profile Menu in MO2
+
+At the top of MO2, locate the **Profile dropdown menu**.
+
+Click the dropdown arrow, then select:
+
+**Manage...**
+
+---
+
+## 2. Copy Your Current Profile
+
+Inside the Profile Manager:
+
+1. Select the profile you currently use
+2. Click **Copy**
+3. Enter a new profile name
+
+---
+
+## 3. Add the `[NoDelete]` Tag
+
+When naming the copied profile, place `[NoDelete]` at the beginning of the name.
+
+Example:
+
+```text
+[NoDelete]CoolGuy24 List
+```
+
+You can replace `CoolGuy24` with your own username or preferred profile name.
+
+---
+
+# Important
+
+Do NOT overwrite an existing profile.
+
+Always create a new copied profile with a unique name.
+
+---
+
+# Result
+
+After updating Smorgasbord:
+
+- Your custom enabled/disabled mods will still be saved
+- Your personal setup will remain intact
+- You will not need to manually retoggle mods again
+
+---
+
+# Quick Summary
+
+```text
+Profile Dropdown → Manage → Copy Profile → Rename with [NoDelete]
+```
+
+---
+
+# Example Images
+
 
 <img width="2276" height="752" alt="image" src="https://github.com/user-attachments/assets/c6ec4b13-aa63-4f9c-a615-c54b0d91be8c" />
 
