@@ -686,7 +686,7 @@ If your FPS is lower than expected, or you have low texture resolution, or stutt
 
 ---
 
-## ⚠️👁️🪲👕 Character Outfit Texture Wobbling / “Roiling” Visual Bug
+## ⚠️👁️🪲👕 Texture wobbling, crawling, roiling Visual Bug caused by Character Outfit 
 
 ### Cause
 This visual issue can occur when using mismatched gender-specific armor or clothing pieces from certain modded outfit packs, particularly some LittleRedSonja armor/outfit mods.
