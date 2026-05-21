@@ -93,5 +93,20 @@ Profile Dropdown → Manage → Copy Profile → Rename with [NoDelete]
 
 <img width="948" height="696" alt="image" src="https://github.com/user-attachments/assets/188dd310-0ad8-4f04-a89c-30d0938fa120" />
 
+---
 
+# Important After Future Smorgasbord Updates
+
+If you created your new Profile using the `[NoDelete]` tag, any *new mods* added in future Smorgasbord updates will appear at the **bottom of MO2** inside that Profile.
+
+You will need to:
+
+1. Locate the newly added mods at the bottom of the left pane in MO2
+2. Drag them into the appropriate Separator category
+3. Place them where you want them within the mod list
+4. Toggle the new mods as you like.
+
+This is normal behavior and helps preserve your custom Profile setup during updates.
+
+---
 
