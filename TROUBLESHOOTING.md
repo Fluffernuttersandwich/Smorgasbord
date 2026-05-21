@@ -678,12 +678,41 @@ This will help narrow down the cause quickly.
 
 ---
 
-
 ## Performance Issues
 
 If your FPS is lower than expected, or you have low texture resolution, or stuttering...
 
 ➡ Please see the **[Performance_Optimization.md](Performance_Optimization.md)**
+
+---
+
+## Character Outfit Texture Wobbling / “Roiling” Visual Bug
+
+### Cause
+This visual issue can occur when using mismatched gender-specific armor or clothing pieces from certain modded outfit packs, particularly some LittleRedSonja armor/outfit mods.
+
+Examples:
+- Male character wearing female-only outfit pieces
+- Female character wearing male-only outfit pieces
+
+This can cause:
+- Texture wobbling
+- “Roiling” or shimmering textures
+- Mesh distortion
+- Strange visual movement on clothing/body parts
+
+### Solution
+Use outfit and armor pieces intended for your character’s gender.
+
+- Male characters → wear male outfit variants
+- Female characters → wear female outfit variants
+
+After changing outfits:
+1. Remove the incompatible armor/clothing pieces
+2. Re-equip correct gender-compatible versions
+3. Restart the game if the issue persists
+
+This is a visual mesh/texture compatibility issue rather than a GPU or graphics settings problem.
 
 ---
 
