@@ -9,3 +9,7 @@ use the Profile Dropdown arrow in MO2, select Manage, Copy the Profile you want,
 <img width="2276" height="752" alt="image" src="https://github.com/user-attachments/assets/c6ec4b13-aa63-4f9c-a615-c54b0d91be8c" />
 
 
+<img width="948" height="696" alt="image" src="https://github.com/user-attachments/assets/188dd310-0ad8-4f04-a89c-30d0938fa120" />
+
+
+
