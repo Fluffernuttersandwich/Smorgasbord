@@ -293,11 +293,13 @@ If you are struggling with FPS, consider disabling heavier mods first.
 |------|----------------------|
 | Better Biomes | -30 FPS |
 | Urban Decay | -5 to -10 FPS |
+| CATUI | -20 FPS (on _some_ systems) |
 | NPCCore + NPC Mods | -10 to -30 FPS |
 | CompoPack | -5 to -20 FPS |
 | CUBP | -15 to -30 FPS |
 | The Descent Mods | -10 to -20 FPS |
 | Rainstorm | -1 to -5 FPS |
+
 
 
 Note 1: In Smorgasbord, the in-game Blood Moon Count setting can be set beyond 64.
