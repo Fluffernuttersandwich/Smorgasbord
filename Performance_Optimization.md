@@ -332,7 +332,7 @@ Note 4: SCore adds a Fire-Spreads feature. This can be demanding on servers and 
 
 ### In game tips to prevent uneccessary FPS loss: 
 - Don't plant too many trees or plants near to your base. Keep your tree farm far away from your base.
-- Don't use too many lights/torches/fires. Overlapping lights makes your game work harder than it needs to. 
+- Don't use too many lights/torches/fires. Overlapping lightsources makes your game work harder than it needs to by generating more shadows. 
 - Maybe lower the number of zombies in the in-game settings if you are really struggling.  
 
 
