@@ -397,9 +397,9 @@ I speak as someone with expereince, don't bother with Dual-GPU LSFG.
 Just save up $, and upgrade your main GPU and other components.
 
 
-For some games (not 7DtD), you can also investigate "**PureDark**". 
+For some games (not 7DtD), you can also investigate Optiscaler or "**PureDark**". 
 
-It's a pay-for application, but it's incredible for games like modded Skyrim.
+I use PureDark for heavily modded Skyrim, it's awesome, but it's a pay-for application.
 
 ---
 
