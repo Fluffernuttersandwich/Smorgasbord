@@ -434,7 +434,8 @@ Any time you experiment with overclocking and undervolting your components, alwa
 
 ### If you don't like the Lighting:
 
-![Lighting1](https://github.com/user-attachments/assets/19ac7346-61ef-4b1e-a7d4-90d9dc54cb27)
+<img width="2918" height="907" alt="image" src="https://github.com/user-attachments/assets/61419215-d544-4021-ab36-d69013d66d1b" />
+
 
 
 ---
