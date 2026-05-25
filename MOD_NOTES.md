@@ -2,7 +2,7 @@
 
 ---
 
-###"My game is too dark at night?!"
+### "My game is too dark at night?!"
 
 
 Disable these mods and adjust your in-game Video > Brightness settings:
