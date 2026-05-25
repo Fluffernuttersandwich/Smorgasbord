@@ -2,26 +2,13 @@
 
 ---
 
-"My game is still too dark?!"
-
-Experiment with other Lighting mods in the pack, or disable all of them and play with vanilla Lighting.
-
-Adjust your Brightness settings.
-
-Default recommendations:
-
-"Better Lighting - Gentle Contrast Edition" enabled as your Lighting mod under the Graphics Separator.
-
-Also enable "Add-on to Better Lighting - Night Vision Goggles Booster".  It's great!
-
-**Set in-game Brightness to 0%.**
-
-This is how this game is meant to be played!
-
-<img width="1157" height="243" alt="image" src="https://github.com/user-attachments/assets/8b03f6de-ed3c-479a-9e6e-34dc82bda5d8" />
+###"My game is too dark at night?!"
 
 
-If you don't like that Brightness, disable the mod and use vanilla brightness settings, or install your own lighting mod.
+Disable these mods and adjust your in-game Video > Brightness settings:
+
+
+<img width="2918" height="907" alt="image" src="https://github.com/user-attachments/assets/1bf4f9b5-ecdd-484b-8ff5-592c4fd7386f" />
 
 
 ---
