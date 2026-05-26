@@ -22,6 +22,10 @@ This mod removes vanilla pipe guns from loot and traders, but you should still b
 It also makes it so the Trader rewards you with an EFT gun when you complete the initial Buried Supplies mission.
 
 
+## Which Guns are the best for each category:
+
+<img width="3794" height="734" alt="image" src="https://github.com/user-attachments/assets/55f5519c-f7ac-4995-bbd5-bc347b6a4a55" />
+
 
 ## Download
 
