@@ -83,7 +83,9 @@ You can download the Nvidia Control Panel from here:
 
 https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
 
+### Using the Nvidia App to configure your best settings
 
+https://www.youtube.com/watch?v=j08cAZGMhTM
 
 
 ---
