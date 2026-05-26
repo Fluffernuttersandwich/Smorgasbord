@@ -4,7 +4,10 @@
 
 <img width="1970" height="294" alt="image" src="https://github.com/user-attachments/assets/25b8a6e6-4433-461f-87c6-89fe8bc43039" />
 
+## Why should I choose one Z2 ammo Option over another?
 
+1. Vanilla ammo is simple for inventory management, because it's easier to stack fewer ammo types.
+2. EFTX ammo types are more complex, realistic, but a pain to get the correct ammo for the right weapon. But, EFTX special ammo types are much stronger than vanilla! 
 
 
 ## Key Binds for EFT/EFT Extraction Pack:
