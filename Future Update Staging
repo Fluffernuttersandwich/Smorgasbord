@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.6.1.20 21:15 EST 23MAY2026
+**Smörgåsbord ModList Update:** ```2.6.1.21 11:15 EST 26MAY2026
 
 Comments:
 
@@ -7,27 +7,23 @@ Standard Warning:
 There is no guarantee you can update the Mod List and continue in an existing save.
 Only update the Mod List when you are ready to start a new game.
 
+1. I disabled Byteblazar's Screamers by default. I enjoy it, but got too many complaints about them being too fast. 
+
+2. I switched EFTX Z2 ammo type to "Z2 EFTX IZY Uses All The Ammo" so everything uses everything. 
+Vanilla, EFTX, and Izy. 
+This is because after watching a few streams of Smorgasbord recently, I saw people in the early game wish that vanilla ammo would slot into various guns. 
+
 === Smorgasbord Changelog ===
 
 UPDATED
 
-- Packwisely: Now has a throwables Demolition Pouch, and more configurable in GEARS (Mods menu).
-
-- LittleRedSonja Barbie Let's Go Party Car: Now Dyeable
-
-- 0-Score
+- EFTX
+- Wasteland
 
 ADDED
 
--PGz Trader Only Books: DISABLED by default. 
-Books, Magazines, and Schematics can only be obtained from the Trader. 
-They've been removed from loot. Maybe don't enable this mod in a No-Trader Run.
-
-Dry Dock POI
-
-Mind Your Beeswax: Enabled
-Adds a small chance for all Traders to stock Beeswax and Queen Bees in their Inventory.
-
-
+- QuickLoot: Adds Fallout 4 style quick looting. 
+When looting hold left Alt, press E to grab an item, or WASD to move through loot, or Q to grab all loot. 
+Will not open Fallout 4 Quick Looting while performing mounted looting (on the bicycle). 
 
 ________________________________________________________________
