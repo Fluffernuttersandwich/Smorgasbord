@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.6.1.22 07:15 EST 28MAY2026
+**Smörgåsbord ModList Update:** ```2.6.1.23 08:00 EST 31MAY2026
 
 Comments:
 
@@ -7,16 +7,13 @@ Standard Warning:
 There is no guarantee you can update the Mod List and continue in an existing save.
 Only update the Mod List when you are ready to start a new game.
 
+1. I had to make a few updates to the backend of the MO2 files because NexusMods updated their TLS/SSL settings for their API Connection... tl;dr version: NexusMods downloads weren't working, now they do.
+
 === Smorgasbord Changelog ===
 
 UPDATED
 
-- EFTX
-- Enhanced Archery
-- WalkerSim
-
-ADDED
-
-- LittleRedSonja and Mumpfy FancyWallArt - Better Posters: Decor, Disabled by default
+- Wasteland
+- QuickLoot
 
 ________________________________________________________________
