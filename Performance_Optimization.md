@@ -143,7 +143,7 @@ This mod enables GPU-specific Upscaling options inside 7DtD’s video settings t
   - Balanced
   - Performance
 
-I personally use a 5090, with the Nvidia App DLSS Preset M, and in-game DLSS Preset on Ultra Quality or DLAA for 7DtD.
+I personally use a 5090, with the Nvidia App DLSS Preset M, and in-game DLSS Preset on Ultra Quality for 7DtD.
 
 The 7DtD Super Resolution mod is only for Windows OS! Not Linux, not Mac.
 
