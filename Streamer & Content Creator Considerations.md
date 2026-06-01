@@ -15,11 +15,11 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 🎬 2. Recording & Streaming
 
-* [OBS Recommendations](#-obs-recommendations)
+* [OBS Recommendations](#21-obs-recommendations)
 
 ## ⚙️ 3. Performance Considerations
 
-* [Performance Considerations](#3-performance-considerations)
+* [Performance Considerations](#31-performance-considerations)
 
 ## 🎨 4. Thumbnail Creation Tips
 
@@ -94,7 +94,7 @@ Reliable with Mod Organizer 2
 
 ## 🎬 2. Recording & Streaming
 
-### OBS Recommendations
+### 2.1 OBS Recommendations
 
 For most users:
 
@@ -108,6 +108,8 @@ Alternative methods:
 - Display Capture
 
 ## ⚙️ 3. Performance Considerations
+
+### 3.1 Performance Considerations
 
 Please see the Performance Optimization Guide for mod selection and setting recommendations:
 
