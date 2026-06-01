@@ -467,7 +467,7 @@ Shameless Plug: **Stormwrought Audio**
 
 All music used in my own recent recordings comes from my royalty-free music channel:
 
-[@StormwroughtAudio]([https://www.youtube.com/@Fin-FNS](https://www.youtube.com/@StormwroughtAudio)
+[@StormwroughtAudio](https://www.youtube.com/@StormwroughtAudio)
 
 You are welcome to use the music for:
 
