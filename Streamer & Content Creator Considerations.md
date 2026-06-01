@@ -86,7 +86,9 @@ This is normal and expected behavior.
 > 
 > I made the default Smorgasbord Profile in MO2, very Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
 
-### WalkerSim is intentionally challenging! If it's too much, you can lower the ZombiePopulation in the WalkerSim.xml file. 
+### WalkerSim is intentionally challenging! 
+If it's too much, you can lower the ZombiePopulation in the WalkerSim.xml file. 
+
 Or you could also disable/enable this mod mid-save, it is save-safe to do so. 
 
 ### EFTX: The default list includes hundreds of new ammo types. 
