@@ -97,6 +97,8 @@ Or you could also disable/enable this mod mid-save, it is save-safe to do so.
 ### EFTX: The default list includes hundreds of new ammo types. 
 If this is too much of a hassle for you to want to manage, you can disable the current Z2 ammo mod, and enable one of the "Vanilla" Z2 ammo options. 
 
+You can refer to the ➡ **[EFTX_for_Dummies.md](EFTX_for_Dummies.md)**
+
 ### Better Biomes, NPCCORE, CATUI, and other "Heavy Mods"
 Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
 I would not recommend using any heavy mods mod for a stream/recording.
@@ -111,10 +113,14 @@ These are reasonable accomodations, I am willing to help you with this. For cont
 
 But, keep it reasonable, I am not a miracle worker, I can't get Darkness Falls + Rebirth + Smorgasbord to work for you in one game. :P 
 
+You can refer to the ➡ **[ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md)**
+
 > [Suggestion]
 > Make a copy of the Smorgasbord Profile, give it your name with [NoDelete] in front of it.
 > Also put [NoDelete] in of any added mods
 > Now any mods you toggled, or added will be remembered should you update the Smorgasbord Mod List through Wabbajack.
+
+You can refer to the ➡ **[Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md](Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md)**
 
 ## 🎵 Music & Copyright
 
