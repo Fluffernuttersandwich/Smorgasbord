@@ -88,7 +88,7 @@ Reliable with Mod Organizer 2
 
 ---
 
-## 2. Recording & Streaming
+## 🎬 2. Recording & Streaming
 
 2.1 OBS Recommendations
 
@@ -103,11 +103,11 @@ Alternative methods:
 - Window Capture
 - Display Capture
 
-## 3. Performance Considerations
+## ⚙️ 3. Performance Considerations
 
 Please see the Performance Optimization Guide for mod selection and setting recommendations:
 
-➡ Performance_Optimization.md
+➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
 When using a heavy Mod List like Smörgåsbord together with OBS, it is normal for the game to stutter for the first few minutes after loading into a world.
 
@@ -125,7 +125,7 @@ These settings generally provide the largest performance gains with minimal visu
 
 ---
 
-## 4. Thumbnail Creation Tips
+## 🎨 4. Thumbnail Creation Tips
 
 Creating thumbnails often requires screenshots that are difficult to capture during normal gameplay.
 
@@ -155,7 +155,7 @@ These commands can help stage screenshots and cinematic scenes.
 
 ---
 
-## 5. Mod Considerations for Creators
+## 🧟 5. Mod Considerations for Creators
 
 Smörgåsbord intentionally adds:
 
@@ -390,15 +390,25 @@ The music is royalty-free, creator-friendly, and stream-safe.
 
 The following creators have showcased Smörgåsbord.
 
-📺 YouTube
-Creator	Channel
-Fin (FNS)	https://www.youtube.com/@Fin-FNS
-Stormwrought Audio	https://www.youtube.com/@StormwroughtAudio
-🎮 Twitch
-Creator	Channel
-Joutre	https://www.twitch.tv/joutre_
-Rosencrantz	https://www.twitch.tv/rosencrantz_ttv
-LexCPlays	https://www.twitch.tv/lexcplays
+## 📺 YouTube
+
+| Creator | Channel |
+|----------|----------|
+| Fin (FNS) | https://www.youtube.com/@Fin-FNS |
+
+## 🎮 Twitch
+
+| Creator | Channel |
+|----------|----------|
+| Joutre | https://www.twitch.tv/joutre_ |
+| Rosencrantz | https://www.twitch.tv/rosencrantz_ttv |
+| LexCPlays | https://www.twitch.tv/lexcplays |
+
+---
+
+Interested in creating content featuring Smörgåsbord?
+
+Join the community and share your videos, streams, screenshots, and highlights. We are always happy to support creators showcasing the modding community's work.
 
 If you've created content featuring Smörgåsbord, feel free to share it in the Discord community.
 
@@ -409,5 +419,6 @@ I am always happy to support creators willing to showcase the incredible work of
 ## ❤️ 10. Thank You
 
 Whether you're streaming, creating Let's Plays, recording tutorials, or making cinematic screenshots, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
+
 
 Your support helps new players discover Smörgåsbord and the talented mod authors whose work makes it possible.
