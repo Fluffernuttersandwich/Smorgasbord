@@ -89,6 +89,22 @@ You can refer to ➡ **[EFTX_for_Dummies.md](EFTX_for_Dummies.md)**
 You can either disable this mod in mO2 if you don't plan to use it, or you can remap the buttons in the in-game Mods (Gears) menu:
 <img width="2726" height="1500" alt="image" src="https://github.com/user-attachments/assets/da045251-4e80-43b5-bd61-db5a5dc97341" />
 
+### Ultra-Dark-Night and Medical Conditions mods: I'd strongly discourage using these mods for a stream
+
+These mods are disabled by default, 
+
+They make for a bad visual experience for users watching your game.
+
+From a user perspective, I enjoy these mods when not recording, but as a content consumer, any mod/overhaul that includes visual reducers makes for a bad experience.
+
+Medical Conditions: Adds some eye-sight related ailments that include on-screen effects like blurry vision. 
+
+
+Ultra-Dark-Night mods: Makes it so dark the players can hardly see what is going on at night, and/or makes it difficult to drive.
+
+
+<img width="2622" height="198" alt="image" src="https://github.com/user-attachments/assets/4eefc4cd-86b5-4feb-8ebe-3a5b7ee86333" />
+
 
 ### Better Biomes, NPC-CORE, CATUI, and other "Heavy Mods"
 Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
