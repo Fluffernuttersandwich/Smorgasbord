@@ -402,13 +402,14 @@ This allows viewers to see exactly which options you selected from the larger Sm
 
 If you're streaming Smörgåsbord, viewers will often ask:
 
-_What mods are you using?
+- _What mods are you using?_
 
-Is this an overhaul mod?
+- _Is this an overhaul mod?_
 
-How do I install it?
+- _How do I install it?_
 
-Where can I download it?_
+- _Where can I download it?_
+
 
 Creating a simple Twitch chat command can save a tremendous amount of time during a stream.
 
