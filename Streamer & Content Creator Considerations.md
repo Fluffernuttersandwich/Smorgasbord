@@ -4,8 +4,9 @@ This page contains tips and recommendations for streamers, YouTubers, screenshot
 
 If you are streaming/recording using Smorgasbord, feel free to reach out to me in a DM on Discord for assistance as needed.  
 
+---
 
-# Table of Contents
+## Table of Contents
 
 ## 📸 1. Screenshots
 
@@ -32,7 +33,7 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 * [Exporting Your Custom Profile to share with Community Members](#6-exporting-your-custom-profile-to-share-with-community-members)
 
-## 🛠️ 7. Twitch Chat Commands
+## 🤖 7. Twitch Chat Commands
 
 * [7 Twitch Chat Commands](#7-twitch-chat-commands)
 
@@ -50,11 +51,11 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ---
 
-1. Screenshots
+## 1. Screenshots
 
 Capturing high-quality screenshots is essential for thumbnails, social media posts, bug reports, and promotional content.
 
-1.1 Built-In Screenshots (F9)
+### 1.1 Built-In Screenshots (F9)
 
 Normally most of you launch your game from Steam and use the F12 key to take screenshots.
 
@@ -75,7 +76,7 @@ This is often the easiest and most reliable method when launching the game throu
 [!TIP]
 If you are accustomed to using Steam's F12 screenshot functionality, be aware that Steam Overlay may not always attach correctly when launching through MO2. The built-in F9 screenshot key is generally the most reliable option.
 
-1.2 NVIDIA Screenshots (Alt+F1)
+### 1.2 NVIDIA Screenshots (Alt+F1)
 
 For NVIDIA users:
 
@@ -97,7 +98,8 @@ Alternative methods:
 
 Window Capture
 Display Capture
-3. Performance Considerations
+
+## 3. Performance Considerations
 
 Please see the Performance Optimization Guide for mod selection and setting recommendations:
 
@@ -117,25 +119,39 @@ Dynamic Resolution
 
 These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
 
-4. Thumbnail Creation Tips
+---
+
+## 4. Thumbnail Creation Tips
 
 Creating thumbnails often requires screenshots that are difficult to capture during normal gameplay.
 
-4.1 Useful Console Commands
+### 4.1 Useful Console Commands
+
 Enable Debug Menu
+
 dm
+
 Enable God Mode
+
 god
+
 Enable Fly Mode
+
 fly
+
 Toggle HUD
+
 F7
+
 Pause Time
+
 st
 
 These commands can help stage screenshots and cinematic scenes.
 
-5. Mod Considerations for Creators
+---
+
+## 5. Mod Considerations for Creators
 
 Smörgåsbord intentionally adds:
 
@@ -272,7 +288,9 @@ For detailed instructions:
 
 ➡ Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md
 
-📤 6. Exporting Your Custom Profile to Share with Community Members
+---
+
+## 📤 6. Exporting Your Custom Profile to Share with Community Members
 
 One of the advantages of MO2 is that you can export your customized setup and share it with viewers, friends, or community members.
 
@@ -293,7 +311,9 @@ You can then reference that exported list through your Twitch bot, YouTube descr
 
 This allows viewers to see exactly which options you selected from the larger Smörgåsbord collection.
 
-🛠️ 7. Twitch Chat Commands
+---
+
+## 🤖 7. Twitch Chat Commands
 
 If you're streaming Smörgåsbord, viewers will often ask:
 
@@ -333,7 +353,10 @@ Horde Nights
 Challenge Runs
 Community Events
 Large Viewer Counts
-🎵 8. Music & Copyright
+
+---
+
+## 🎵 8. Music & Copyright
 
 The default Smörgåsbord Mod List itself does not use copyrighted music.
 
@@ -352,7 +375,9 @@ Gameplay content
 
 The music is royalty-free, creator-friendly, and stream-safe.
 
-⭐ 9. Featured Content Creators
+---
+
+## ⭐ 9. Featured Content Creators
 
 The following creators have showcased Smörgåsbord.
 
@@ -370,7 +395,9 @@ If you've created content featuring Smörgåsbord, feel free to share it in the 
 
 I am always happy to support creators willing to showcase the incredible work of the 7 Days to Die modding community.
 
-❤️ 10. Thank You
+---
+
+## ❤️ 10. Thank You
 
 Whether you're streaming, creating Let's Plays, recording tutorials, or making cinematic screenshots, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
 
