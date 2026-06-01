@@ -92,7 +92,7 @@ You can either disable this mod in mO2 if you don't plan to use it, or you can r
 
 ### Better Biomes, NPC-CORE, CATUI, and other "Heavy Mods"
 Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
-I would not recommend using any heavy mods mod for a stream/recording.
+I would not recommend using any heavy mods for a stream/recording.
 
 Please see the Performance Optimization guide for Performance-Heavy Mods. 
 
