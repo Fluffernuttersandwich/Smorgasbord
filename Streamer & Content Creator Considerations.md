@@ -1,0 +1,121 @@
+# 🎥 Streamer & Content Creator Considerations
+
+This page contains tips and recommendations for streamers, YouTubers, screenshot artists, and other content creators using Smörgåsbord.
+
+## 📸 Taking Screenshots
+
+Normally most of you Launch your game from Steam and use the F12 key to take screenshots... 
+
+Since we are launching the game from MO2 (and _not_ Steam), the F12 key will not work, so here is an easy workaround:
+
+7 Days to Die includes a built-in screenshot function.
+
+Default Key:
+
+F9
+
+Screenshots are saved to:
+
+%AppData%\Roaming\7DaysToDie\Screenshots
+
+This is often the easiest method when launching the game through Mod Organizer 2, since Steam's F12 screenshot functionality may not always attach correctly when launching through MO2.
+
+### Steam Screenshots (F12)
+
+Steam screenshots may work normally if the Steam Overlay successfully attaches to the game process.
+
+Default Key:
+
+F12
+
+If Steam screenshots are not working:
+
+Verify Steam Overlay is enabled.
+Try launching MO2 through Steam.
+Or use the aforementioned built-in F9 screenshot function instead.
+
+### NVIDIA Screenshots
+
+NVIDIA users can also use:
+
+Alt + F1
+
+Advantages:
+
+Full resolution screenshots
+
+## ⚙️ Performance Considerations
+
+Please see the ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+
+When using a heavy Mod List + OBS, it's normal for the game to stutter for the first 2-3 minutes when you first load in. On most systems, this should stop after 2-3 minutes.
+
+If recording or streaming causes performance issues, consider reducing:
+
+Shadow Distance
+Reflection Quality
+Water Quality
+Dynamic Mesh Distance
+Dynamic Resolution (if desired)
+
+These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
+
+## 🧟 Mod Considerations for Creators
+
+Smörgåsbord intentionally adds:
+
+More zombie variety
+Expanded clothing, armor, vehicle, decor, and weapon variety
+Additional points of interest
+Additional ambient encounters
+
+As a result:
+
+Gameplay footage may differ from vanilla.
+Screenshots may contain content unfamiliar to viewers.
+Unique encounters can occur that are not present in a standard game.
+
+This is normal and expected behavior.
+
+> [!CAUTION]
+> Some mods can be toggled mid-save, some cannot be toggled mid-save.
+> I would strongly recommend a brief test game with the mods you selected prior to commiting to a stream or long-format playthrough! 
+
+### WalkerSim is intentionally challenging! If it's too much, you can lower the ZombiePopulation in the WalkerSim.xml file. 
+Or you could also disable/enable this mod mid-save, it is save-safe to do so. 
+
+### EFTX: The default list includes hundreds of new ammo types. 
+If this is too much of a hassle for you to want to manage, you can disable the current Z2 ammo mod, and enable one of the "Vanilla" Z2 ammo options. 
+
+### Better Biomes, NPCCORE, CATUI, and other "Heavy Mods"
+Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
+I would not recommend using any heavy mods mod for a stream/recording.
+
+## Adding Your Own Mods
+
+I have helped other streamers add their own Decor Mods, and Community Member zombie names over health bar mods in MO2. 
+
+Most small mods like these can easily be added to MO2 without issue.
+
+These are reasonable accomodations, I am willing to help you with this. For content creators specifically, since you are willing to showcase my mod list, I am willing to help you customize your experience. 
+
+But, keep it reasonable, I am not a miracle worker, I can't get Darkness Falls + Rebirth + Smorgasbord to work for you in one game. :P 
+
+> [Suggestion]
+> Make a copy of the Smorgasbord Profile, give it your name with [NoDelete] in front of it.
+> Also put [NoDelete] in of any added mods
+> Now any mods you toggled, or added will be remembered should you update the Smorgasbord Mod List through Wabbajack.
+
+## 🎵 Music & Copyright
+
+The default Smörgåsbord Mod List itself does use any copyrighted music for gameplay.
+
+### Shameless Plug: all music from my video recordings now comes from Stormwrought Audio.
+You can use any of that music for license free, royalty free, stream-safe videos. 
+https://www.youtube.com/@StormwroughtAudio 
+
+## ❤️ Thank You
+
+If you're creating content with Smörgåsbord, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
+
+Whether you're streaming, creating Let's Plays, making tutorials, or producing cinematic screenshots, we appreciate your support.
