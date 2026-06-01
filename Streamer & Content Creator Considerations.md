@@ -35,19 +35,19 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 🤖 7. Twitch Chat Commands
 
-* [Twitch Chat Commands](#7-twitch-chat-commands)
+* [Twitch Chat Commands](#71-twitch-chat-commands)
 
 ## 🎵 8. Music & Copyright
 
-* [Music & Copyright](#8-music--copyright)
+* [Music & Copyright](#81-music--copyright)
 
 ## ⭐ 9. Featured Content Creators
 
-* [Featured Content Creators](#9-featured-content-creators)
+* [Featured Content Creators](#91-featured-content-creators)
 
 ## ❤️ 10. Thank You
 
-* [Thank You](#10-thank-you)
+* [Thank You](#101-thank-you)
 
 ---
 
@@ -371,6 +371,8 @@ This allows viewers to see exactly which options you selected from the larger Sm
 
 ## 🤖 7. Twitch Chat Commands
 
+### 7.1 Twitch Chat Commands
+
 If you're streaming Smörgåsbord, viewers will often ask:
 
 _What mods are you using?
@@ -429,6 +431,8 @@ This is especially useful during:
 
 ## 🎵 8. Music & Copyright
 
+### 8.1 Music & Copyright
+
 The default Smörgåsbord Mod List itself does not use copyrighted music.
 
 Shameless Plug: **Stormwrought Audio**
@@ -449,6 +453,8 @@ The music is royalty-free, creator-friendly, and stream-safe.
 ---
 
 ## ⭐ 9. Featured Content Creators
+
+### 9.1 Featured Content Creators
 
 The following creators have showcased Smörgåsbord.
 
@@ -479,6 +485,8 @@ I am always happy to support creators willing to showcase the incredible work of
 ---
 
 ## ❤️ 10. Thank You
+
+### 10.1 Thank You
 
 Whether you're streaming, creating Let's Plays, recording tutorials, or making cinematic screenshots, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
 
