@@ -27,11 +27,11 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 🧟 5. Mod Considerations for Creators
 
-* [Mod Considerations for Creators](#5-mod-considerations-for-creators)
+* [Mod Considerations for Creators](#51-mod-considerations-for-creators)
 
 ## 6. Exporting Your Custom Profile to share with Community Members
 
-* [Exporting Your Custom Profile to share with Community Members](#6-exporting-your-custom-profile-to-share-with-community-members)
+* [Exporting Your Custom Profile to share with Community Members](#61-exporting-your-custom-profile-to-share-with-community-members)
 
 ## 🤖 7. Twitch Chat Commands
 
@@ -162,6 +162,8 @@ These commands can help stage screenshots and cinematic scenes.
 ---
 
 ## 🧟 5. Mod Considerations for Creators
+
+### 5.1 Mod Considerations for Creators
 
 Smörgåsbord intentionally adds:
 
@@ -323,6 +325,8 @@ For detailed instructions:
 ---
 
 ## 📤 6. Exporting Your Custom Profile to Share with Community Members
+
+### 6.1 Exporting Your Custom Profile to Share with Community Members
 
 One of the advantages of MO2 is that you can export your customized setup and share it with viewers, friends, or community members.
 
