@@ -94,7 +94,7 @@ Reliable with Mod Organizer 2
 
 For most users:
 
--Game Capture
+- Game Capture
 
 provides the best performance.
 
@@ -115,11 +115,11 @@ On most systems, this should settle down after 2-3 minutes.
 
 If recording or streaming causes performance issues, consider reducing:
 
-Shadow Distance
-Reflection Quality
-Water Quality
-Dynamic Mesh Distance
-Dynamic Resolution
+- Shadow Distance
+- Reflection Quality
+- Water Quality
+- Dynamic Mesh Distance
+- Dynamic Resolution
 
 These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
 
@@ -133,23 +133,23 @@ Creating thumbnails often requires screenshots that are difficult to capture dur
 
 Enable Debug Menu
 
-dm
+_dm_
 
 Enable God Mode
 
-god
+_god_
 
 Enable Fly Mode
 
-fly
+_fly_
 
 Toggle HUD
 
-F7
+**F7**
 
 Pause Time
 
-st
+_st_
 
 These commands can help stage screenshots and cinematic scenes.
 
@@ -159,17 +159,22 @@ These commands can help stage screenshots and cinematic scenes.
 
 Smörgåsbord intentionally adds:
 
-More zombie variety
-Expanded clothing, armor, vehicle, décor, and weapon variety
-Additional points of interest
-Additional ambient encounters
+- More zombie variety
+- Expanded clothing, armor, vehicle, décor, and weapon variety
+- Additional points of interest
+- Additional ambient encounters
 
 As a result:
 
 Gameplay footage may differ from vanilla.
+
 Screenshots may contain content unfamiliar to viewers.
+
 Unique encounters can occur that are not present in a standard game.
+
 This is normal and expected behavior.
+
+
 
 [!CAUTION]
 I strongly recommend running a brief test game with the mods you selected before committing to a stream or long-format playthrough.
