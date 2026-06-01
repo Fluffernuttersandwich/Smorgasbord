@@ -189,6 +189,7 @@ This is normal and expected behavior.
 > 
 > The default Smörgåsbord Profile in MO2 was built with streamers in mind, but it is still worth running a test game and tailoring the experience to your audience.
 
+--
 ### Byteblazar's Screamers
 
 This mod causes Screamers to move at extremely high speed and attempt to flee from the player.
@@ -197,7 +198,7 @@ Since they do not stop screaming, this can become audibly annoying for your audi
 
 This mod is disabled by default, and I encourage you to leave it disabled while streaming.
 
-
+--
 ### WalkerSim is Intentionally Challenging
 
 If WalkerSim is too difficult for your preferred content style, you can reduce the Zombie Population Density value in the WalkerSim.xml file.
@@ -209,7 +210,7 @@ You can safely edit, disable, or enable WalkerSim mid-save.
 
 It is save-safe to do so.
 
-
+--
 ### EFTX
 
 The default list includes hundreds of additional ammunition types.
@@ -220,7 +221,7 @@ For guidance:
 
 ➡ [EFTX_for_Dummies.md](EFTX_for_Dummies.md)
 
-
+--
 ### Peek Lean
 
 Either disable this mod or remap the controls.
@@ -232,7 +233,9 @@ Rebind the keys in the in-game Mods (Gears) menu
 
 This can prevent conflicts with your existing control scheme.
 
-Ultra-Dark-Night & Medical Conditions
+--
+
+### Ultra-Dark-Night mods & Medical Conditions
 
 I strongly discourage using these mods for a stream.
 
@@ -259,6 +262,7 @@ Potential issues:
 - Driving becomes difficult to watch
 - Important gameplay moments become visually unclear
 
+--
 
 ### Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
 
@@ -267,6 +271,8 @@ Even if you are using high-end hardware, heavy mods combined with Smörgåsbord 
 I generally do not recommend using multiple heavy mods while recording or streaming.
 
 Please refer to: Mod Considerations section of the ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+
+---
 
 ## Adding Your Own Mods
 
@@ -287,6 +293,7 @@ I am good, but I am not a miracle worker. I cannot magically make Darkness Falls
 For guidance:
 
 ➡ [ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md)
+
 
 > [!TIP]
 > Make a personalized copy of the Smörgåsbord Profile in MO2 for your own use.
@@ -370,6 +377,8 @@ Where can I download it?_
 
 Creating a simple Twitch chat command can save a tremendous amount of time during a stream.
 
+--
+
 ### !mods Command
 
 Recommended Nightbot, StreamElements, or Streamer.bot command:
@@ -379,6 +388,8 @@ Here is the list of mods included for you to select in the Smörgåsbord Mod Lis
 Short Version
 
 Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
+
+--
 
 ## Suggested Additional Commands
 
@@ -392,6 +403,8 @@ _Add a link to your exported profile here._
 
 ### !discord
 Need help installing or troubleshooting Smörgåsbord? Visit the GitHub page: https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/README.md
+
+--
 
 ## 💡 Creator Tip
 
