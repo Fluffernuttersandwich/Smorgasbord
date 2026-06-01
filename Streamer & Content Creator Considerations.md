@@ -68,11 +68,13 @@ This is normal and expected behavior.
 
 
 > [!CAUTION]
-> Some mods can be toggled mid-save, some cannot be toggled mid-save.
-> 
 > I would strongly recommend a brief test game with the mods you selected prior to commiting to a stream or long-format playthrough!
+>
+> This is so you have time to figure out if you dislike a mod prior to commiting.
 > 
-> I made the default Smorgasbord Profile in MO2, very Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
+> Some mods can be toggled mid-save, some cannot be toggled mid-save.
+>  
+> I made the default Smorgasbord Profile in MO2 Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
 
 
 
