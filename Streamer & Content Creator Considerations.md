@@ -77,6 +77,14 @@ This is normal and expected behavior.
 > I made the default Smorgasbord Profile in MO2 Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
 
 
+### Byteblazar's Screamers 
+This makes Screamers move at hyper-speed and try to flee from the player. 
+
+Since they don't stop screaming, this can become audibly annoying for your audience.
+
+This mod is disabled by default, and I encourage you to keep it disabled for streaming.
+
+---
 
 ### WalkerSim is intentionally challenging! 
 If it's too much, you can lower the Zombie PopulationDensity in the WalkerSim.xml file. 140 is good for most, but I like 192 for the challenge.
