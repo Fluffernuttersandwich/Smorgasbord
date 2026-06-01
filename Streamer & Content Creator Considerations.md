@@ -194,7 +194,9 @@ This is normal and expected behavior.
 > 
 > The default Smörgåsbord Profile in MO2 was built with streamers in mind, but it is still worth running a test game and tailoring the experience to your audience.
 
+
 --
+
 ### Byteblazar's Screamers
 
 This mod causes Screamers to move at extremely high speed and attempt to flee from the player.
@@ -203,7 +205,9 @@ Since they do not stop screaming, this can become audibly annoying for your audi
 
 This mod is disabled by default, and I encourage you to leave it disabled while streaming.
 
+
 --
+
 ### WalkerSim is Intentionally Challenging
 
 If WalkerSim is too difficult for your preferred content style, you can reduce the Zombie Population Density value in the WalkerSim.xml file.
@@ -215,7 +219,13 @@ You can safely edit, disable, or enable WalkerSim mid-save.
 
 It is save-safe to do so.
 
+
+<img width="2283" height="2036" alt="Screenshot 2026-05-31 215055" src="https://github.com/user-attachments/assets/32d85168-eb1c-4e44-bd2f-15311ae19f54" />
+
+
+
 --
+
 ### EFTX
 
 The default list includes hundreds of additional ammunition types.
@@ -225,6 +235,8 @@ If this feels like unnecessary inventory management for your content, you can di
 For guidance:
 
 ➡ [EFTX_for_Dummies.md](EFTX_for_Dummies.md)
+
+
 
 --
 ### Peek Lean
@@ -238,6 +250,11 @@ Rebind the keys in the in-game Mods (Gears) menu
 
 This can prevent conflicts with your existing control scheme.
 
+
+<img width="2726" height="1500" alt="Screenshot 2026-06-01 080123" src="https://github.com/user-attachments/assets/58b92e7d-2286-4dc1-8674-d03fbc316d41" />
+
+
+
 --
 
 ### Ultra-Dark-Night mods & Medical Conditions
@@ -247,6 +264,10 @@ I strongly discourage using these mods for a stream.
 These mods are disabled by default.
 
 While they can be immersive for personal gameplay, they generally create a poor viewing experience.
+
+
+<img width="2622" height="198" alt="Screenshot 2026-06-01 081902" src="https://github.com/user-attachments/assets/385f6f06-4d9c-4810-acb0-0939a317a639" />
+
 
 
 ### Medical Conditions
@@ -267,7 +288,9 @@ Potential issues:
 - Driving becomes difficult to watch
 - Important gameplay moments become visually unclear
 
+
 --
+
 
 ### Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
 
@@ -277,7 +300,9 @@ I generally do not recommend using multiple heavy mods while recording or stream
 
 Please refer to: Mod Considerations section of the ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
+
 ---
+
 
 ## Adding Your Own Mods
 
@@ -322,6 +347,7 @@ Make backups and keep notes regarding any changes you make.
 For detailed instructions:
 
 ➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
+
 
 ---
 
