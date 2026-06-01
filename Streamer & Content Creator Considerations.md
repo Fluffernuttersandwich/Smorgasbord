@@ -74,7 +74,10 @@ Screenshots are saved to:
 This is often the easiest and most reliable method when launching the game through Mod Organizer 2.
 
 > [!TIP]
-> If you are accustomed to using Steam's F12 screenshot functionality, be aware that Steam Overlay may not always attach correctly when launching through MO2.
+> If you are accustomed to using Steam's F12 screenshot functionality,
+> 
+> be aware that Steam Overlay may not always attach correctly when launching through MO2.
+> 
 > The built-in F9 screenshot key is generally the most reliable option.
 
 ### 1.2 NVIDIA Screenshots (Alt+F1)
