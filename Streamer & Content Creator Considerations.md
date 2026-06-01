@@ -182,11 +182,14 @@ This is normal and expected behavior.
 
 > [!CAUTION]
 > I strongly recommend running a brief test game with the mods you selected before committing to a stream or long-format playthrough.
+> 
 > This gives you time to determine whether you enjoy a particular mod before building content around it.
+> 
 > Some mods can be toggled mid-save. Others cannot.
+> 
 > The default Smörgåsbord Profile in MO2 was built with streamers in mind, but it is still worth running a test game and tailoring the experience to your audience.
 
-#### Byteblazar's Screamers
+### Byteblazar's Screamers
 
 This mod causes Screamers to move at extremely high speed and attempt to flee from the player.
 
@@ -195,7 +198,7 @@ Since they do not stop screaming, this can become audibly annoying for your audi
 This mod is disabled by default, and I encourage you to leave it disabled while streaming.
 
 
-#### WalkerSim is Intentionally Challenging
+### WalkerSim is Intentionally Challenging
 
 If WalkerSim is too difficult for your preferred content style, you can reduce the Zombie Population Density value in the WalkerSim.xml file.
 
@@ -207,7 +210,7 @@ You can safely edit, disable, or enable WalkerSim mid-save.
 It is save-safe to do so.
 
 
-#### EFTX
+### EFTX
 
 The default list includes hundreds of additional ammunition types.
 
@@ -215,10 +218,10 @@ If this feels like unnecessary inventory management for your content, you can di
 
 For guidance:
 
-➡ EFTX_for_Dummies.md
+➡ [EFTX_for_Dummies.md](EFTX_for_Dummies.md)
 
 
-#### Peek Lean
+### Peek Lean
 
 Either disable this mod or remap the controls.
 
@@ -257,7 +260,7 @@ Potential issues:
 - Important gameplay moments become visually unclear
 
 
-#### Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
+### Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
 
 Even if you are using high-end hardware, heavy mods combined with Smörgåsbord and OBS can become extremely resource intensive.
 
@@ -265,7 +268,7 @@ I generally do not recommend using multiple heavy mods while recording or stream
 
 Please refer to: Mod Considerations section of the ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
-### Adding Your Own Mods
+## Adding Your Own Mods
 
 I have helped streamers add:
 
@@ -287,7 +290,9 @@ For guidance:
 
 > [!TIP]
 > Make a personalized copy of the Smörgåsbord Profile in MO2 for your own use.
+> 
 > This allows your toggled/added mods to remain in MO2 after updating the list in Wabbajack.
+> 
 > It also allows you to share your customized list with users.
 
 Give it your name and place [NoDelete] at the beginning.
@@ -355,31 +360,40 @@ This allows viewers to see exactly which options you selected from the larger Sm
 
 If you're streaming Smörgåsbord, viewers will often ask:
 
-What mods are you using?
+_What mods are you using?
+
 Is this an overhaul mod?
+
 How do I install it?
-Where can I download it?
+
+Where can I download it?_
 
 Creating a simple Twitch chat command can save a tremendous amount of time during a stream.
 
-!mods Command
+### !mods Command
 
 Recommended Nightbot, StreamElements, or Streamer.bot command:
 
 Here is the list of mods included for you to select in the Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw/mods
+
 Short Version
+
 Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
-Suggested Additional Commands
-!smorgasbord
+
+## Suggested Additional Commands
+
+### !smorgasbord ("What is Smorgasbord?)
 Smörgåsbord answers the question: "What if vanilla 7 Days to Die had ten years of community improvements layered onto it?" Download: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
-!modlist
+
+### !modlist
 Want the same mods I'm using? Check out my custom Smörgåsbord Profile:
 
-Add a link to your exported profile here.
+_Add a link to your exported profile here._
 
-!discord
+### !discord
 Need help installing or troubleshooting Smörgåsbord? Visit the GitHub page: https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/README.md
-💡 Creator Tip
+
+## 💡 Creator Tip
 
 Viewers frequently discover Smörgåsbord through Twitch streams and YouTube videos.
 
@@ -387,10 +401,10 @@ Adding a simple !mods command allows interested viewers to quickly find the coll
 
 This is especially useful during:
 
-Horde Nights
-Challenge Runs
-Community Events
-Large Viewer Counts
+- Horde Nights
+- Challenge Runs
+- Community Events
+- Large Viewer Counts
 
 ---
 
@@ -398,7 +412,7 @@ Large Viewer Counts
 
 The default Smörgåsbord Mod List itself does not use copyrighted music.
 
-Shameless Plug: Stormwrought Audio
+Shameless Plug: **Stormwrought Audio**
 
 All music used in my own recent recordings comes from my royalty-free music channel:
 
@@ -406,10 +420,10 @@ https://www.youtube.com/@StormwroughtAudio
 
 You are welcome to use the music for:
 
-YouTube videos
-Twitch streams
-Mod showcases
-Gameplay content
+- YouTube videos
+- Twitch streams
+- Mod showcases
+- Gameplay content
 
 The music is royalty-free, creator-friendly, and stream-safe.
 
@@ -435,7 +449,7 @@ The following creators have showcased Smörgåsbord.
 
 ---
 
-Interested in creating content featuring Smörgåsbord?
+## Interested in creating content featuring Smörgåsbord?
 
 Join the community and share your videos, streams, screenshots, and highlights. We are always happy to support creators showcasing the modding community's work.
 
