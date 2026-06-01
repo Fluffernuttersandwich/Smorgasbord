@@ -11,6 +11,7 @@
 - [Definition](#definition)
 - [Vision](#vision)
 - [Compatibility](#compatibility)
+- [List of Included Mods](#list-of-included-mods)
 - [Installation Video](#installation-video-highly-recommended)
 - [Distinctive Features](#distinctive-features)
 - [Sample Gameplay](#sample-gameplay)
@@ -59,6 +60,12 @@ Anyone who has played vanilla and/or major overhauls and wants something new.
 
 - **Game Version:** Stable **7 Days to Die v2.6** (your game must be on the same version of the Wabbajack mod List, or it won't download!)
 - **Install Method:** **Wabbajack (it includes Mod Organizer 2 in the download)** *(required)*
+
+---
+
+## List of Included Mods
+
+https://www.nexusmods.com/games/7daystodie/collections/3olqbw/mods
 
 ---
 
