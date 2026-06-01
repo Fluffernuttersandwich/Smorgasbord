@@ -15,7 +15,7 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 🎬 2. Recording & Streaming
 
-* [OBS Recommendations](#21-obs-recommendations)
+* [OBS Recommendations](#-obs-recommendations)
 
 ## ⚙️ 3. Performance Considerations
 
@@ -94,7 +94,7 @@ Reliable with Mod Organizer 2
 
 ## 🎬 2. Recording & Streaming
 
-2.1 OBS Recommendations
+### OBS Recommendations
 
 For most users:
 
