@@ -56,13 +56,13 @@ Capturing high-quality screenshots is essential for thumbnails, social media pos
 
 1.1 Built-In Screenshots (F9)
 
-Normally most of you Launch your game from Steam and use the F12 key to take screenshots... 
+Normally most of you launch your game from Steam and use the F12 key to take screenshots.
 
-Since we are launching the game from MO2 (and _not_ Steam), the F12 key will not work, so here is an easy workaround:
+Since we are launching the game from MO2 (and not Steam), the F12 key may not work correctly, so here is an easy workaround:
 
 7 Days to Die includes a built-in screenshot function.
 
-Default Key:
+Default Key
 
 F9
 
@@ -70,26 +70,21 @@ Screenshots are saved to:
 
 %AppData%\Roaming\7DaysToDie\Screenshots
 
-This is often the easiest method when launching the game through Mod Organizer 2, since Steam's F12 screenshot functionality may not always attach correctly when launching through MO2.
+This is often the easiest and most reliable method when launching the game through Mod Organizer 2.
 
----
+[!TIP]
+If you are accustomed to using Steam's F12 screenshot functionality, be aware that Steam Overlay may not always attach correctly when launching through MO2. The built-in F9 screenshot key is generally the most reliable option.
 
 1.2 NVIDIA Screenshots (Alt+F1)
 
 For NVIDIA users:
 
 Alt + F1
-
-Advantages:
-
+Advantages
 Full-resolution screenshots
 Independent of Steam Overlay
 Reliable with Mod Organizer 2
-
----
-
 2. Recording & Streaming
-
 2.1 OBS Recommendations
 
 For most users:
@@ -102,53 +97,40 @@ Alternative methods:
 
 Window Capture
 Display Capture
-
----
-
 3. Performance Considerations
 
-Please see the Performance Optimization Guide for mod selection and setting recommendations ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+Please see the Performance Optimization Guide for mod selection and setting recommendations:
 
-When using a heavy Mod List like Smorgasbord + OBS, it's normal for the game to stutter for the first 2-3 minutes when you first load in. 
+➡ Performance_Optimization.md
 
-On most systems, this should stop after 2-3 minutes.
+When using a heavy Mod List like Smörgåsbord together with OBS, it is normal for the game to stutter for the first few minutes after loading into a world.
+
+On most systems, this should settle down after 2-3 minutes.
 
 If recording or streaming causes performance issues, consider reducing:
 
-- Shadow Distance
-- Reflection Quality
-- Water Quality
-- Dynamic Mesh Distance
-- Dynamic Resolution (if desired)
+Shadow Distance
+Reflection Quality
+Water Quality
+Dynamic Mesh Distance
+Dynamic Resolution
 
 These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
-
----
 
 4. Thumbnail Creation Tips
 
 Creating thumbnails often requires screenshots that are difficult to capture during normal gameplay.
 
 4.1 Useful Console Commands
-
-Enable Debug Menu:
-
+Enable Debug Menu
 dm
-
-Enable God Mode:
-
+Enable God Mode
 god
-
-Enable Fly Mode:
-
+Enable Fly Mode
 fly
-
-Toggle HUD:
-
+Toggle HUD
 F7
-
-Pause Time:
-
+Pause Time
 st
 
 These commands can help stage screenshots and cinematic scenes.
@@ -157,218 +139,238 @@ These commands can help stage screenshots and cinematic scenes.
 
 Smörgåsbord intentionally adds:
 
-- More zombie variety
-- Expanded clothing, armor, vehicle, decor, and weapon variety
-- Additional points of interest
-- Additional ambient encounters
-
+More zombie variety
+Expanded clothing, armor, vehicle, décor, and weapon variety
+Additional points of interest
+Additional ambient encounters
 
 As a result:
 
-- Gameplay footage may differ from vanilla.
+Gameplay footage may differ from vanilla.
+Screenshots may contain content unfamiliar to viewers.
+Unique encounters can occur that are not present in a standard game.
+This is normal and expected behavior.
 
-- Screenshots may contain content unfamiliar to viewers.
+[!CAUTION]
+I strongly recommend running a brief test game with the mods you selected before committing to a stream or long-format playthrough.
 
-- Unique encounters can occur that are not present in a standard game.
+This gives you time to determine whether you enjoy a particular mod before building content around it.
 
-- This is normal and expected behavior.
+Some mods can be toggled mid-save. Others cannot.
 
+The default Smörgåsbord Profile in MO2 was built with streamers in mind, but it is still worth running a test game and tailoring the experience to your audience.
 
-> [!CAUTION]
-> I would strongly recommend a brief test game with the mods you selected prior to commiting to a stream or long-format playthrough!
->
-> This is so you have time to figure out if you dislike a mod prior to commiting.
-> 
-> Some mods can be toggled mid-save, some cannot be toggled mid-save.
->  
-> I made the default Smorgasbord Profile in MO2 Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
+Byteblazar's Screamers
 
----
+This mod causes Screamers to move at extremely high speed and attempt to flee from the player.
 
-### Byteblazar's Screamers 
+Since they do not stop screaming, this can become audibly annoying for your audience.
 
-This makes Screamers move at hyper-speed and try to flee from the player. 
+This mod is disabled by default, and I encourage you to leave it disabled while streaming.
 
-Since they don't stop screaming, this can become audibly annoying for your audience.
+WalkerSim is Intentionally Challenging
 
-This mod is disabled by default, and I encourage you to keep it disabled for streaming.
+If WalkerSim is too difficult for your preferred content style, you can reduce the Zombie Population Density value in the WalkerSim.xml file.
 
----
+140 is a good balance for most players.
+192 is what I personally use for a more intense experience.
 
-### WalkerSim is intentionally challenging! 
+You can safely edit, disable, or enable WalkerSim mid-save.
 
-If it's too much, you can lower the Zombie PopulationDensity in the WalkerSim.xml file. 140 is good for most, but I like 192 for the challenge.
+It is save-safe to do so.
 
-<img width="2284" height="2036" alt="image" src="https://github.com/user-attachments/assets/d1a132f7-6be4-4617-841e-2a07c7f310f3" />
+EFTX
 
+The default list includes hundreds of additional ammunition types.
 
-You can safely edit or disable/enable this mod mid-save, it is save-safe to do so. 
+If this feels like unnecessary inventory management for your content, you can disable the current Z2 ammo option and select one of the Vanilla Z2 alternatives.
 
----
+For guidance:
 
-### EFTX: The default list includes hundreds of new ammo types. 
-If this is too much of a hassle for you to want to manage, you can disable the current Z2 ammo mod, and enable one of the "Vanilla" Z2 ammo options. 
+➡ EFTX_for_Dummies.md
 
-You can refer to ➡ **[EFTX_for_Dummies.md](EFTX_for_Dummies.md)**
+Peek Lean
 
----
+Either disable this mod or remap the controls.
 
-### Peek Lean: Either disable or map out the buttons.
-You can either disable this mod in MO2 if you don't plan to use it, or you can remap the buttons in the in-game Mods (Gears) menu:
-<img width="2726" height="1500" alt="image" src="https://github.com/user-attachments/assets/da045251-4e80-43b5-bd61-db5a5dc97341" />
+You can:
 
----
+Disable it in MO2
+Rebind the keys in the in-game Mods (Gears) menu
 
-### Ultra-Dark-Night and Medical Conditions mods: I'd strongly discourage using these mods for a stream
+This can prevent conflicts with your existing control scheme.
 
-These mods are disabled by default, 
+Ultra-Dark-Night & Medical Conditions
 
-They make for a bad visual experience for users watching your game.
+I strongly discourage using these mods for a stream.
 
-From a user perspective, I enjoy these mods when not recording, but as a content consumer, any mod/overhaul that includes visual reducers makes for a bad experience.
+These mods are disabled by default.
 
-Medical Conditions: Adds some eye-sight related ailments that include on-screen effects like blurry vision. 
+While they can be immersive for personal gameplay, they generally create a poor viewing experience.
 
+Medical Conditions
 
-Ultra-Dark-Night mods: Makes it so dark the players can hardly see what is going on at night, and/or makes it difficult to drive.
+Adds vision-related ailments that can introduce effects such as:
 
+Blurred vision
+Visual impairment effects
+Ultra-Dark-Night
 
-<img width="2622" height="198" alt="image" src="https://github.com/user-attachments/assets/4eefc4cd-86b5-4feb-8ebe-3a5b7ee86333" />
+Makes nighttime significantly darker.
 
----
+Potential issues:
 
-### Better Biomes, NPC-CORE, CATUI, and other "Heavy Mods"
-Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
-I would not recommend using any heavy mods for a stream/recording.
+Viewers cannot see what is happening
+Driving becomes difficult to watch
+Important gameplay moments become visually unclear
+Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
 
-Please see the Performance Optimization guide for Performance-Heavy Mods. 
+Even if you are using high-end hardware, heavy mods combined with Smörgåsbord and OBS can become extremely resource intensive.
 
-➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+I generally do not recommend using multiple heavy mods while recording or streaming.
 
+Please refer to:
 
-## Adding Your Own Mods
+➡ Performance_Optimization.md
 
-I have helped streamers add their own Decor Mods, and Community Member zombie names over health bar mods in MO2. 
+Adding Your Own Mods
 
-Most small mods like these can easily be added to MO2 without issue.
+I have helped streamers add:
 
-These are reasonable accomodations, I am willing to help you with this. For content creators specifically, since you are willing to showcase my mod list, I am willing to help you customize your experience. 
+Additional décor mods
+Community member zombie-name mods
+Small quality-of-life additions
 
-But, keep it reasonable, I am not a miracle worker, I can't get Darkness Falls + Rebirth + Smorgasbord to work for you in one game. :P 
+Most lightweight mods can be added to MO2 without issue.
 
-For step by step guidance to add your own mods, you can refer to ➡ **[ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md)**
+These are reasonable accommodations, and I am usually willing to help content creators customize their experience.
 
-> [!WARNING]
-> **Suggestion:** Make a copy of the Smorgasbord Profile in MO2, give it your name with [NoDelete] in front of it.
-> 
-> Also put [NoDelete] in front of any added mods
-> 
-> Now any mods you toggled, or added will be remembered should you update the Smorgasbord Mod List through Wabbajack.
->
-> Remember, it's best to not update the Mod List or toggle mods mid-save. Some updates are minor, and some mods can be safely toggled, but some cannot.
-> 
-> I don't want your established playthrough to become broken. It would be a good idea to make backups and write down what mods you toggled, just in case.
+That said, keep expectations reasonable.
 
-For step by step guidance in creating your own Profile, you can refer to ➡ **[Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md)**
+I am good, but I am not a miracle worker. I cannot magically make Darkness Falls + Rebirth + Smörgåsbord coexist in perfect harmony. 😄
 
----
+For guidance:
 
-6. Exporting Your Custom Profile to share with Community Members
+➡ ADDING_YOUR_OWN_MODS.md
 
-In MO2, right-click a mod, 
+[!WARNING]
+Make a copy of the Smörgåsbord Profile in MO2.
 
----
+Give it your name and place [NoDelete] at the beginning.
 
-7. Twitch Chat Commands
+Also place [NoDelete] in front of any added mods.
+
+This ensures your changes survive future Smörgåsbord updates.
+
+It is generally best not to update or toggle mods mid-save.
+
+Some updates are harmless. Others are not.
+
+Make backups and keep notes regarding any changes you make.
+
+For detailed instructions:
+
+➡ Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md
+
+📤 6. Exporting Your Custom Profile to Share with Community Members
+
+One of the advantages of MO2 is that you can export your customized setup and share it with viewers, friends, or community members.
+
+This is particularly useful if:
+
+You stream with a customized Smörgåsbord setup
+Viewers frequently ask for your exact mod configuration
+You want others to replicate your experience
+Recommended Process
+Create a dedicated profile for your playthrough.
+Place [NoDelete] in front of the Profile name.
+Enable or disable mods as desired.
+Test the profile thoroughly.
+Export the profile's mod list.
+Upload the resulting file to GitHub, Discord, Google Drive, or another file-sharing service.
+
+You can then reference that exported list through your Twitch bot, YouTube descriptions, Discord server, or social media posts.
+
+This allows viewers to see exactly which options you selected from the larger Smörgåsbord collection.
+
+🛠️ 7. Twitch Chat Commands
 
 If you're streaming Smörgåsbord, viewers will often ask:
 
-* What mods are you using?
-* Is this an overhaul mod?
-* How do I install it?
-* Where can I download it?
+What mods are you using?
+Is this an overhaul mod?
+How do I install it?
+Where can I download it?
 
 Creating a simple Twitch chat command can save a tremendous amount of time during a stream.
 
----
-
-## !mods Command
+!mods Command
 
 Recommended Nightbot, StreamElements, or Streamer.bot command:
 
-```text
 Here is the list of mods included for you to select in the Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw/mods
-```
-
----
-
-## Short Version
-
-If your bot has character limits:
-
-```text
+Short Version
 Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
-```
-
----
-
-## Suggested Additional Commands
-
-### !smorgasbord
-
-```text
+Suggested Additional Commands
+!smorgasbord
 Smörgåsbord answers the question: "What if vanilla 7 Days to Die had ten years of community improvements layered onto it?" Download: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
-```
+!modlist
+Want the same mods I'm using? Check out my custom Smörgåsbord Profile:
 
-### !modlist
+Add a link to your exported profile here.
 
-```text
-Want the same mods I'm using? Grab the Smörgåsbord collection here: 
-```
+!discord
+Need help installing or troubleshooting Smörgåsbord? Visit the GitHub page: https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/README.md
+💡 Creator Tip
 
-_Add a link to your custom Profile exported .csv list of selected mods in Smorgasbord._
+Viewers frequently discover Smörgåsbord through Twitch streams and YouTube videos.
 
-### !discord
+Adding a simple !mods command allows interested viewers to quickly find the collection without interrupting gameplay or requiring repeated explanations.
 
-```text
-Need help installing or troubleshooting Smörgåsbord? Visit the Smörgåsbord Discord support channels and installation guides available from the GitHub page: https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/README.md
-```
+This is especially useful during:
 
----
+Horde Nights
+Challenge Runs
+Community Events
+Large Viewer Counts
+🎵 8. Music & Copyright
 
-## 💡 Creator Tip
+The default Smörgåsbord Mod List itself does not use copyrighted music.
 
-Viewers frequently discover Smörgåsbord through Twitch streams and YouTube videos. Adding a simple !mods command allows interested viewers to quickly find the collection without interrupting gameplay or requiring repeated explanations during a stream.
+Shameless Plug: Stormwrought Audio
 
-This is especially useful during horde nights, challenge runs, and high-viewer-count moments when chat activity is at its highest.
+All music used in my own recent recordings comes from my royalty-free music channel:
 
----
+https://www.youtube.com/@StormwroughtAudio
 
-8. Music & Copyright
+You are welcome to use the music for:
 
-The default Smörgåsbord Mod List itself does not use any copyrighted music for gameplay.
+YouTube videos
+Twitch streams
+Mod showcases
+Gameplay content
 
-### Shameless Plug: all music from my own video recordings now comes from Stormwrought Audio.
-Stormwrought Audio is my other YouTube channel. 
+The music is royalty-free, creator-friendly, and stream-safe.
 
-You can use any of that music for license free, royalty free, stream-safe videos. 
+⭐ 9. Featured Content Creators
 
-https://www.youtube.com/@StormwroughtAudio 
+The following creators have showcased Smörgåsbord.
 
----
-
-9. Featured Content Creators
-
-The following creators have showcased Smörgåsbord:
-
-Creator	Platform	Series
-Coming Soon	YouTube	Coming Soon
+📺 YouTube
+Creator	Channel
+Fin (FNS)	https://www.youtube.com/@Fin-FNS
+Stormwrought Audio	https://www.youtube.com/@StormwroughtAudio
+🎮 Twitch
+Creator	Channel
+Joutre	https://www.twitch.tv/joutre_
+Rosencrantz	https://www.twitch.tv/rosencrantz_ttv
+LexCPlays	https://www.twitch.tv/lexcplays
 
 If you've created content featuring Smörgåsbord, feel free to share it in the Discord community.
 
----
+I am always happy to support creators willing to showcase the incredible work of the 7 Days to Die modding community.
 
-10. Thank You
+❤️ 10. Thank You
 
 Whether you're streaming, creating Let's Plays, recording tutorials, or making cinematic screenshots, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
 
