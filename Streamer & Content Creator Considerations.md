@@ -499,7 +499,7 @@ The following creators have showcased Smörgåsbord.
 
 | Creator | Channel |
 |----------|----------|
-| Joutre | https://www.twitch.tv/joutre_ |
+| Joutre | https://www.twitch.tv/joutre_|
 | Rosencrantz | https://www.twitch.tv/rosencrantz_ttv |
 | LexCPlays | https://www.twitch.tv/lexcplays |
 | WaywardEko | https://www.twitch.tv/waywardeko |
