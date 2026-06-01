@@ -128,8 +128,8 @@ But, keep it reasonable, I am not a miracle worker, I can't get Darkness Falls +
 
 You can refer to the ➡ **[ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md)**
 
-> [!**Suggestion**]
-> Make a copy of the Smorgasbord Profile, give it your name with [NoDelete] in front of it.
+> [!WARNING]
+> **Suggestion:**Make a copy of the Smorgasbord Profile, give it your name with [NoDelete] in front of it.
 > Also put [NoDelete] in of any added mods
 > Now any mods you toggled, or added will be remembered should you update the Smorgasbord Mod List through Wabbajack.
 
