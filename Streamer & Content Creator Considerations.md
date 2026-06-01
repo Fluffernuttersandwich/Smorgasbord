@@ -85,10 +85,11 @@ This is often the easiest and most reliable method when launching the game throu
 For NVIDIA users:
 
 Alt + F1
-Advantages
-Full-resolution screenshots
-Independent of Steam Overlay
-Reliable with Mod Organizer 2
+
+**Advantages**
+- Full-resolution screenshots
+- Independent of Steam Overlay
+- Reliable with Mod Organizer 2
 
 ---
 
