@@ -2,6 +2,8 @@
 
 This page contains tips and recommendations for streamers, YouTubers, screenshot artists, and other content creators using Smörgåsbord.
 
+If you are streaming/recording using Smorgasbord, feel free to reach out to me in a DM on Discord with assistance as needed.  
+
 ## 📸 Taking Screenshots
 
 Normally most of you Launch your game from Steam and use the F12 key to take screenshots... 
