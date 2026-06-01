@@ -54,11 +54,11 @@ When using a heavy Mod List + OBS, it's normal for the game to stutter for the f
 
 If recording or streaming causes performance issues, consider reducing:
 
-Shadow Distance
-Reflection Quality
-Water Quality
-Dynamic Mesh Distance
-Dynamic Resolution (if desired)
+- Shadow Distance
+- Reflection Quality
+- Water Quality
+- Dynamic Mesh Distance
+- Dynamic Resolution (if desired)
 
 These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
 
