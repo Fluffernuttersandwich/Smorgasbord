@@ -491,6 +491,9 @@ The following creators have showcased Smörgåsbord.
 | Creator | Channel |
 |----------|----------|
 | Fin (FNS) | https://www.youtube.com/@Fin-FNS |
+| Miners Dreams | https://www.youtube.com/@minersdreams |
+| NerdDonsGaming | https://www.youtube.com/@NerdDonsGaming |
+| Rebur Sintalis | https://www.youtube.com/@ReburSintalis |
 
 ## 🎮 Twitch
 
@@ -499,6 +502,7 @@ The following creators have showcased Smörgåsbord.
 | Joutre | https://www.twitch.tv/joutre_ |
 | Rosencrantz | https://www.twitch.tv/rosencrantz_ttv |
 | LexCPlays | https://www.twitch.tv/lexcplays |
+| WaywardEko | https://www.twitch.tv/waywardeko |
 
 ---
 
