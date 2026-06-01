@@ -85,19 +85,23 @@ Advantages
 Full-resolution screenshots
 Independent of Steam Overlay
 Reliable with Mod Organizer 2
-2. Recording & Streaming
+
+---
+
+## 2. Recording & Streaming
+
 2.1 OBS Recommendations
 
 For most users:
 
-Game Capture
+-Game Capture
 
 provides the best performance.
 
 Alternative methods:
 
-Window Capture
-Display Capture
+- Window Capture
+- Display Capture
 
 ## 3. Performance Considerations
 
