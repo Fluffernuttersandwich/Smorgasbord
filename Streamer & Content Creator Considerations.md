@@ -87,7 +87,10 @@ This is normal and expected behavior.
 > I made the default Smorgasbord Profile in MO2, very Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
 
 ### WalkerSim is intentionally challenging! 
-If it's too much, you can lower the ZombiePopulation in the WalkerSim.xml file. 
+If it's too much, you can lower the Zombie PopulationDensity in the WalkerSim.xml file. 140 is good for most, but I like 192 for the challenge.
+
+<img width="2284" height="2036" alt="image" src="https://github.com/user-attachments/assets/d1a132f7-6be4-4617-841e-2a07c7f310f3" />
+
 
 Or you could also disable/enable this mod mid-save, it is save-safe to do so. 
 
