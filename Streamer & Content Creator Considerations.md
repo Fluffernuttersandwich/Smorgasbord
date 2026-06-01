@@ -65,12 +65,16 @@ Unique encounters can occur that are not present in a standard game.
 
 This is normal and expected behavior.
 
+
+
 > [!CAUTION]
 > Some mods can be toggled mid-save, some cannot be toggled mid-save.
 > 
 > I would strongly recommend a brief test game with the mods you selected prior to commiting to a stream or long-format playthrough!
 > 
 > I made the default Smorgasbord Profile in MO2, very Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
+
+
 
 ### WalkerSim is intentionally challenging! 
 If it's too much, you can lower the Zombie PopulationDensity in the WalkerSim.xml file. 140 is good for most, but I like 192 for the challenge.
@@ -80,14 +84,20 @@ If it's too much, you can lower the Zombie PopulationDensity in the WalkerSim.xm
 
 Or you could also disable/enable this mod mid-save, it is save-safe to do so. 
 
+---
+
 ### EFTX: The default list includes hundreds of new ammo types. 
 If this is too much of a hassle for you to want to manage, you can disable the current Z2 ammo mod, and enable one of the "Vanilla" Z2 ammo options. 
 
 You can refer to ➡ **[EFTX_for_Dummies.md](EFTX_for_Dummies.md)**
 
+---
+
 ### Peek Lean: Either disable or map out the buttons.
-You can either disable this mod in mO2 if you don't plan to use it, or you can remap the buttons in the in-game Mods (Gears) menu:
+You can either disable this mod in MO2 if you don't plan to use it, or you can remap the buttons in the in-game Mods (Gears) menu:
 <img width="2726" height="1500" alt="image" src="https://github.com/user-attachments/assets/da045251-4e80-43b5-bd61-db5a5dc97341" />
+
+---
 
 ### Ultra-Dark-Night and Medical Conditions mods: I'd strongly discourage using these mods for a stream
 
@@ -105,6 +115,7 @@ Ultra-Dark-Night mods: Makes it so dark the players can hardly see what is going
 
 <img width="2622" height="198" alt="image" src="https://github.com/user-attachments/assets/4eefc4cd-86b5-4feb-8ebe-3a5b7ee86333" />
 
+---
 
 ### Better Biomes, NPC-CORE, CATUI, and other "Heavy Mods"
 Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
