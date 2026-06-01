@@ -4,7 +4,7 @@ This page contains tips and recommendations for streamers, YouTubers, screenshot
 
 If you are streaming/recording using Smorgasbord, feel free to reach out to me in a DM on Discord with assistance as needed.  
 
-## 📸 Taking Screenshots
+## 📸 Taking Screenshots with Smorgasbord
 
 Normally most of you Launch your game from Steam and use the F12 key to take screenshots... 
 
@@ -22,23 +22,9 @@ Screenshots are saved to:
 
 This is often the easiest method when launching the game through Mod Organizer 2, since Steam's F12 screenshot functionality may not always attach correctly when launching through MO2.
 
-### Steam Screenshots (F12)
-
-Steam screenshots may work normally if the Steam Overlay successfully attaches to the game process.
-
-Default Key:
-
-F12
-
-If Steam screenshots are not working:
-
-Verify Steam Overlay is enabled.
-Try launching MO2 through Steam.
-Or use the aforementioned built-in F9 screenshot function instead.
-
 ### NVIDIA Screenshots
 
-NVIDIA users can also use:
+NVIDIA App Overlay users can also use:
 
 Alt + F1
 
@@ -99,10 +85,13 @@ If this is too much of a hassle for you to want to manage, you can disable the c
 
 You can refer to the ➡ **[EFTX_for_Dummies.md](EFTX_for_Dummies.md)**
 
-### Better Biomes, NPCCORE, CATUI, and other "Heavy Mods"
+### Better Biomes, NPC-CORE, CATUI, and other "Heavy Mods"
 Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
 I would not recommend using any heavy mods mod for a stream/recording.
-Please see the Performance Optimization guide for Heavy Mods. ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+
+Please see the Performance Optimization guide for Performance-Heavy Mods. 
+
+➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
 ## Adding Your Own Mods
 
