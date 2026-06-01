@@ -10,12 +10,12 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 📸 1. Screenshots
 
-* [1.1 Built-In Screenshots (F9)](#11-built-in-screenshots-f9)
-* [1.2 NVIDIA Screenshots (Alt+F1)](#13-nvidia-screenshots-altf1)
+* [Built-In Screenshots (F9)](#11-built-in-screenshots-f9)
+* [NVIDIA Screenshots (Alt+F1)](#13-nvidia-screenshots-altf1)
 
 ## 🎬 2. Recording & Streaming
 
-* [2.1 OBS Recommendations](#21-obs-recommendations)
+* [OBS Recommendations](#21-obs-recommendations)
 
 ## ⚙️ 3. Performance Considerations
 
@@ -23,7 +23,7 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 🎨 4. Thumbnail Creation Tips
 
-* [4.1 Useful Console Commands](#41-useful-console-commands)
+* [Useful Console Commands](#41-useful-console-commands)
 
 ## 🧟 5. Mod Considerations for Creators
 
@@ -35,7 +35,7 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 
 ## 🤖 7. Twitch Chat Commands
 
-* [7 Twitch Chat Commands](#7-twitch-chat-commands)
+* [Twitch Chat Commands](#7-twitch-chat-commands)
 
 ## 🎵 8. Music & Copyright
 
