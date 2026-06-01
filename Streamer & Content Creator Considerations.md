@@ -73,8 +73,9 @@ Screenshots are saved to:
 
 This is often the easiest and most reliable method when launching the game through Mod Organizer 2.
 
-[!TIP]
-If you are accustomed to using Steam's F12 screenshot functionality, be aware that Steam Overlay may not always attach correctly when launching through MO2. The built-in F9 screenshot key is generally the most reliable option.
+> [!TIP]
+> If you are accustomed to using Steam's F12 screenshot functionality, be aware that Steam Overlay may not always attach correctly when launching through MO2.
+> The built-in F9 screenshot key is generally the most reliable option.
 
 ### 1.2 NVIDIA Screenshots (Alt+F1)
 
@@ -176,16 +177,13 @@ This is normal and expected behavior.
 
 
 
-[!CAUTION]
-I strongly recommend running a brief test game with the mods you selected before committing to a stream or long-format playthrough.
+> [!CAUTION]
+> I strongly recommend running a brief test game with the mods you selected before committing to a stream or long-format playthrough.
+> This gives you time to determine whether you enjoy a particular mod before building content around it.
+> Some mods can be toggled mid-save. Others cannot.
+> The default Smörgåsbord Profile in MO2 was built with streamers in mind, but it is still worth running a test game and tailoring the experience to your audience.
 
-This gives you time to determine whether you enjoy a particular mod before building content around it.
-
-Some mods can be toggled mid-save. Others cannot.
-
-The default Smörgåsbord Profile in MO2 was built with streamers in mind, but it is still worth running a test game and tailoring the experience to your audience.
-
-Byteblazar's Screamers
+#### Byteblazar's Screamers
 
 This mod causes Screamers to move at extremely high speed and attempt to flee from the player.
 
@@ -193,7 +191,8 @@ Since they do not stop screaming, this can become audibly annoying for your audi
 
 This mod is disabled by default, and I encourage you to leave it disabled while streaming.
 
-WalkerSim is Intentionally Challenging
+
+#### WalkerSim is Intentionally Challenging
 
 If WalkerSim is too difficult for your preferred content style, you can reduce the Zombie Population Density value in the WalkerSim.xml file.
 
@@ -204,7 +203,8 @@ You can safely edit, disable, or enable WalkerSim mid-save.
 
 It is save-safe to do so.
 
-EFTX
+
+#### EFTX
 
 The default list includes hundreds of additional ammunition types.
 
@@ -214,7 +214,8 @@ For guidance:
 
 ➡ EFTX_for_Dummies.md
 
-Peek Lean
+
+#### Peek Lean
 
 Either disable this mod or remap the controls.
 
@@ -233,38 +234,41 @@ These mods are disabled by default.
 
 While they can be immersive for personal gameplay, they generally create a poor viewing experience.
 
-Medical Conditions
+
+### Medical Conditions
 
 Adds vision-related ailments that can introduce effects such as:
 
-Blurred vision
-Visual impairment effects
-Ultra-Dark-Night
+- Blurred vision
+- Visual impairment effects
+
+
+### Ultra-Dark-Night
 
 Makes nighttime significantly darker.
 
 Potential issues:
 
-Viewers cannot see what is happening
-Driving becomes difficult to watch
-Important gameplay moments become visually unclear
-Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
+- Viewers cannot see what is happening
+- Driving becomes difficult to watch
+- Important gameplay moments become visually unclear
+
+
+#### Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
 
 Even if you are using high-end hardware, heavy mods combined with Smörgåsbord and OBS can become extremely resource intensive.
 
 I generally do not recommend using multiple heavy mods while recording or streaming.
 
-Please refer to:
+Please refer to: Mod Considerations section of the ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
-➡ Performance_Optimization.md
-
-Adding Your Own Mods
+### Adding Your Own Mods
 
 I have helped streamers add:
 
-Additional décor mods
-Community member zombie-name mods
-Small quality-of-life additions
+- Additional décor mods
+- Community member zombie-name mods
+- Small quality-of-life additions
 
 Most lightweight mods can be added to MO2 without issue.
 
@@ -276,10 +280,12 @@ I am good, but I am not a miracle worker. I cannot magically make Darkness Falls
 
 For guidance:
 
-➡ ADDING_YOUR_OWN_MODS.md
+➡ [ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md)
 
-[!WARNING]
-Make a copy of the Smörgåsbord Profile in MO2.
+> [!TIP]
+> Make a personalized copy of the Smörgåsbord Profile in MO2 for your own use.
+> This allows your toggled/added mods to remain in MO2 after updating the list in Wabbajack.
+> It also allows you to share your customized list with users.
 
 Give it your name and place [NoDelete] at the beginning.
 
@@ -295,7 +301,7 @@ Make backups and keep notes regarding any changes you make.
 
 For detailed instructions:
 
-➡ Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md
+➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
 
 ---
 
@@ -303,18 +309,38 @@ For detailed instructions:
 
 One of the advantages of MO2 is that you can export your customized setup and share it with viewers, friends, or community members.
 
+To export your customized list, in MO2, right-click a mod on the left half of the screen, press All Mods, Export to csv
+
+
+<img width="1340" height="1480" alt="image" src="https://github.com/user-attachments/assets/abd712a9-4f60-4ca0-a49d-bca93ea8d7c8" />
+
+
+Toggle which columns you'd like to include in the csv.
+
+
+<img width="1312" height="1150" alt="image" src="https://github.com/user-attachments/assets/e1f327f5-be8c-4659-af5c-a88ac043d436" />
+
+
+Hit Ok, and Save as.  
+
+
+<img width="1260" height="1208" alt="image" src="https://github.com/user-attachments/assets/99d591f0-57c6-4c18-836e-b7feeabfed63" />
+
+_The "+" sign means the mod is enabled (toggled on), and the "-" sign means the mod is disabled (toggled off) in your Profile._
+
+
 This is particularly useful if:
 
-You stream with a customized Smörgåsbord setup
-Viewers frequently ask for your exact mod configuration
-You want others to replicate your experience
-Recommended Process
-Create a dedicated profile for your playthrough.
-Place [NoDelete] in front of the Profile name.
-Enable or disable mods as desired.
-Test the profile thoroughly.
-Export the profile's mod list.
-Upload the resulting file to GitHub, Discord, Google Drive, or another file-sharing service.
+- You stream with a customized Smörgåsbord setup
+- Viewers frequently ask for your exact mod configuration
+- You want others to replicate your experience
+- Recommended Process
+- Create a dedicated profile for your playthrough.
+- Place [NoDelete] in front of the Profile name.
+- Enable or disable mods as desired.
+- Test the profile thoroughly.
+- Export the profile's mod list.
+- Upload the resulting file to GitHub, Discord, Google Drive, or another file-sharing service.
 
 You can then reference that exported list through your Twitch bot, YouTube descriptions, Discord server, or social media posts.
 
