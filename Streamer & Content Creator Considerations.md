@@ -467,7 +467,7 @@ Shameless Plug: **Stormwrought Audio**
 
 All music used in my own recent recordings comes from my royalty-free music channel:
 
-https://www.youtube.com/@StormwroughtAudio
+[@StormwroughtAudio]([https://www.youtube.com/@Fin-FNS](https://www.youtube.com/@StormwroughtAudio)
 
 You are welcome to use the music for:
 
@@ -490,19 +490,19 @@ The following creators have showcased Smörgåsbord.
 
 | Creator | Channel |
 |----------|----------|
-| Fin (FNS) | https://www.youtube.com/@Fin-FNS |
-| Miners Dreams | https://www.youtube.com/@minersdreams |
-| NerdDonsGaming | https://www.youtube.com/@NerdDonsGaming |
-| Rebur Sintalis | https://www.youtube.com/@ReburSintalis |
+| Fin (FNS) | [@Fin-FNS](https://www.youtube.com/@Fin-FNS) |
+| Miners Dreams | [@minersdreams](https://www.youtube.com/@minersdreams) |
+| NerdDonsGaming | [@NerdDonsGaming](https://www.youtube.com/@NerdDonsGaming) |
+| Rebur Sintalis | [@ReburSintalis](https://www.youtube.com/@ReburSintalis) |
 
 ## 🎮 Twitch
 
 | Creator | Channel |
 |----------|----------|
-| Joutre | https://www.twitch.tv/joutre_|
-| Rosencrantz | https://www.twitch.tv/rosencrantz_ttv |
-| LexCPlays | https://www.twitch.tv/lexcplays |
-| WaywardEko | https://www.twitch.tv/waywardeko |
+| Joutre | [Joutre](https://www.twitch.tv/joutre_) |
+| Rosencrantz | [Rosencrantz](https://www.twitch.tv/rosencrantz_ttv) |
+| LexCPlays | [LexCPlays](https://www.twitch.tv/lexcplays) |
+| WaywardEko | [WaywardEko](https://www.twitch.tv/waywardeko) |
 
 ---
 
