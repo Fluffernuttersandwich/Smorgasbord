@@ -11,7 +11,7 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 ## 📸 1. Screenshots
 
 * [Built-In Screenshots (F9)](#11-built-in-screenshots-f9)
-* [NVIDIA Screenshots (Alt+F1)](#13-nvidia-screenshots-altf1)
+* [NVIDIA Screenshots (Alt+F1)](#12-nvidia-screenshots-altf1)
 
 ## 🎬 2. Recording & Streaming
 
