@@ -4,7 +4,57 @@ This page contains tips and recommendations for streamers, YouTubers, screenshot
 
 If you are streaming/recording using Smorgasbord, feel free to reach out to me in a DM on Discord for assistance as needed.  
 
-## 📸 Taking Screenshots with Smorgasbord
+
+# Table of Contents
+
+## 📸 1. Screenshots
+
+* [1.1 Built-In Screenshots (F9)](#11-built-in-screenshots-f9)
+* [1.2 NVIDIA Screenshots (Alt+F1)](#13-nvidia-screenshots-altf1)
+
+## 🎬 2. Recording & Streaming
+
+* [2.1 OBS Recommendations](#21-obs-recommendations)
+
+## ⚙️ 3. Performance Considerations
+
+* [Performance Considerations](#3-performance-considerations)
+
+## 🎨 4. Thumbnail Creation Tips
+
+* [4.1 Useful Console Commands](#41-useful-console-commands)
+
+## 🧟 5. Mod Considerations for Creators
+
+* [Mod Considerations for Creators](#5-mod-considerations-for-creators)
+
+## 6. Exporting Your Custom Profile to share with Community Members
+
+* [Exporting Your Custom Profile to share with Community Members](#6-exporting-your-custom-profile-to-share-with-community-members)
+
+## 🛠️ 7. Twitch Chat Commands
+
+* [7 Twitch Chat Commands](#7-twitch-chat-commands)
+
+## 🎵 8. Music & Copyright
+
+* [Music & Copyright](#8-music--copyright)
+
+## ⭐ 9. Featured Content Creators
+
+* [Featured Content Creators](#9-featured-content-creators)
+
+## ❤️ 10. Thank You
+
+* [Thank You](#10-thank-you)
+
+---
+
+1. Screenshots
+
+Capturing high-quality screenshots is essential for thumbnails, social media posts, bug reports, and promotional content.
+
+1.1 Built-In Screenshots (F9)
 
 Normally most of you Launch your game from Steam and use the F12 key to take screenshots... 
 
@@ -22,21 +72,46 @@ Screenshots are saved to:
 
 This is often the easiest method when launching the game through Mod Organizer 2, since Steam's F12 screenshot functionality may not always attach correctly when launching through MO2.
 
-### Alternative for NVIDIA Screenshots
+---
 
-NVIDIA App Overlay users can also use:
+1.2 NVIDIA Screenshots (Alt+F1)
+
+For NVIDIA users:
 
 Alt + F1
 
 Advantages:
 
-Full resolution screenshots
+Full-resolution screenshots
+Independent of Steam Overlay
+Reliable with Mod Organizer 2
 
-## ⚙️ Performance Considerations
+---
 
-Please see the ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+2. Recording & Streaming
 
-When using a heavy Mod List like Smorgasbord + OBS, it's normal for the game to stutter for the first 2-3 minutes when you first load in. On most systems, this should stop after 2-3 minutes.
+2.1 OBS Recommendations
+
+For most users:
+
+Game Capture
+
+provides the best performance.
+
+Alternative methods:
+
+Window Capture
+Display Capture
+
+---
+
+3. Performance Considerations
+
+Please see the Performance Optimization Guide for mod selection and setting recommendations ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
+
+When using a heavy Mod List like Smorgasbord + OBS, it's normal for the game to stutter for the first 2-3 minutes when you first load in. 
+
+On most systems, this should stop after 2-3 minutes.
 
 If recording or streaming causes performance issues, consider reducing:
 
@@ -48,7 +123,37 @@ If recording or streaming causes performance issues, consider reducing:
 
 These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
 
-## 🧟 Mod Considerations for Creators
+---
+
+4. Thumbnail Creation Tips
+
+Creating thumbnails often requires screenshots that are difficult to capture during normal gameplay.
+
+4.1 Useful Console Commands
+
+Enable Debug Menu:
+
+dm
+
+Enable God Mode:
+
+god
+
+Enable Fly Mode:
+
+fly
+
+Toggle HUD:
+
+F7
+
+Pause Time:
+
+st
+
+These commands can help stage screenshots and cinematic scenes.
+
+5. Mod Considerations for Creators
 
 Smörgåsbord intentionally adds:
 
@@ -60,15 +165,13 @@ Smörgåsbord intentionally adds:
 
 As a result:
 
+- Gameplay footage may differ from vanilla.
 
-Gameplay footage may differ from vanilla.
+- Screenshots may contain content unfamiliar to viewers.
 
-Screenshots may contain content unfamiliar to viewers.
+- Unique encounters can occur that are not present in a standard game.
 
-Unique encounters can occur that are not present in a standard game.
-
-This is normal and expected behavior.
-
+- This is normal and expected behavior.
 
 
 > [!CAUTION]
@@ -80,8 +183,10 @@ This is normal and expected behavior.
 >  
 > I made the default Smorgasbord Profile in MO2 Streamer friendly, but you should still run a test game prior to running it live to tailor your experience to you and your audience. 
 
+---
 
 ### Byteblazar's Screamers 
+
 This makes Screamers move at hyper-speed and try to flee from the player. 
 
 Since they don't stop screaming, this can become audibly annoying for your audience.
@@ -91,12 +196,13 @@ This mod is disabled by default, and I encourage you to keep it disabled for str
 ---
 
 ### WalkerSim is intentionally challenging! 
+
 If it's too much, you can lower the Zombie PopulationDensity in the WalkerSim.xml file. 140 is good for most, but I like 192 for the challenge.
 
 <img width="2284" height="2036" alt="image" src="https://github.com/user-attachments/assets/d1a132f7-6be4-4617-841e-2a07c7f310f3" />
 
 
-Or you could also disable/enable this mod mid-save, it is save-safe to do so. 
+You can safely edit or disable/enable this mod mid-save, it is save-safe to do so. 
 
 ---
 
@@ -140,7 +246,6 @@ Please see the Performance Optimization guide for Performance-Heavy Mods.
 ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
 
-
 ## Adding Your Own Mods
 
 I have helped streamers add their own Decor Mods, and Community Member zombie names over health bar mods in MO2. 
@@ -166,7 +271,80 @@ For step by step guidance to add your own mods, you can refer to ➡ **[ADDING_Y
 
 For step by step guidance in creating your own Profile, you can refer to ➡ **[Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md)**
 
-## 🎵 Music & Copyright
+---
+
+6. Exporting Your Custom Profile to share with Community Members
+
+In MO2, right-click a mod, 
+
+---
+
+7. Twitch Chat Commands
+
+If you're streaming Smörgåsbord, viewers will often ask:
+
+* What mods are you using?
+* Is this an overhaul mod?
+* How do I install it?
+* Where can I download it?
+
+Creating a simple Twitch chat command can save a tremendous amount of time during a stream.
+
+---
+
+## !mods Command
+
+Recommended Nightbot, StreamElements, or Streamer.bot command:
+
+```text
+Here is the list of mods included for you to select in the Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw/mods
+```
+
+---
+
+## Short Version
+
+If your bot has character limits:
+
+```text
+Smörgåsbord Mod List: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
+```
+
+---
+
+## Suggested Additional Commands
+
+### !smorgasbord
+
+```text
+Smörgåsbord answers the question: "What if vanilla 7 Days to Die had ten years of community improvements layered onto it?" Download: https://www.nexusmods.com/games/7daystodie/collections/3olqbw
+```
+
+### !modlist
+
+```text
+Want the same mods I'm using? Grab the Smörgåsbord collection here: 
+```
+
+_Add a link to your custom Profile exported .csv list of selected mods in Smorgasbord._
+
+### !discord
+
+```text
+Need help installing or troubleshooting Smörgåsbord? Visit the Smörgåsbord Discord support channels and installation guides available from the GitHub page: https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/README.md
+```
+
+---
+
+## 💡 Creator Tip
+
+Viewers frequently discover Smörgåsbord through Twitch streams and YouTube videos. Adding a simple !mods command allows interested viewers to quickly find the collection without interrupting gameplay or requiring repeated explanations during a stream.
+
+This is especially useful during horde nights, challenge runs, and high-viewer-count moments when chat activity is at its highest.
+
+---
+
+8. Music & Copyright
 
 The default Smörgåsbord Mod List itself does not use any copyrighted music for gameplay.
 
@@ -177,8 +355,21 @@ You can use any of that music for license free, royalty free, stream-safe videos
 
 https://www.youtube.com/@StormwroughtAudio 
 
-## ❤️ Thank You
+---
 
-If you're creating content with Smörgåsbord, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
+9. Featured Content Creators
 
-Whether you're streaming, creating Let's Plays, making tutorials, or producing cinematic screenshots, we appreciate your support.
+The following creators have showcased Smörgåsbord:
+
+Creator	Platform	Series
+Coming Soon	YouTube	Coming Soon
+
+If you've created content featuring Smörgåsbord, feel free to share it in the Discord community.
+
+---
+
+10. Thank You
+
+Whether you're streaming, creating Let's Plays, recording tutorials, or making cinematic screenshots, thank you for helping showcase the incredible work of the 7 Days to Die modding community.
+
+Your support helps new players discover Smörgåsbord and the talented mod authors whose work makes it possible.
