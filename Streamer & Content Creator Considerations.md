@@ -52,15 +52,19 @@ These settings generally provide the largest performance gains with minimal visu
 
 Smörgåsbord intentionally adds:
 
-More zombie variety
-Expanded clothing, armor, vehicle, decor, and weapon variety
-Additional points of interest
-Additional ambient encounters
+- More zombie variety
+- Expanded clothing, armor, vehicle, decor, and weapon variety
+- Additional points of interest
+- Additional ambient encounters
+
 
 As a result:
 
+
 Gameplay footage may differ from vanilla.
+
 Screenshots may contain content unfamiliar to viewers.
+
 Unique encounters can occur that are not present in a standard game.
 
 This is normal and expected behavior.
