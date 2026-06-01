@@ -102,6 +102,7 @@ You can refer to the ➡ **[EFTX_for_Dummies.md](EFTX_for_Dummies.md)**
 ### Better Biomes, NPCCORE, CATUI, and other "Heavy Mods"
 Even if you are rocking a 5090, "Heavy Mods" + the rest of Smorgasbord + OBS is very resource intensive. 
 I would not recommend using any heavy mods mod for a stream/recording.
+Please see the Performance Optimization guide for Heavy Mods. ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
 ## Adding Your Own Mods
 
