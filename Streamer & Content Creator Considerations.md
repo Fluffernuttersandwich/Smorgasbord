@@ -116,7 +116,10 @@ But, keep it reasonable, I am not a miracle worker, I can't get Darkness Falls +
 The default Smörgåsbord Mod List itself does use any copyrighted music for gameplay.
 
 ### Shameless Plug: all music from my video recordings now comes from Stormwrought Audio.
+Stormwrought Audio is my other YouTube channel. 
+
 You can use any of that music for license free, royalty free, stream-safe videos. 
+
 https://www.youtube.com/@StormwroughtAudio 
 
 ## ❤️ Thank You
