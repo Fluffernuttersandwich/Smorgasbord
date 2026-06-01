@@ -116,9 +116,13 @@ Please see the Performance Optimization Guide for mod selection and setting reco
 
 ➡ **[Performance_Optimization.md](Performance_Optimization.md)**
 
+
+Pay particular attention to: Section 5️⃣ Mod Selection & Performance Impact
+
+
 When using a heavy Mod List like Smörgåsbord together with OBS, it is normal for the game to stutter for the first few minutes after loading into a world.
 
-On most systems, this should settle down after 2-3 minutes.
+On most systems, this should settle down after 2-5 minutes.
 
 If recording or streaming causes performance issues, consider reducing:
 
@@ -129,6 +133,8 @@ If recording or streaming causes performance issues, consider reducing:
 - Dynamic Resolution
 
 These settings generally provide the largest performance gains with minimal visual impact during gameplay recordings.
+
+Always run a test recording/stream prior to your first live session to verify you are in good working order.
 
 ---
 
