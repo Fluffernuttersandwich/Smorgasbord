@@ -120,7 +120,7 @@ You can refer to the ➡ **[ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md)**
 > Also put [NoDelete] in of any added mods
 > Now any mods you toggled, or added will be remembered should you update the Smorgasbord Mod List through Wabbajack.
 
-You can refer to the ➡ **[Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md](Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md)**
+You can refer to the ➡ **[Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving%20Toggled%20Mods%20as%20a%20Profile%20for%20Smorgasbord%20Updates.md)**
 
 ## 🎵 Music & Copyright
 
