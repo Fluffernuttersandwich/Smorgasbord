@@ -239,6 +239,12 @@ https://www.wabbajack.org/
 
 ## Updates
 
+Prior to Updating the Mod List, you should strongly consider:
+
+
+➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
+
+
 - Track the Smorgasbord Mod Page on NexusMods
 - Update the Smorgasbord Mod List via Wabbajack
 - Overwrite existing installation
@@ -247,7 +253,9 @@ https://www.wabbajack.org/
 I post smaller updates regularly, and advertise this on my channel over at Guppy's Discord.
 
 
-You update Smorgasbord just like you downloaded everything the first time.
+You update Smorgasbord just like you downloaded everything the first time. 
+
+Close the MO2 Application, open the Wabbajack Application, download Smorgasbord again just like you did the first time.
 
 The difference is, it will only download new/updated mods.
 
