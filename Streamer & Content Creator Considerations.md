@@ -124,6 +124,14 @@ When using a heavy Mod List like Smörgåsbord together with OBS, it is normal f
 
 On most systems, this should settle down after 2-5 minutes.
 
+> [!WARNING]
+> Don't rush into multiple map chunks with lots of POIs as soon as you spawn in to the game.
+>
+> There is a very small (but real) chance of you "falling through the world".
+>
+> I haven't seen this issue in years, but it came up recently. The Streamer was able to go back into the save like normal and play thankfully.
+
+
 If recording or streaming causes performance issues, consider reducing:
 
 - Shadow Distance
