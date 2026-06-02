@@ -241,6 +241,7 @@ https://www.wabbajack.org/
 
 Prior to Updating the Mod List, you should strongly consider:
 
+➡ How to keep your own added mods between Updates: [ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md) 
 
 ➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
 
@@ -263,7 +264,8 @@ The difference is, it will only download new/updated mods.
 
 ### This is a normal part of the Update Process in Wabbajack for Smorgasbord: 
 
-<img width="1040" height="542" alt="image" src="https://github.com/user-attachments/assets/85567548-ebe9-40e1-b089-17763c561c31" />
+<img width="1040" height="542" alt="image" src="https://github.com/user-attachments/assets/884ff872-5292-4333-b61a-ed6419a99ae9" />
+
 
 --- 
 
