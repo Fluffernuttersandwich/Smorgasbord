@@ -1,4 +1,4 @@
-**Smörgåsbord ModList Update:** ```2.6.1.23 08:00 EST 31MAY2026
+**Smörgåsbord ModList Update:** ```2.6.1.25 09:45 EST 02JUN2026
 
 Comments:
 
@@ -7,13 +7,23 @@ Standard Warning:
 There is no guarantee you can update the Mod List and continue in an existing save.
 Only update the Mod List when you are ready to start a new game.
 
-1. I had to make a few updates to the backend of the MO2 files because NexusMods updated their TLS/SSL settings for their API Connection... tl;dr version: NexusMods downloads weren't working, now they do.
-
 === Smorgasbord Changelog ===
 
 UPDATED
 
-- Wasteland
-- QuickLoot
+- PackWisely
+- QuickLoot: Fixed the storage labeling overlap issue, thanks Brotteil
+- LittleRedSonja and Mumpfy Vanity Vault
+- POI Scourge
+
+- Austi's Working Machines
+After watching WaywardEko play Smorgasbord, I noticed an issue with this mod. It deosn't explain itself well.
+I fixed up the Localization.txt file myself for this one to make it more descriptive so players knew: 
+A. What they are looking to craft is a workstation. 
+B. What can be made with each workstation.
+
+- Wash Your Body
+Also from watching various Streamers play Smorgasbord, I realized this mod is lacking Description.
+I added more to the Localization.txt file so players understand what the mod is doing and what the Icons mean.
 
 ________________________________________________________________
