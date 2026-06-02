@@ -240,7 +240,7 @@ It is save-safe to do so.
 
 
 > [!TIP]
-> While PLaying with WalkerSim, for the sake of survival, and the interest of productivity, sometimes you should just run away from an area for a while.
+> While playing with WalkerSim, for the sake of survival, and the interest of productivity, sometimes you should just run away from an area for a while.
 >
 > With WalkerSim, the zombies swirl in and out of regions like storm fronts.
 >
