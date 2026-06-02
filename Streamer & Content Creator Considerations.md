@@ -257,6 +257,11 @@ For guidance:
 ➡ [EFTX_for_Dummies.md](EFTX_for_Dummies.md)
 
 
+>[!WARNING]
+>Once you make an EFTX "Z2" Ammo Option selection, you are stuck with it for that playthrough.
+>
+>Do not swap "Z2" Ammo Options mid-save, this is generally not save-safe behavior.
+
 
 --
 ### Peek Lean
