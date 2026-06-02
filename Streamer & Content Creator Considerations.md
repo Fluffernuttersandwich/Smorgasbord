@@ -274,10 +274,10 @@ For guidance:
 
 Either disable this mod or remap the controls.
 
-You can:
+You can either:
 
-Disable it in MO2
-Rebind the keys in the in-game Mods (Gears) menu
+- Disable it in MO2
+- or keep it enabled and rebind the keys in the in-game Mods (Gears) menu
 
 This can prevent conflicts with your existing control scheme.
 
@@ -299,6 +299,10 @@ While they can be immersive for personal gameplay, they generally create a poor 
 
 <img width="2622" height="198" alt="Screenshot 2026-06-01 081902" src="https://github.com/user-attachments/assets/385f6f06-4d9c-4810-acb0-0939a317a639" />
 
+I added two mods that work to help Streamers craft a helmet light early without cheating it in with the Creative Menu:
+
+- **Flashlight Recipe**: Search "Flashlight" in the crafting menu of your backpack inventory menu.
+- **DIY Helmet Mod**: Search "DIY" in the crafting menu of your backpack inventory menu.
 
 
 ### Medical Conditions
