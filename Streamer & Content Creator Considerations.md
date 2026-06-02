@@ -130,6 +130,8 @@ On most systems, this should settle down after 2-5 minutes.
 > There is a very small (but real) chance of you "falling through the world".
 >
 > I haven't seen this issue in years, but it came up recently. The Streamer was able to go back into the save like normal and play thankfully.
+> 
+> Give it 10-15 minutes of casually paced exploration before speeding through map chunks in your first load into the world.
 
 
 If recording or streaming causes performance issues, consider reducing:
