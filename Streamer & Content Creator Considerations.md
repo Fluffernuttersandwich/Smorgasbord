@@ -377,6 +377,8 @@ For detailed instructions:
 
 One of the advantages of MO2 is that you can export your customized setup and share it with viewers, friends, or community members.
 
+**I strongly recommend you do this preventatively as a backup save of your Profile's configuration.**
+
 To export your customized list, in MO2, right-click a mod on the left half of the screen, press All Mods, Export to csv
 
 
