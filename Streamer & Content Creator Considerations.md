@@ -239,6 +239,12 @@ It is save-safe to do so.
 <img width="2283" height="2036" alt="Screenshot 2026-05-31 215055" src="https://github.com/user-attachments/assets/32d85168-eb1c-4e44-bd2f-15311ae19f54" />
 
 
+> [!TIP]
+> While PLaying with WalkerSim, for the sake of survival, and the interest of productivity, sometimes you should just run away from an area for a while.
+>
+> With WalkerSim, the zombies swirl in and out of regions like storm fronts.
+>
+> Often, running away is the best course of action.
 
 --
 
