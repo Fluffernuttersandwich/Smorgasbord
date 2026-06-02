@@ -32,6 +32,7 @@ If you are streaming/recording using Smorgasbord, feel free to reach out to me i
 ## 6. Exporting Your Custom Profile to share with Community Members
 
 * [Exporting Your Custom Profile to share with Community Members](#61-exporting-your-custom-profile-to-share-with-community-members)
+* [Updating the Mod List](#62-updating-the-mod-list)
 
 ## 🤖 7. Twitch Chat Commands
 
@@ -430,6 +431,57 @@ This is particularly useful if:
 You can then reference that exported list through your Twitch bot, YouTube descriptions, Discord server, or social media posts.
 
 This allows viewers to see exactly which options you selected from the larger Smörgåsbord collection.
+
+
+
+--
+
+
+
+### 6.2 Updating the Mod List
+
+Prior to Updating the Mod List, you should strongly consider:
+
+➡ How to keep your own added mods between Updates: [ADDING_YOUR_OWN_MODS.md](ADDING_YOUR_OWN_MODS.md) 
+
+➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
+
+### Update Notifications and Process
+
+- Track the Smorgasbord Mod Page on NexusMods
+- Update the Smorgasbord Mod List via Wabbajack
+- Overwrite existing installation
+- Updating the Mod List may require a new save (ask me if you are unsure)
+
+I post smaller updates regularly, and advertise this on my channel over at Guppy's Discord.
+
+
+You update Smorgasbord just like you downloaded everything the first time. 
+
+Close the MO2 Application, open the Wabbajack Application, download Smorgasbord again just like you did the first time.
+
+The difference is, it will only download new/updated mods.
+
+--- 
+
+### This is a normal part of the Update Process in Wabbajack for Smorgasbord: 
+
+<img width="1040" height="542" alt="image" src="https://github.com/user-attachments/assets/884ff872-5292-4333-b61a-ed6419a99ae9" />
+
+
+--- 
+
+> [!WARNING]
+> There's no guarantee you can update the Mod List and continue to play in an old save!
+> 
+> If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+> 
+> There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough.
+> 
+> If you want to update the list and continue a save, Export the list in MO2, and make a backup just in case.
+> 
+
+**Don't FOMO! The list isn't going anywhere!**
 
 ---
 
