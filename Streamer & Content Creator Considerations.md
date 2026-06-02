@@ -238,6 +238,10 @@ The default list includes hundreds of additional ammunition types.
 
 If this feels like unnecessary inventory management for your content, you can disable the current Z2 ammo option and select one of the Vanilla Z2 alternatives.
 
+
+<img width="2694" height="1186" alt="image" src="https://github.com/user-attachments/assets/968fd4e2-e0a3-4276-8cb0-e85266349335" />
+
+
 For guidance:
 
 ➡ [EFTX_for_Dummies.md](EFTX_for_Dummies.md)
