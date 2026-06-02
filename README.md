@@ -259,6 +259,14 @@ Close the MO2 Application, open the Wabbajack Application, download Smorgasbord 
 
 The difference is, it will only download new/updated mods.
 
+--- 
+
+### This is a normal part of the Update Process in Wabbajack for Smorgasbord: 
+
+<img width="1040" height="542" alt="image" src="https://github.com/user-attachments/assets/85567548-ebe9-40e1-b089-17763c561c31" />
+
+--- 
+
 > [!WARNING]
 > There's no guarantee you can update the Mod List and continue to play in an old save!
 
