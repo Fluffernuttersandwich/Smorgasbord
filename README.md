@@ -245,6 +245,7 @@ Prior to Updating the Mod List, you should strongly consider:
 
 ➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
 
+**Update Notifications and Process**
 
 - Track the Smorgasbord Mod Page on NexusMods
 - Update the Smorgasbord Mod List via Wabbajack
