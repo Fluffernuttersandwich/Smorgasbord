@@ -1,3 +1,40 @@
+**Smörgåsbord ModList Update:** ```2.6.1.27 17:00 EST 04JUN2026
+
+Comments:
+
+I was able to continue in the same save, but...
+Standard Warning: 
+There is no guarantee you can update the Mod List and continue in an existing save.
+Only update the Mod List when you are ready to start a new game.
+
+=== Smorgasbord Changelog ===
+
+REMOVED
+
+- Wasteland Separator and accompanying mods. 
+
+- Survivalist Separator. You can easily recreate this one yourself if you wanted to by enabling a few of those mods. 
+
+There wasn't enough user engagement with those Profiles, and it's easier for me to maintain just one main SMorgasbord Profile.
+
+ADDED
+
+- The new Splash Screen when you launch MO2 was provided by Mumpfy.
+
+- OreVision: Adds a helmet mod that allows you to see Ore Node deposits. Unlock crafting with Mother Lode rank 5.
+
+- Funukemaguro's Military Color Dye: Adds a ton of new muted military colored dyes. They look great on Izy guns!
+
+- Mounted Minigun Redux: Adds a craftable Mounted Minigun.
+
+- Casino Coin Hidden Wallet: Disabled, pending update. 
+Currently duplicates QuickStack Icon Buttons, and causes an icon overlap in the backpack. The mod author is working on an update... 
+Automatically store, spend, and manually retrieve your coins from this wallet to save backpack space. 
+Adds two new Hidden Wallet Icon Buttons in the backpack to push/pull Duke casino coins. 
+Similar to PackWisely. 
+
+________________________________________________________________
+
 **Smörgåsbord ModList Update:** ```2.6.1.26 17:30 EST 03JUN2026
 
 Comments:
@@ -19,6 +56,8 @@ ADDED
 Some Community Members didn't like that my other maps only have one trader per biome. 
 So this map has up to FIVE traders per biome.
 
+
+Minor hotfixes 2.6.1.24-.25
 __________________________________________________________________________
 
 **Smörgåsbord ModList Update:** ```2.6.1.23 08:00 EST 31MAY2026
