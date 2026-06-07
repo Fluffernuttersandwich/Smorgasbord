@@ -1,3 +1,45 @@
+**Smörgåsbord ModList Update:** ```2.6.1.29 18:30 EST 07JUN2026
+
+Comments:
+
+I was able to continue in the same save, but...
+Standard Warning: 
+There is no guarantee you can update the Mod List and continue in an existing save.
+Only update the Mod List when you are ready to start a new game.
+
+1. Mumpfy gave us new a splashscreen, and MO2 taskbar icon. These are great! 
+I also added a new MO2 Theme, and combined, these really give our Mod List a fun distinctive look.
+
+=== Smorgasbord Changelog ===
+
+UPDATED
+
+- GoFasterOnRoads
+- QuestRevamp
+- LittleRedSonja Ash Williams NPC
+- PackWisely
+
+-Laydor's FrameForge (formerly DLSS Super Resolution)
+This is one third of the mod! If you want to unlock it's full potential for performance boosting,
+you will need to MANUALLY download Frame Generation and the Unity Nvidia Module files.
+Then use those to overwrite your base game files... where you see 7DaysToDie.exe...
+If you do this, you could see a 17-80% boost to FPS without sacrificing visuals.
+
+ADDED
+
+- Zombie Color Remove: Disabled
+Removes the Skittles coloration from Rads, Infernals, and Charged Zeds. Stats-wise, they remain unchanged.
+For those of you who don't want to taste the rainbow.
+
+- LittleRedSonja Ellen Ripley NPC: Disabled
+Add-on to NPC Core. 
+I say we take off and nuke the entire site from orbit. It’s the only way to be sure.
+
+- New MO2 Theme for 7DtD Smorgasbord: This is not a mod. 
+It provides us with a MO2 Theme for the visual UI you are looking at now (in MO2). 
+You can change it from the Settings button if you prefer something else.
+
+________________________________________________________________
 2.6.1.28 18:30 EST 04JUN2026: Hotfix on Mounted Gun
 
 **Smörgåsbord ModList Update:** ```2.6.1.27 17:00 EST 04JUN2026
