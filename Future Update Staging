@@ -7,6 +7,9 @@ Standard Warning:
 There is no guarantee you can update the Mod List and continue in an existing save.
 Only update the Mod List when you are ready to start a new game.
 
+1. Mumpfy gave us new a splashscreen, and MO2 taskbar icon. These are great! 
+I also added a new MO2 Theme, and combined, these really give our Mod List a fun distinctive look.
+
 === Smorgasbord Changelog ===
 
 UPDATED
@@ -22,7 +25,6 @@ you will need to MANUALLY download Frame Generation and the Unity Nvidia Module 
 Then use those to overwrite your base game files.
 If you do this, you could see a 17-80% boost to FPS without sacrificing visuals.
 
-
 ADDED
 
 - Zombie Color Remove: Disabled
@@ -33,6 +35,6 @@ For those of you who don't want to taste the rainbow.
 Add-on to NPC Core. 
 I say we take off and nuke the entire site from orbit. It’s the only way to be sure.
 
-
+- New MO2 Theme for 7DtD Smorgasbord: Not a mod.
 
 ________________________________________________________________
