@@ -117,6 +117,8 @@ https://www.wagnardsoft.com/forums/viewtopic.php?t=1256
 
 # 2️⃣ FrameForge Upscaling and Frame Generation (Included in MO2)
 
+https://www.youtube.com/watch?v=qYIoBouLMzI
+
 The Smorgasbord Mod List already includes the first third of this mod in Mod Organizer 2 (MO2).
 
 you can manually download, extract, and overwrite your game directory folder with the Frame Generation and Unity Nvidia Modules files.
