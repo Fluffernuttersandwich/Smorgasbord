@@ -115,20 +115,21 @@ https://www.wagnardsoft.com/forums/viewtopic.php?t=1256
 
 
 
-# 2️⃣ Super Resolution Mod (Included in MO2)
+# 2️⃣ FrameForge Upscaling and Frame Generation (Included in MO2)
 
-The Smorgasbord Mod List already includes this mod in Mod Organizer 2 (MO2).
+The Smorgasbord Mod List already includes the first third of this mod in Mod Organizer 2 (MO2).
 
-If you are not using Smorgasbord, you can download **Super Resolution** from here:
+you can manually download, extract, and overwrite your game directory folder with the Frame Generation and Unity Nvidia Modules files.
 
 https://www.nexusmods.com/7daystodie/mods/6781
 
 
-This mod enables GPU-specific Upscaling options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
+This mod enables GPU-specific Upscaling and Frame Generation options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
 
 
 <img width="2308" height="764" alt="image" src="https://github.com/user-attachments/assets/7c9d8aaf-dd20-4c0b-ad8c-386f634569a9" />
 
+You can gain between 17% and 80% boost to FPS without sacrificing visuals.
 
 ---
 
