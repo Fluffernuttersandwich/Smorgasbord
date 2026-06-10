@@ -94,10 +94,13 @@ These are very challenging POIs!
 The aesthetics are a mixed bag.
 
 
+These packs can hit your FPS.
+
+
 This mod is a "historical preservation society" for every community made POI ever made over the years. 
 
 
-If you don't like it, that's fine, but please don't complain about it.  Just play without these mods.
+If you don't like it, that's fine, but please don't complain about it.  Just play without these mods, they're disabled by default!
 
 
 ---
