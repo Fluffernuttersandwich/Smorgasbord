@@ -105,82 +105,6 @@ If you don't like it, that's fine, but please don't complain about it.  Just pla
 
 ---
 
-How do I use **Custom Avatars (VRoid)?**
-
-> [!IMPORTANT]
-> Do not use Witos Camera with VRoid. 
-
-
-VRoid replaces your standard character with a new Avatar.  
-There are three anime characters to choose from by default.  
-I will continue to add Avatars as they are added.
-
-
-Currently. the older Avatars do not have all of their hand motions mapped to 2.x!  
-I would recommend waiting until Avatars are updated to 2.x.
-I will add updated Avatars for you in future updates to Smorgasbord.  
-
-
-To use/change VRoid Avatars, in-game, open the Character tab, press the golden hexagon icon. Select the Avatar of your choice. 
-It might look like the VRoid Avatar is overlayed on top of a normal 7DtD character, but that will clear up when you back out of the menu.  
-You might see a stutter, or even a Null Error warning, but it will go away.  
-
-![image](https://github.com/user-attachments/assets/e71dcd96-96d3-44aa-ad00-72cf52ce7863)
-
-
-I will add Avatars and new Dances to Smorgasbord as they come online for 2.x.  
-
-If you want to add the old ones, you must add those Avatar files (from individual mods) manually to the Avatars folder under VRoid in MO2's folder directory.
-
-Dance files need to be manually dragged into the Dances folder under the main VRoid Mod manually yourself! 
-
-Do _**not**_ add too many dances, either you won't be able to see some of them within the radial Dance (Tab) menu, or none of them will display at all.  
-
-Pick a handful at a time to test what you like.  
-
-They are very cute.  
-
-![image](https://github.com/user-attachments/assets/7806aa33-5dc9-4063-9cad-65ba762021fd)
-
-
-If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon and uncheck "Aim Correction".
-
-
-<img width="2553" height="1355" alt="image" src="https://github.com/user-attachments/assets/f9fe66f6-065f-49be-bf2e-3465996b356f" />
-
-
-
-
-I will not be adding NSFW skins, you can do that yourself, no judgement, I just can't do that at Guppy's.
-
-
-Note: Using Izy + Custom Avatar (VRoid) will still do a funny thing with the hands changing from 3rd person view to FPV when you ADS.  
-Your Custom Avatar hands will be temporarily be replaced with the Izy hands when you ADS when using Custom Avatar (VRoid).  
-This is because Izy does his hands differently than vanilla or EFT-O/X.  
-Izy currently does not have plans to update his hands.    
-
-
-**How do I make them Gesture and Dance?**
-
-Hold the Tab key on your keyboard.
-Move the cursor to either the Gesture or Dance balloon.
-This will open up either Gesture or Dance Option screen.  
-Move the cursor to the Gesture or Dance of your choice.  
-Enjoy the Gesture/Dance.
-You can also cancel the gesture/dance with the Escape key.  
-
-Video Display: https://www.youtube.com/watch?v=k9HHp7VajZg
-
----
-
-How do I decrease/increase the Zombie Population in **WalkerSim**?
-
-<img width="1400" height="1015" alt="image" src="https://github.com/user-attachments/assets/387c5c6f-a13d-4615-b622-802814eba06c" />
-
-
-______________________________________________________________________________________________________________________
-
-
 ## Mods to consider avoiding while using this ModList:
 
 A. **Firearms Expansion 5 (FE5)** , **Pant's Weapons**
@@ -191,8 +115,7 @@ Ammo Conflicts, progression.xml issues, and mod compatibility errors.
 
 B. IDC Core and Nomad mod suite.  
 
-I really wish I could get this mod to work since now biome progression is an important part of game version 2.x.  
-However, there are multiple compatibility issues with other mods on the ModList.  
+I really wish I could get this mod to work...
 
 The Nomad doesn't have full functionality in multiplayer.
 
@@ -221,7 +144,7 @@ F. "OCB Advanced Pin Recipes"  Conflicts with various UI mods, might work with o
 ---
 
 G. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues with multiple mods on my Mod List.  
-From the author Sirillion himself: SMX does not play nice with added workstation mods, and any mod that adds a progression.xml file.
+From the author Sirillion himself: SMX does not play nice with modded workstation, and any mod that adds major changes to the progression.xml file.
 If one of you guys wants to patch the SMX UI mod, I'd be happy to provide this suite on the list, but right now I have too much on my plate.
 
 ---
