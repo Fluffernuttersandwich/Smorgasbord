@@ -1,5 +1,9 @@
 # 🚀 Lossless Scaling with Smörgåsbord
 
+
+**First and foremost: I would try Laydor's FrameForge mod before trying Lossless Scaling!**
+
+
 Lossless Scaling (LS) is a **paid Steam application** that can provide:
 - Frame Generation
 - Reduced stutter
