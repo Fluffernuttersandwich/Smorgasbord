@@ -1,461 +1,987 @@
-# 🎮 Performance Optimization Guide for PC Gaming
+# 🎮 Smörgåsbord Performance Optimization Guide
 
-Not all suggestions apply equally to every system.  
+This guide was written primarily for **modded 7 Days to Die**, but many of these recommendations can improve performance in other PC games as well.
 
-Many of the options are hardware specific, or based on personal preference.
+Not every optimization will benefit every system. Hardware, drivers, installed mods, and personal preferences all play a role.
 
-If you do everything in this guide, you could see a 2-30% boost to FPS in your gaming.
-
-Your mileage may vary.
-
-This guide was written primarily for modded 7DtD, but much of it can be beneficial for any PC Game.
+Depending on your configuration, these recommendations may provide anywhere from a minor improvement to a substantial increase in FPS, frame pacing, and overall smoothness.
 
 ---
 
-# 1️⃣ Optimizing Windows 11 for Gaming
+# ⚠️ Before You Begin
 
-This video guide walks through various Windows, BIOS, and NVIDIA Control Panel optimizations to improve gaming performance:
+Before making any system-level changes:
 
-▶ https://youtu.be/Ntkc6PeImhU
+* Create a Windows Restore Point
+* Back up important files
+* Only change settings you understand
+* If a section feels too advanced, skip it
 
-### Important Notes
+Many of these recommendations are optional. The goal is to improve performance, not create new problems.
 
-- I do **not** agree with every setting shown in the video.
-- The creator primarily focuses on **latency reduction for competitive online gaming**.
-- I personally play single-player and prioritize **visual quality over latency**.
-- **Before you make any changes to regedit, make a Windows Restore Point as a back-up!**
-- _If you don't feel comfortable doing the regedit portion, just skip it._
+---
 
-How to make a Windows 11 Restore Point: https://www.youtube.com/watch?v=Nm2EjpsOXms
+# 🚀 Performance Quick Start
 
-For the handful of you with AMD GPUs, ignore all of the Nvidia stuff, use this video: https://www.youtube.com/watch?v=03y1ToHieog
+Don't want to read the entire guide? Start here.
 
-### Example Difference
+These recommendations provide the largest performance improvements for most players.
 
-- I leave **VSync enabled in NVIDIA Control Panel**
-- I disable **VSync in-game**
+## 🟢 Highest Impact Changes
 
-Feel free to experiment based on your priorities:
-- Competitive latency
-- Visual fidelity
-- Frame pacing stability
+* Install 7 Days to Die, MO2, Wabbajack, and Smörgåsbord on an SSD
+* Enable FrameForge upscaling (DLSS or FSR)
+* Set NVIDIA Shader Cache Size to 10GB
+* Cap FPS to a stable value your PC can consistently maintain
+* Leave at least 100GB free on your installation drive
+* Reduce or disable performance-heavy mods if needed
 
+## 🟡 Additional Improvements
 
-The two most important settings in the Nvidia Control Panel are Max Frame Rate and Shader Cache Size.
+* Use Process Lasso
+* Use ISLC (Intelligent Standby List Cleaner)
+* Enable the "No Blurry Textures" mod if you experience texture pop-in
+* Tune graphics settings for your hardware
 
+## 🔴 Advanced Tweaking
 
-Set Shader Cache Size to 10GB.
+* GPU undervolting
+* GPU overclocking
+* CPU tuning
+* Memory tuning
+* BIOS optimization
 
+Only pursue these if you're comfortable troubleshooting stability issues.
 
-## Max Frame Rate and why you should cap your FPS:
+---
 
-You are playing an open world voxel game with mods. 
-When you move around the world, the game loads and unloads stuff. 
-Your CPU, Memory, and even storage-read speeds become bottlenecks. 
-Any sudden drop of FPS will be perceived by you as stuttering, so a workaround is to cap FPS closer to the lower bound _your PC can deliver at a constant rate no matter what._
+# 📑 Table of Contents
 
+* [Windows 11 Optimization](#windows-11-optimization)
 
-Globally (for all applications), I set Max Frame Rate to my monitors Max Refresh Rate. 
+  * [Important Notes](#important-notes)
+  * [NVIDIA Control Panel Settings](#nvidia-control-panel-settings)
+  * [Why You Should Cap Your FPS](#why-you-should-cap-your-fps)
+  * [Process Lasso](#process-lasso)
+  * [ISLC Memory Optimization](#islc-memory-optimization)
+* [FrameForge Upscaling & Frame Generation](#frameforge-upscaling--frame-generation)
 
-My Display's Max Refresh Rate is 165Hz, so I set my Max FPS Rate to 165 as well.
+  * [GPU Recommendations](#gpu-recommendations)
+  * [Recommended DLSS Presets](#recommended-dlss-presets)
+  * [NVIDIA Automatic GPU Tuning](#nvidia-automatic-gpu-tuning)
+  * [NVIDIA Performance Overlay](#nvidia-performance-overlay)
+* [7 Days to Die Graphics Settings](#7-days-to-die-graphics-settings)
+* [Fixing Blurry Textures](#fixing-blurry-textures)
+* [Mod Performance Impact](#mod-performance-impact)
 
-However, you can and should cap FPS by Application for games like 7DtD.
-On each intensive (or heavily modded overhaul) game, you should test it yourself.
-On some older titles like Skyrim and Fallout New Vegas, you want to cap FPS to 60, but then use other tools for Frame Generation.
+  * [Performance-Heavy Mods](#performance-heavy-mods)
+  * [Performance-Friendly Mods](#performance-friendly-mods)
+  * [Smörgåsbord-Specific Performance Notes](#smorgasbord-specific-performance-notes)
+* [Hardware & Storage Recommendations](#hardware--storage-recommendations)
+* [Additional Performance Tools](#additional-performance-tools)
+* [Lighting Alternatives](#lighting-alternatives)
+* [Final Advice](#final-advice)
 
-Generally you want to lock an individual game's Max FPS Rate to the average FPS you get in your (modded) game.
+---
 
-Let's say your FPS for Smorgasbord bounces between 40 and 90 FPS, but mostly hangs out at 60. You should lock your FPS to 60.
+# Windows 11 Optimization
 
-Nvidia Control Panel is _not_ the only way to lock FPS, there are other applications and methods, but this one works fine.
+🟡 **Difficulty:** Intermediate
 
+This video guide walks through various Windows, BIOS, and NVIDIA Control Panel optimizations designed to improve gaming performance.
 
-**Global Setting**
-<img width="2012" height="1464" alt="image" src="https://github.com/user-attachments/assets/708a66a3-3245-4760-9942-2aee6aa50b60" />
+**Video Guide:**
+https://youtu.be/Ntkc6PeImhU
 
+## Important Notes
 
-**Application Setting**
-<img width="1458" height="1138" alt="image" src="https://github.com/user-attachments/assets/dc2c97ae-ce40-48c1-a839-c5edeba96f3c" />
+* I do **not** agree with every setting shown in the video.
+* The creator primarily focuses on reducing latency for competitive online gaming.
+* I primarily play single-player games and generally prioritize visual quality over latency.
+* Always create a Windows Restore Point before making registry changes.
+* If you're uncomfortable editing the registry, skip that section.
 
+### Windows Restore Point Guide
 
+https://www.youtube.com/watch?v=Nm2EjpsOXms
 
-You can download the Nvidia Control Panel from here:
+### AMD GPU Users
 
-https://apps.microsoft.com/detail/9nf8h0h7wmlt?hl=en-US&gl=US
+If you're using an AMD GPU, ignore the NVIDIA-specific portions of the video and use this guide instead:
 
-### Using the Nvidia App to configure your best settings
+https://www.youtube.com/watch?v=03y1ToHieog
+
+## NVIDIA Control Panel Settings
+
+The two most impactful settings for most players are:
+
+* Shader Cache Size
+* Max Frame Rate
+
+### Recommended Shader Cache Size
+
+Set **Shader Cache Size** to:
+
+**10GB**
+
+This helps reduce shader recompilation and can improve smoothness in many games.
+
+## Why You Should Cap Your FPS
+
+Many players assume that higher FPS is always better.
+
+For heavily modded open-world games like 7 Days to Die, that's not always true.
+
+As you move through the world, the game constantly:
+
+* Loads chunks
+* Unloads chunks
+* Streams textures
+* Spawns entities
+* Processes AI
+* Reads data from storage
+
+Your CPU, memory, and storage speed can all become bottlenecks.
+
+When FPS fluctuates dramatically, those drops are often perceived as stutter.
+
+A stable 60 FPS usually feels smoother than constantly bouncing between 45 and 100 FPS.
+
+### Global FPS Limit
+
+I recommend setting your global FPS limit to match your monitor's refresh rate.
+
+For example:
+
+* 60Hz monitor → 60 FPS
+* 144Hz monitor → 144 FPS
+* 165Hz monitor → 165 FPS
+
+### Game-Specific FPS Limit
+
+For demanding games such as heavily modded 7DtD, consider creating a per-game FPS cap.
+
+Example:
+
+If your FPS regularly fluctuates between:
+
+* 40 FPS
+* 90 FPS
+
+but typically averages around:
+
+* 60 FPS
+
+Then cap the game to:
+
+**60 FPS**
+
+This often produces a smoother experience than allowing large FPS swings.
+
+NVIDIA Control Panel is not the only way to limit FPS, but it is simple and effective.
+
+### NVIDIA Control Panel Download
+
+https://apps.microsoft.com/detail/9nf8h0h7wmlt
+
+### NVIDIA App Configuration Guide
 
 https://www.youtube.com/watch?v=j08cAZGMhTM
 
-
 ---
 
+## Process Lasso
 
-## Use Process Lasso to maximize your CPU for gaming
+🟡 **Difficulty:** Intermediate
+
+Process Lasso can help improve CPU scheduling and process priority behavior.
+
+Video Guide:
 
 https://www.youtube.com/watch?v=xXpnCqXxwz8
 
+Download:
+
 https://bitsum.com/
 
-I recommend you watch this video at half-speed to follow along.
-
+I recommend watching the tutorial at half speed while following along.
 
 ---
 
-## ISLC (Intelligent Standby List Cleaner) for Memory (RAM) - Boost FPS and Reduce Latency!
+## ISLC Memory Optimization
 
+🟢 **Difficulty:** Beginner
+
+ISLC (Intelligent Standby List Cleaner) can help reduce memory-related stuttering on some systems.
+
+Video Guide:
 
 https://www.youtube.com/watch?v=4uTZb2nhJD8
 
+Download:
 
 https://www.wagnardsoft.com/forums/viewtopic.php?t=1256
 
-
 ---
 
+# FrameForge Upscaling & Frame Generation
 
+🟢 **Difficulty:** Beginner
 
-# 2️⃣ FrameForge Upscaling and Frame Generation (Included in MO2)
+Video Guide:
 
 https://www.youtube.com/watch?v=qYIoBouLMzI
 
-The Smorgasbord Mod List already includes the first third of this mod in Mod Organizer 2 (MO2).
+FrameForge is one of the most impactful performance upgrades available for 7 Days to Die players with supported hardware.
 
-you can manually download, extract, and overwrite your game directory folder with the Frame Generation and Unity Nvidia Modules files.
+Smörgåsbord already includes the **DLSS Fix portion** of FrameForge within MO2.
+
+If you want Frame Generation support, you must manually download and install the additional files provided by the mod author.
+
+Download:
 
 https://www.nexusmods.com/7daystodie/mods/6781
 
+## What FrameForge Does
 
-This mod enables GPU-specific Upscaling and Frame Generation options inside 7DtD’s video settings to improve FPS without heavily sacrificing visuals.
+FrameForge improves performance through several technologies:
 
+* DLSS Super Resolution (NVIDIA)
+* FSR Super Resolution (AMD)
+* Frame Generation
+* Updated NVIDIA DLSS modules
+* Improved image quality compared to vanilla DLSS implementation
 
-<img width="2308" height="764" alt="image" src="https://github.com/user-attachments/assets/7c9d8aaf-dd20-4c0b-ad8c-386f634569a9" />
+Depending on your hardware and settings, gains can range anywhere from:
 
-You can gain between 17% and 80% boost to FPS without sacrificing visuals.
+**+17% to +80% FPS**
+
+while maintaining excellent image quality.
 
 ---
 
-## GPU Options
+## GPU Recommendations
 
 ### AMD GPUs
-- Use **FSR**
+
+Use:
+
+**FSR**
+
+Start with:
+
+* Quality
+* Balanced
+
+before moving to more aggressive performance presets.
 
 ### NVIDIA GPUs
-- Use **DLSS**
-- To maximize performance, you may choose to experiment with lower presets like:
-  - Balanced
-  - Performance
 
-I personally use a 5090, with the Nvidia App DLSS Preset M, and in-game DLSS Preset on Ultra Quality for 7DtD.
+Use:
 
-The 7DtD Super Resolution mod is only for Windows OS! Not Linux, not Mac.
+**DLSS**
 
----
+Recommended starting points:
 
-## Recommended DLSS Presets (NVIDIA)
+* Ultra Quality
+* Quality
 
-### **RTX 20 & 30 Series:** Use **Preset K**
-  
-### **RTX 40 & 50 Series:**
-- If you are prioritizing looks, use **Preset L or M**
-- If you are prioritizing performance, use **Preset K**
+If you need additional FPS:
+
+* Balanced
+* Performance
+
+can provide significant gains at the expense of some image quality.
 
 ---
 
-## How to Activate DLSS Presets
+## Recommended DLSS Presets
 
-1. **Update Drivers**
-   - Install the latest NVIDIA App
-   - Install latest Game Ready Drivers
+### RTX 20 & 30 Series
 
-2. **Open NVIDIA App**
-   - Go to the **Graphics** tab
+Recommended:
 
-3. **Choose Scope**
-   - Select **Global Settings** (all games)
-   - OR select the specific game
+**Preset K**
 
-4. **Find DLSS Override**
-   - Scroll to **DLSS Override – Model Presets**
+### RTX 40 & 50 Series
 
-5. **Switch to Custom**
-   - Change from *Recommended* → *Custom*
+If visual quality is your priority:
 
-6. **Select Preset**
-   - Under *Super Resolution*, select desired preset
+* Preset L
+* Preset M
 
-7. **Apply Changes**
-   - Click **Apply**
+If performance is your priority:
 
+* Preset K
 
-<img width="2526" height="858" alt="image" src="https://github.com/user-attachments/assets/2e0d1c04-f2ca-4663-ab73-29c63cc7b3e6" />
+### Personal Example
 
+My system:
 
-You can download the Nvidia App from:
+* RTX 5090
+* DLSS Preset M in NVIDIA App
+* Ultra Quality DLSS in-game
 
-https://www.nvidia.com/en-eu/software/nvidia-app/
+Your optimal settings may differ.
 
-
-Inside the Nvidia App, you can also Automatically Tune your GPU for a slight performance bump. 
-
-Close all other applications, toggle the button in this screenshot, and let it run. 
-
-It may take a few hours, it's best to launch this process prior to going to bed and letting it run overnight.
-
-
-<img width="2880" height="1674" alt="image" src="https://github.com/user-attachments/assets/848e0349-5d72-4643-8fae-50981cb73d7a" />
-
-
-To enable the Nvidia Overlay within the Nvidia App:
-
-
-<img width="2856" height="1470" alt="image" src="https://github.com/user-attachments/assets/b1cb09a3-79ba-400d-ba2e-1566a121c7c0" />
-
-
-You can edit your overlay's display setting like this:
-
-Press Alt+z to get into the Nvidia Overlay once you toggled it to be availabe within the app. 
-
-Then click the "Statistics" button at the bottom.
-
-
-<img width="1022" height="2158" alt="image" src="https://github.com/user-attachments/assets/2b488fe5-49f0-4ec2-bfc0-eb6077a01b00" />
-
-
-<img width="1013" height="1390" alt="image" src="https://github.com/user-attachments/assets/7384fb3a-5c73-4389-a6a6-5d006a6147a1" />
-
-
-<img width="3838" height="1470" alt="image" src="https://github.com/user-attachments/assets/1c86ba34-ec3c-4f8a-8925-954be82b40ac" />
-
-
+Always test for yourself.
 
 ---
 
-# 3️⃣ 7DtD In-Game Graphics Settings
+## Configuring DLSS Presets
 
-Follow this guide and adjust according to your hardware and personal preferences:
+1. Update GPU Drivers
+2. Install the latest NVIDIA App
+3. Open the Graphics tab
+4. Select either:
 
-▶ https://youtu.be/rN1r5hFoWOo
+   * Global Settings
+   * Individual Game Settings
+5. Locate:
 
-### Key Reminder
+   * DLSS Override - Model Presets
+6. Change:
 
-Your performance depends heavily on:
-- RWG map size
-- Active mod selection
-- NPC usage
-- Biome density mods
-- Number of entities and shadow-producing light sources on screen
+   * Recommended → Custom
+7. Select your preferred preset
+8. Click Apply
 
-The more objects and shadows the game has to render, the harder it is on performance.  
-Trees, grass, animals, zombies, NPCs, light sources, debris, decorations, modded blocks, modded POIs, etc. 
-Adjust accordingly.
+### NVIDIA App Download
+
+https://www.nvidia.com/en-us/software/nvidia-app/
 
 ---
 
-# 4️⃣ Fixing Low Resolution & Blurry Textures in 7DtD
+## NVIDIA Automatic GPU Tuning
 
+🟡 **Difficulty:** Intermediate
 
-<img width="882" height="802" alt="image" src="https://github.com/user-attachments/assets/575db94c-991c-4a9e-88da-8342450cb12a" />
+The NVIDIA App includes an automatic tuning feature that may provide a small performance improvement.
 
+To use it:
+
+1. Close unnecessary applications
+2. Open NVIDIA App
+3. Enable Automatic Tuning
+4. Let the process complete
+
+The process may take several hours.
+
+I recommend starting it before bed and allowing it to run overnight.
+
+---
+
+## NVIDIA Performance Overlay
+
+🟢 **Difficulty:** Beginner
+
+The NVIDIA Overlay provides:
+
+* FPS
+* GPU utilization
+* CPU utilization
+* Frame latency
+* Temperatures
+* Power draw
+
+These metrics can be extremely useful when troubleshooting performance.
+
+<details>
+<summary>How to Enable NVIDIA Overlay</summary>
+
+1. Open NVIDIA App
+2. Enable NVIDIA Overlay
+3. Launch your game
+4. Press ALT + Z
+5. Open Statistics
+6. Configure the metrics you wish to display
+
+</details>
+
+---
+
+# 7 Days to Die Graphics Settings
+
+🟢 **Difficulty:** Beginner
+
+Video Guide:
+
+https://youtu.be/rN1r5hFoWOo
+
+There is no universal "best" graphics configuration.
+
+The ideal settings depend on:
+
+* GPU
+* CPU
+* Available memory
+* Monitor resolution
+* Installed mods
+* Personal preferences
+
+Use the video above as a starting point and adjust based on your hardware.
+
+---
+
+## What Impacts FPS Most?
+
+Performance in 7 Days to Die is heavily affected by:
+
+* RWG map size
+* Active mods
+* NPC count
+* Biome density
+* Zombie count
+* Shadow-producing light sources
+* Entity density
+
+Every object the game must render has a cost.
+
+Examples include:
+
+* Trees
+* Grass
+* Animals
+* Zombies
+* NPCs
+* Decorations
+* Modded blocks
+* Modded POIs
+* Dynamic lights
+
+The more objects visible on screen, the harder your system must work.
+
+Adjust settings accordingly.
+
+---
+
+# Fixing Blurry Textures
+
+🟢 **Difficulty:** Beginner
 
 If you experience:
-- Blurry texture pop-in
-- Low-resolution textures loading slowly (PS2 graphics)
 
-Enable the **“No Blurry Textures”** mod in MO2.
+* Blurry textures
+* Texture pop-in
+* Low-resolution terrain
+* "PS2 Graphics" syndrome
 
+try enabling the:
 
-If not using Smorgasbord, you can download the mod from here:
+**No Blurry Textures**
+
+mod included with Smörgåsbord.
+
+If you're not using Smörgåsbord, you can download it here:
 
 https://www.nexusmods.com/7daystodie/mods/7343
 
+---
 
-<img width="2554" height="1084" alt="image" src="https://github.com/user-attachments/assets/2cc1e969-7d29-4f4a-960a-5d8a2d0d9b94" />
+## Important Notes
 
+This mod is highly hardware dependent.
 
-### Important Notes
+Results vary significantly between systems.
 
-- This mod is **hardware dependent**
-- I do not personally need it
-- Some users benefit significantly
-- It may introduce occasional freeze-frame stutter
+### Potential Benefits
 
-This mod may help more on:
-- Lower-end systems
-- Systems with limited VRAM
+* Sharper textures
+* Faster texture loading
+* Reduced texture pop-in
+
+### Potential Downsides
+
+* Increased memory usage
+* Occasional freeze-frame stutters
+* No benefit on some systems
+
+This mod tends to help lower-end systems and systems with limited VRAM the most.
 
 ---
 
-# 5️⃣ Mod Selection & Performance Impact
+# Mod Performance Impact
 
-If you are struggling with FPS, consider disabling heavier mods first.
+🟢 **Difficulty:** Beginner
 
----
+Not all mods affect performance equally.
 
-## 🔴 Performance-Heavy Mods
-
-| Mod | Estimated FPS Impact |
-|------|----------------------|
-| Better Biomes | -30 FPS |
-| Urban Decay | -5 to -10 FPS |
-| CATUI | -20 FPS (on _some_ systems) |
-| NPCCore + NPC Mods | -10 to -30 FPS |
-| CompoPack | -5 to -20 FPS |
-| CUBP | -15 to -30 FPS |
-| The Descent Mods | -10 to -20 FPS |
-| Rainstorm | -1 to -5 FPS |
-
-
-
-Note 1: In Smorgasbord, the in-game Blood Moon Count setting can be set beyond 64.
-In Vanilla, normally only 30 zombies will spawn consistently active during horde night (even when set to 64). 
-In Smorgasbord, if you set it to 64, you will see 64.
-If you set it to higher than 64, you will see your performance dip.
-I have a high end system, and can set it to 150, it's awesome, but it is heavy on performance.
-Do not set it to higher than 64 unless your hardware can handle it! 
-
-
-Note 2: For the WalkerSim mod specifically, ZombiePopulationDensity will effect your FPS. 
-The higher the number, the more FPS you will lose. 192 is fine for most systems.
-
-
-Note 3: The Descent mod requires a system with 16GB of System Memory
-
-Note 4: SCore adds a Fire-Spreads feature. This can be demanding on servers and low-end hardware. 
-
+If you're struggling with FPS, consider disabling heavier mods before lowering graphics settings.
 
 ---
 
-## 🟢 Performance-Improving Mods
+## Performance-Heavy Mods
 
-| Mod | Estimated FPS Gain |
-|------|--------------------|
-| Less Trees | +1 to +5 FPS |
-| Less Grass | +1 to +5 FPS |
-| Despawn Zombies | +1 to +5 FPS |
+| Mod                | Estimated FPS Impact   |
+| ------------------ | ---------------------- |
+| Better Biomes      | -30 FPS                |
+| CATUI              | -20 FPS (some systems) |
+| CUBP               | -15 to -30 FPS         |
+| NPCCore + NPC Mods | -10 to -30 FPS         |
+| The Descent        | -10 to -20 FPS         |
+| CompoPack          | -5 to -20 FPS          |
+| Urban Decay        | -5 to -10 FPS          |
+| Rainstorm          | -1 to -5 FPS           |
 
+These values are estimates only.
 
-### In game tips to prevent uneccessary FPS loss: 
-- Don't plant too many trees or plants near to your base. Keep your tree farm far away from your base.
-- Don't use too many lights/torches/fires. Overlapping lightsources makes your game work harder than it needs to by generating more shadows. 
-- Maybe lower the number of zombies in the in-game settings if you are really struggling.  
-
-
----
-
-# 6️⃣ Additional Performance Tips
-
-### A. Leave Free Drive Space
-
-Leave **at least 100GB free** on the drive where:
-- The game is installed
-- The modlist is installed
-
-Games use overhead storage during runtime, if you don't have any, it can cause a slowdown.
+Actual impact varies based on hardware and playstyle.
 
 ---
 
-### B. Use an SSD
+## Performance-Friendly Mods
 
-Install:
-- 7 Days to Die
-- Wabbajack
-- MO2
-- The ModList
-
-On a **Solid State Drive (SSD)**.
-
-This significantly improves:
-- Load times
-- Texture streaming
-- RWG performance
+| Mod             | Estimated FPS Gain |
+| --------------- | ------------------ |
+| Less Trees      | +1 to +5 FPS       |
+| Less Grass      | +1 to +5 FPS       |
+| Despawn Zombies | +1 to +5 FPS       |
 
 ---
 
-### :duck:  C. Consider Lossless Scaling (LS)
+## Smörgåsbord-Specific Performance Notes
 
-Try **Lossless Scaling’s Frame Generation**. 
+### Blood Moon Count
 
-It costs $7USD on Steam, but occasionally goes on sale for less.
+Vanilla 7 Days to Die typically struggles to keep more than roughly 30 active zombies consistently engaged, even when set to 64.
 
-It can add Upscaling and Frame Generation to games that don't natively support it.
+Smörgåsbord removes some of those limitations.
 
-This can often double your FPS with "fake frames" in many games.
+If you set:
 
-Here's a guide on LS:
+* 64 Zombies
+
+you will generally get 64 Zombies.
+
+If you increase beyond 64, performance will begin dropping rapidly.
+
+My personal system can handle 150+, but most systems cannot.
+
+**Recommendation:** Stay at 64 or below unless you know your hardware can handle more.
+
+---
+
+### WalkerSim Population Density
+
+WalkerSim's:
+
+**ZombiePopulationDensity**
+
+setting has a direct impact on performance.
+
+Higher values create:
+
+* More zombies
+* More AI calculations
+* Greater CPU load
+
+For most systems:
+
+**192** is a good starting point.
+
+---
+
+### The Descent
+
+The Descent is one of the heavier content mods included in Smörgåsbord.
+
+Recommended minimum:
+
+**16GB System Memory**
+
+---
+
+### SCore Fire Spread
+
+SCore includes an optional Fire Spread system.
+
+While visually impressive, it can become demanding on:
+
+* Servers
+* Older CPUs
+* Lower-end systems
+
+Consider disabling it if performance becomes an issue.
+
+---
+
+## Additional In-Game Performance Tips
+
+### Keep Farms Away From Your Base
+
+Large tree farms can generate unnecessary rendering and simulation overhead.
+
+Plant large farms away from your primary base whenever possible.
+
+### Reduce Excessive Lighting
+
+Every light source capable of casting shadows increases rendering cost.
+
+Try to avoid:
+
+* Excessive torches
+* Excessive campfires
+* Large overlapping light networks
+
+### Reduce Zombie Count
+
+If performance is still poor:
+
+Lowering zombie count often produces a larger FPS gain than reducing graphical quality.
+
+---
+
+# Hardware & Storage Recommendations
+
+🟢 **Difficulty:** Beginner
+
+Sometimes the biggest performance improvements have nothing to do with graphics settings.
+
+Storage speed, available disk space, memory capacity, and overall system health all play a role in game performance.
+
+---
+
+## Leave Free Drive Space Available
+
+Many modern games use temporary storage while running.
+
+If your drive is nearly full, you may experience:
+
+* Longer loading times
+* Texture streaming issues
+* Increased stuttering
+* Slower world generation
+
+### Recommendation
+
+Leave at least:
+
+**100GB Free**
+
+on the drive containing:
+
+* 7 Days to Die
+* Mod Organizer 2
+* Wabbajack
+* Smörgåsbord
+
+More free space is generally better.
+
+---
+
+## Install Everything on an SSD
+
+🟢 **Difficulty:** Beginner
+
+If you're still using a traditional mechanical hard drive, upgrading to an SSD is one of the largest quality-of-life improvements available.
+
+Install the following on an SSD whenever possible:
+
+* 7 Days to Die
+* MO2
+* Wabbajack
+* Smörgåsbord
+
+### Benefits
+
+* Faster game startup
+* Faster loading screens
+* Faster RWG generation
+* Faster texture streaming
+* Reduced hitching during exploration
+
+An SSD will not magically increase FPS, but it can dramatically improve the overall smoothness of gameplay.
+
+---
+
+# Additional Performance Tools
+
+Not every tool is necessary.
+
+However, some can provide meaningful improvements depending on your hardware and use case.
+
+---
+
+## Lossless Scaling
+
+🟢 **Difficulty:** Beginner
+
+Lossless Scaling is a third-party application available on Steam.
+
+It provides:
+
+* Upscaling
+* Frame Generation
+* Window scaling options
+
+for games that do not natively support those features.
+
+### Why Consider It?
+
+Some games can see dramatic FPS improvements through frame generation.
+
+In many cases:
+
+* 60 FPS → 100+ FPS
+
+is possible depending on hardware and game engine limitations.
+
+### Guide
+
 https://youtu.be/fCOEDTfLsSs
 
+### Cost
 
-<img width="2246" height="1626" alt="image" src="https://github.com/user-attachments/assets/6d85385b-3095-48de-9794-3139060f1034" />
+Typically around:
 
+**$7 USD**
 
-Avoid going down the:
-> “Dual-GPU optimization rabbit hole”
-Dual-GPU Lossless Scaling is rarely worth the effort. 
-
-It's more hassle than it's worth.
-
-Minimal performance boost, doesn't work on many games, or is a hassle to get it to work.
-
-I speak as someone with expereince, don't bother with Dual-GPU LSFG. 
-
-Just save up $, and upgrade your main GPU and other components.
-
-
-For some games (not 7DtD), you can also investigate Optiscaler or "**PureDark**". 
-
-I use PureDark for heavily modded Skyrim, it's awesome, but it's a pay-for application.
+though it occasionally goes on sale.
 
 ---
 
-### :computer:  D. Upgrade Your Hardware
+## Dual-GPU Lossless Scaling
+
+🔴 **Difficulty:** Advanced
+
+You may encounter videos discussing:
+
+* Dedicated Frame Generation GPUs
+* Secondary GPU setups
+* Dual-GPU configurations
+
+In my experience:
+
+**Don't bother.**
+
+The performance gains are often minimal compared to the effort required.
+
+Common issues include:
+
+* Compatibility problems
+* Driver issues
+* Configuration headaches
+* Inconsistent results
+
+You're generally better off saving toward a future GPU upgrade.
+
+---
+
+## OptiScaler & PureDark
+
+🟡 **Difficulty:** Intermediate
+
+Some games support third-party technologies such as:
+
+* OptiScaler
+* PureDark
+
+These tools can add modern upscaling and frame generation features to older games.
+
+For example:
+
+I personally use PureDark with heavily modded Skyrim and have been extremely happy with the results.
+
+These tools are generally unnecessary for 7 Days to Die if you're already using FrameForge.
+
+---
+
+# Hardware Upgrades
+
+🔴 **Difficulty:** Advanced
 
 Sometimes the honest answer is:
 
-> You have reached the limits of your current system.
+> Your hardware has reached its limits.
 
-Smörgåsbord is not a lightweight modlist.
+Smörgåsbord is a large modlist.
 
 If you want:
-- Ultra visuals
-- Heavy biome mods
-- Dense NPCs
-- Massive RWG maps
 
-You need hardware capable of supporting that.
+* Massive RWG maps
+* Better Biomes
+* NPC-heavy gameplay
+* Large Blood Moons
+* High graphics settings
+* Dense cities
 
-
-**For Advanced Users**: you could also look into undervolting, and overclocking your hardware. 
-
-This is very hardware-model and unique hardware-piece specific.
-
-You can go to YouTube, and look up your specific GPU/CPU/Memory and try to squeeze a bit more out.
-I was able to safely undervolt and overclock my GPU, and give my CPU a slight bump. 
-However, my Memory didn't win the "Silicon Lottery", and I can only use the normal BIOS EXPO/DOCP boost.
-Any time you experiment with overclocking and undervolting your components, always err to a conservative setting.
-
+your hardware must be capable of supporting that workload.
 
 ---
 
-### If you don't like the Lighting:
+## Upgrade Priority Guide
 
-<img width="2918" height="907" alt="image" src="https://github.com/user-attachments/assets/61419215-d544-4021-ab36-d69013d66d1b" />
+If you're considering hardware upgrades, I generally recommend the following order:
 
+### 1. SSD
 
+If you're still using a mechanical hard drive, upgrade this first.
+
+### 2. Memory (RAM)
+
+Modern modded gaming benefits greatly from:
+
+**32GB RAM**
+
+especially when running:
+
+* Large modlists
+* Discord
+* Browsers
+* Streaming software
+* Monitoring tools
+
+simultaneously.
+
+### 3. GPU
+
+The biggest upgrade for visual settings and FPS.
+
+### 4. CPU
+
+Important for:
+
+* AI calculations
+* NPC-heavy gameplay
+* Large Blood Moons
+* WalkerSim
+* RWG generation
+
+### 5. Everything Else
+
+Motherboards, coolers, cases, and other components typically provide smaller gains.
+
+---
+
+## Undervolting & Overclocking
+
+🔴 **Difficulty:** Advanced
+
+Experienced users may wish to experiment with:
+
+* GPU Undervolting
+* GPU Overclocking
+* CPU Tuning
+* Memory Tuning
+
+Potential benefits include:
+
+* Lower temperatures
+* Reduced power consumption
+* Increased performance
+
+However:
+
+Every hardware model is different.
+
+Every individual chip is different.
+
+Always proceed conservatively.
+
+A stable overclock is far more valuable than an unstable aggressive one.
+
+When researching these topics, search specifically for:
+
+* Your exact CPU model
+* Your exact GPU model
+* Your exact memory kit
+
+to find guidance relevant to your hardware.
+
+---
+
+# Lighting Alternatives
+
+If you dislike the default lighting presentation in Smörgåsbord, alternative lighting options are available within the modlist.
+
+Different lighting configurations can impact:
+
+* Visual style
+* Atmosphere
+* Visibility
+* Performance
+
+Experiment and choose the option that best matches your preferences and hardware.
 
 ---
 
 # Final Advice
 
-Performance tuning is always a balance between:
+Performance tuning is always a balancing act.
 
-- Visual quality
-- Stability
-- Frame pacing
-- Hardware limitations
+Every adjustment trades something for something else.
 
-For 7DtD, Smörgåsbord gives you modular control of your mods — use it wisely.
+The goal is not necessarily to achieve the highest FPS possible.
 
-Adjust settings intentionally.
+The goal is to achieve the best overall experience for your hardware.
 
-Don’t blindly copy someone else’s configuration.
+---
+
+## Balance These Four Factors
+
+### Visual Quality
+
+How good the game looks.
+
+### Stability
+
+How reliably the game runs.
+
+### Frame Pacing
+
+How smooth the game feels.
+
+### Hardware Limitations
+
+What your system is realistically capable of delivering.
+
+---
+
+## Avoid Blindly Copying Other People's Settings
+
+What works well for one person may perform poorly on another system.
+
+Different players have:
+
+* Different CPUs
+* Different GPUs
+* Different monitors
+* Different memory configurations
+* Different mod selections
+
+Use recommendations as a starting point, not as absolute rules.
+
+---
+
+## Smörgåsbord's Greatest Strength
+
+Smörgåsbord is designed around modularity.
+
+You are not locked into a single configuration.
+
+If performance becomes a problem:
+
+* Adjust graphics settings
+* Adjust gameplay settings
+* Disable heavier mods
+* Experiment with alternatives
+
+Build the experience that works best for your hardware.
+
+---
+
+## Final Recommendation
+
+Make one change at a time.
+
+Test.
+
+Evaluate.
+
+Then move on to the next adjustment.
+
+If you change ten things at once, you'll never know which one helped—or hurt—your performance.
+
+A carefully tuned system almost always performs better than a randomly tweaked one.
+
+Good luck, and happy surviving.
