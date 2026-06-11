@@ -69,7 +69,6 @@ Only pursue these if you're comfortable troubleshooting stability issues.
   * [GPU Recommendations](#gpu-recommendations)
   * [Recommended DLSS Presets](#recommended-dlss-presets)
   * [NVIDIA Automatic GPU Tuning](#nvidia-automatic-gpu-tuning)
-  * [NVIDIA Performance Overlay](#nvidia-performance-overlay)
 * [7 Days to Die Graphics Settings](#7-days-to-die-graphics-settings)
 * [Fixing Blurry Textures](#fixing-blurry-textures)
 * [Mod Performance Impact](#mod-performance-impact)
@@ -78,8 +77,6 @@ Only pursue these if you're comfortable troubleshooting stability issues.
   * [Performance-Friendly Mods](#performance-friendly-mods)
   * [Smörgåsbord-Specific Performance Notes](#smorgasbord-specific-performance-notes)
 * [Hardware & Storage Recommendations](#hardware--storage-recommendations)
-* [Additional Performance Tools](#additional-performance-tools)
-* [Lighting Alternatives](#lighting-alternatives)
 * [Final Advice](#final-advice)
 
 ---
@@ -368,35 +365,6 @@ To use it:
 The process may take several hours.
 
 I recommend starting it before bed and allowing it to run overnight.
-
----
-
-## NVIDIA Performance Overlay
-
-🟢 **Difficulty:** Beginner
-
-The NVIDIA Overlay provides:
-
-* FPS
-* GPU utilization
-* CPU utilization
-* Frame latency
-* Temperatures
-* Power draw
-
-These metrics can be extremely useful when troubleshooting performance.
-
-<details>
-<summary>How to Enable NVIDIA Overlay</summary>
-
-1. Open NVIDIA App
-2. Enable NVIDIA Overlay
-3. Launch your game
-4. Press ALT + Z
-5. Open Statistics
-6. Configure the metrics you wish to display
-
-</details>
 
 ---
 
@@ -694,98 +662,6 @@ An SSD will not magically increase FPS, but it can dramatically improve the over
 
 ---
 
-# Additional Performance Tools
-
-Not every tool is necessary.
-
-However, some can provide meaningful improvements depending on your hardware and use case.
-
----
-
-## Lossless Scaling
-
-🟢 **Difficulty:** Beginner
-
-Lossless Scaling is a third-party application available on Steam.
-
-It provides:
-
-* Upscaling
-* Frame Generation
-* Window scaling options
-
-for games that do not natively support those features.
-
-### Why Consider It?
-
-Some games can see dramatic FPS improvements through frame generation.
-
-In many cases:
-
-* 60 FPS → 100+ FPS
-
-is possible depending on hardware and game engine limitations.
-
-### Guide
-
-https://youtu.be/fCOEDTfLsSs
-
-### Cost
-
-Typically around:
-
-**$7 USD**
-
-though it occasionally goes on sale.
-
----
-
-## Dual-GPU Lossless Scaling
-
-🔴 **Difficulty:** Advanced
-
-You may encounter videos discussing:
-
-* Dedicated Frame Generation GPUs
-* Secondary GPU setups
-* Dual-GPU configurations
-
-In my experience:
-
-**Don't bother.**
-
-The performance gains are often minimal compared to the effort required.
-
-Common issues include:
-
-* Compatibility problems
-* Driver issues
-* Configuration headaches
-* Inconsistent results
-
-You're generally better off saving toward a future GPU upgrade.
-
----
-
-## OptiScaler & PureDark
-
-🟡 **Difficulty:** Intermediate
-
-Some games support third-party technologies such as:
-
-* OptiScaler
-* PureDark
-
-These tools can add modern upscaling and frame generation features to older games.
-
-For example:
-
-I personally use PureDark with heavily modded Skyrim and have been extremely happy with the results.
-
-These tools are generally unnecessary for 7 Days to Die if you're already using FrameForge.
-
----
-
 # Hardware Upgrades
 
 🔴 **Difficulty:** Advanced
@@ -887,21 +763,6 @@ When researching these topics, search specifically for:
 * Your exact memory kit
 
 to find guidance relevant to your hardware.
-
----
-
-# Lighting Alternatives
-
-If you dislike the default lighting presentation in Smörgåsbord, alternative lighting options are available within the modlist.
-
-Different lighting configurations can impact:
-
-* Visual style
-* Atmosphere
-* Visibility
-* Performance
-
-Experiment and choose the option that best matches your preferences and hardware.
 
 ---
 
