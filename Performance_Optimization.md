@@ -263,7 +263,7 @@ while maintaining excellent image quality.
 
 Use:
 
-**FSR**
+**FSR Upscaling**
 
 Start with:
 
@@ -272,15 +272,17 @@ Start with:
 
 before moving to more aggressive performance presets.
 
+
+Enable **FSR Frame Generation**
+
 ### NVIDIA GPUs
 
 Use:
 
-**DLSS**
+**DLSS Upscaling**
 
 Recommended starting points:
 
-* Ultra Quality
 * Quality
 
 If you need additional FPS:
@@ -289,6 +291,9 @@ If you need additional FPS:
 * Performance
 
 can provide significant gains at the expense of some image quality.
+
+
+Enable **FSR Frame Generation**
 
 ---
 
