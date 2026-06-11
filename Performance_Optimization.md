@@ -249,7 +249,7 @@ FrameForge improves performance through several technologies:
 * Updated NVIDIA DLSS modules
 * Improved image quality compared to vanilla DLSS implementation
 
-Depending on your hardware and settings, gains can range anywhere from:
+Depending on your hardware, mods, and settings; gains can range anywhere from:
 
 **+17% to +80% FPS**
 
@@ -299,6 +299,8 @@ Enable **FSR Frame Generation**
 
 ## Recommended DLSS Presets
 
+## Within the Nvidia App, you can set the GPU's DLSS Preset
+
 ### RTX 20 & 30 Series
 
 Recommended:
@@ -322,7 +324,7 @@ My system:
 
 * RTX 5090
 * DLSS Preset M in NVIDIA App
-* Ultra Quality DLSS in-game
+* Quality preset for DLSS Upscaling in-game
 
 Your optimal settings may differ.
 
