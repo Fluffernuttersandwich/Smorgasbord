@@ -251,7 +251,7 @@ FrameForge improves performance through several technologies:
 
 Depending on your hardware, mods, and settings; gains can range anywhere from:
 
-**+17% to +80% FPS**
+**+17% to +100% FPS**
 
 while maintaining excellent image quality.
 
