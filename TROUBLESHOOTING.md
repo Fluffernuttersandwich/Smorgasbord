@@ -129,6 +129,14 @@ Use the correct Launcher:
 <img width="2452" height="1234" alt="image" src="https://github.com/user-attachments/assets/e4c27558-6330-4c11-85c3-f48b3ec89aaf" />
 
 
+### **Game launches without mods?**
+
+If you run any third-party Antivirus-like application, create an Exception for MO2. 
+
+Restart PC. 
+
+Launch Smorgasbord again from MO2.
+
 
 ### → Verify game files in Steam to ensure Harmony is in the Base Game's Mods folder.
 
