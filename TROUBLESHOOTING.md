@@ -17,7 +17,7 @@ This document contains **all troubleshooting, diagnostics, and known issues** fo
 
 ## 🚫 Game will not launch / crashes immediately
 - Disable **EAC** in the launcher  
-- Clear **Additional Launch Parameters** From Steam and/or MO2.
+- Clear **Additional Launch Parameters** From Steam, Game Launcher, and/or MO2.
 - Launch **ONLY via MO2 (Wabbajack install)**
 - Verify game files → restores **0-Harmony**
 - Update GPU drivers
