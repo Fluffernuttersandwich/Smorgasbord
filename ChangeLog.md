@@ -1,3 +1,33 @@
+**Smörgåsbord ModList Update:** ```3.0.1.16 15:00 EST 07JUL2026
+
+Comments:
+
+1. You will 100% need to start a new save with this update to Smorgasbord on 7DtD game version 3.0b259
+
+2. I moved a lot of Separators and mods around.
+
+3. Some mods were removed for space, to reduce user friction, or because not enough players were using them.
+Most of the removed mods were because they were not updated yet for 3.0.
+As mods get updated/added to 3.0, I will continue to update Smorgasbord. 
+
+4. I added a Music Overhaul to "ContextMusicManager" 
+STREAMER SAFE MUSIC - Tracks provided by Stormwrought Audio.
+If you don't like the music, disable the mod.
+It is enabled by default to gauge interest in the project. 
+
+5. This initial offering of the Mod List on game version 3.0 is meager. 
+We are missing a lot of the big mods that have not updated yet.
+If you are happy with your game on v2.6, stay on that until we are back to full strength on v3.
+I would recommend you don't plan to settle in for a long playthrough on this current version of the list.
+Over the next few days/weeks, more mods will update, and you might not be able to play in the same save. 
+
+=== Smorgasbord Changelog ===
+
+Too many to list! I treat major version updates as a fresh slate.
+
+________________________________________________________________
+
+
 **Smörgåsbord ModList Update:** ```2.6.1.29 18:30 EST 07JUN2026
 
 Comments:
