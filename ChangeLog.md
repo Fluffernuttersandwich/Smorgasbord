@@ -1,3 +1,6 @@
+3.0.1.17 18:00 EST 07JUL2026
+Hotfix, problem with "Crafting In" mod. Updated it, but moved to Experimental Separator for now.
+
 **Smörgåsbord ModList Update:** ```3.0.1.16 15:00 EST 07JUL2026
 
 Comments:
