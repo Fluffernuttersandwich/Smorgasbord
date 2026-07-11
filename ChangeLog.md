@@ -1,3 +1,7 @@
+3.0.1.21 15:15 EST 11JUL2026
+
+Hotfix, removed the "Living Stealth" mod because it was too hard on performance for most users. 
+
 3.0.1.20 14:15 EST 11JUL2026
 
 <img width="1496" height="1308" alt="image" src="https://github.com/user-attachments/assets/15d04ad7-0011-483b-b37b-16a5c3361864" />
