@@ -1,3 +1,12 @@
+3.0.1.20 14:15 EST 11JUL2026
+
+<img width="1496" height="1308" alt="image" src="https://github.com/user-attachments/assets/15d04ad7-0011-483b-b37b-16a5c3361864" />
+<img width="1486" height="1312" alt="image" src="https://github.com/user-attachments/assets/471862b5-301d-41d8-b9b2-5fd9bccf251d" />
+<img width="1478" height="1006" alt="image" src="https://github.com/user-attachments/assets/cd336f00-25ea-4a1f-860d-301a3b246c2b" />
+
+
+3.0.1.19 tiny update of a few mods.
+
 3.0.1.18 09:00 EST 08JUL2026
 Updated a few mods. Moved a few buggy mods to Experimental Separator for now.
 
