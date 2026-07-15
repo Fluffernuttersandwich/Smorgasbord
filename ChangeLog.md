@@ -1,3 +1,7 @@
+3.0.1.23 Updated the list to support game version 3.0.1. Updated dozens of mods, added a few new mods, new Separators.
+
+3.0.1.22 Small updates.
+
 3.0.1.21 15:15 EST 11JUL2026
 
 Hotfix, removed the "Living Stealth" mod because it was too hard on performance for most users. 
