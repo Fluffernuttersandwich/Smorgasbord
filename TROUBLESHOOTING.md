@@ -465,19 +465,12 @@ This is an obscure one, but could be messing with 0_Harmony...
 
 ### if you see a NullReferenceException error with the word "Trampoline" in it, check: Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).
 
-<img width="1272" height="262" alt="image" src="https://github.com/user-attachments/assets/90f2a44a-3ff4-49f2-8fe7-ebf47c2e5593" />
-
-
 If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony will not be able to properly patch mods into the game.
 
 To turn on ASLR, hit the Windows-Key, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
 
 
-<img width="2159" height="1646" alt="image" src="https://github.com/user-attachments/assets/437fbf7b-b35b-4fb6-88a1-76ebb72299c9" />
-
-
-
-<img width="1708" height="1958" alt="image" src="https://github.com/user-attachments/assets/4ff29e70-e6f1-45fd-9998-8003a2ed6344" />
+<img width="1024" height="1536" alt="Trampoline1" src="https://github.com/user-attachments/assets/87468f81-00de-460b-ac85-6bba29ac7a20" />
 
 
 
