@@ -121,7 +121,7 @@ Click _Download & Install_
 
 Paste your folder path (Ctrl+V)
 
-###⏳ Download Expectations
+### ⏳ Download Expectations
 
 💎 **Premium**
 
@@ -186,7 +186,7 @@ Accept NXM Association → YES
 
 Launch Game
 
-Click ▶️ Play in MO2
+Click the Run button ▶️ (aka Play button) in MO2
 
 ### ⚠️ ALWAYS launch Smorgasbord via MO2
 
@@ -198,12 +198,7 @@ Default Profiles
 
 ### Profile	Description
 
-- Smorgasbord	Balanced default
-
-- Survivalist	Hardcore realism
-
-- Wasteland	Fallout-style overhaul
-
+- **Smorgasbord**: This is the default Profile, but you can create your own.
 
 ### 🛠️ Create Custom Profile
 
