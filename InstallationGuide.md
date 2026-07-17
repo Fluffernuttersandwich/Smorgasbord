@@ -178,7 +178,7 @@ You can now close Wabbajack
 
 Open your Smorgasbord folder
 
-Run ModOrganizer2.exe
+Run ModOrganizer.exe
 
 First Launch
 
