@@ -550,11 +550,11 @@ Higher values create:
 
 * More zombies
 * More AI calculations
-* Greater CPU load
+* Greater CPU load = lower performance
 
 For most systems:
 
-**192** is a good starting point.
+**160** is a good starting point.
 
 ---
 
@@ -568,9 +568,29 @@ Recommended minimum:
 
 ---
 
+### Better Biomes
+
+Better Biomes is a performance hog!
+
+Recommended minimum:
+
+**5070ti+ GPU**
+
+Even on high end systems, you will lose 30 FPS.
+
+This is an extremely heavy mod, not recommended for most systems.
+
+I would not combine Better Biomes with other heavy mods like NPCCore and Descent. 
+
+Even on a NASA Server, it will gut your performance. 
+
+---
+
 ### SCore Fire Spread
 
-SCore includes an optional Fire Spread system.
+SCore includes an optional Fire Spread system. 
+
+It's enabled by default from the Fire Spreads Separator in MO2.
 
 While visually impressive, it can become demanding on:
 
@@ -686,7 +706,7 @@ If you want:
 * Massive RWG maps
 * Better Biomes
 * NPC-heavy gameplay
-* Large Blood Moons
+* Large Hordes
 * High graphics settings
 * Dense cities
 
