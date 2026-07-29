@@ -452,6 +452,9 @@ If you're not using Smörgåsbord, you can download it here:
 
 https://www.nexusmods.com/7daystodie/mods/7343
 
+Warning! When you use this mod, you will be sacrificing some performance to improve rendering speed. 
+The longer the gaming session, the more performance you might lose.
+
 ---
 
 ## Important Notes
