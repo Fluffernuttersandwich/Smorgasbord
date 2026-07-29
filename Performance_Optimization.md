@@ -231,7 +231,7 @@ https://www.youtube.com/watch?v=qYIoBouLMzI
 
 FrameForge is one of the most impactful performance upgrades available for 7 Days to Die players with supported hardware.
 
-Smörgåsbord already includes the **DLSS Fix portion** of FrameForge within MO2.
+Smörgåsbord already includes the **Upscaling portion** of FrameForge within MO2.
 
 If you want Frame Generation support, you must manually download and install the additional files provided by the mod author.
 
@@ -243,9 +243,9 @@ https://www.nexusmods.com/7daystodie/mods/6781
 
 FrameForge improves performance through several technologies:
 
-* DLSS Super Resolution (NVIDIA)
-* FSR Super Resolution (AMD)
-* Frame Generation
+* DLSS Super Resolution (NVIDIA) (Upscaling)
+* FSR Super Resolution (AMD) (Upscaling)
+* Frame Generation (FSR)
 * Updated NVIDIA DLSS modules
 * Improved image quality compared to vanilla DLSS implementation
 
@@ -325,6 +325,7 @@ My system:
 * RTX 5090
 * DLSS Preset M in NVIDIA App
 * Quality preset for DLSS Upscaling in-game
+* Frame Generation enabled
 
 Your optimal settings may differ.
 
