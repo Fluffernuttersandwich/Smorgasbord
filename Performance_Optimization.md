@@ -493,14 +493,11 @@ If you're struggling with FPS, consider disabling heavier mods before lowering g
 
 | Mod                | Estimated FPS Impact   |
 | ------------------ | ---------------------- |
-| Better Biomes      | -30 FPS                |
-| CATUI              | -20 FPS (some systems) |
-| CUBP               | -15 to -30 FPS         |
-| NPCCore + NPC Mods | -10 to -30 FPS         |
-| The Descent        | -10 to -20 FPS         |
-| CompoPack          | -5 to -20 FPS          |
-| Urban Decay        | -5 to -10 FPS          |
-| Rainstorm          | -1 to -5 FPS           |
+| Better Biomes (5070TI+)      | -30 FPS                |
+| NPCCore + NPC Mods           | -10 to -30 FPS         |
+| The Descent (16GB+ RAM)      | -10 to -20 FPS         |
+| Urban Decay                  | -5 to -10 FPS          |
+| Rainstorm                    | -1 to -5 FPS           |
 
 These values are estimates only.
 
@@ -515,6 +512,7 @@ Actual impact varies based on hardware and playstyle.
 | Less Trees      | +1 to +5 FPS       |
 | Less Grass      | +1 to +5 FPS       |
 | Despawn Zombies | +1 to +5 FPS       |
+| Torch           | +1 to +10 FPS      |
 
 ---
 
