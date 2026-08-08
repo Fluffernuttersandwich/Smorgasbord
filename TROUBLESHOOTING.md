@@ -610,7 +610,14 @@ I have hundreds of hours played with these warnings present.
 If your Gun Smoke particle effect or Biome Storm Shader appears **solid black instead of transparent grey**, this is usually a **graphics/rendering issue**.  
 Mods may **exacerbate it**, but it mostly comes down to your GPU and **graphics settings**.
 
-Try going into the in-game Mods (Gears) menu -> Torch -> Settings and adjusting this to High:
+**The easiest fix is to disable all mods in the Lighting Separator:**
+
+<img width="1482" height="302" alt="image" src="https://github.com/user-attachments/assets/404ba53b-fe28-49bd-b4e7-c387e7187066" />
+
+
+You can try toggling these mods one-by-one yourself to see if you can find out what is causing your issue.
+
+Or, if you feel like taking more time to fine tune a solution... try going into the in-game Mods (Gears) menu -> Torch -> Settings and adjusting this to High:
 
 
 <img width="873" height="177" alt="image" src="https://github.com/user-attachments/assets/2826f659-fd50-40df-908a-e35811f6820f" />
