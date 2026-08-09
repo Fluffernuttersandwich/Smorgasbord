@@ -493,11 +493,11 @@ If you're struggling with FPS, consider disabling heavier mods before lowering g
 
 | Mod                | Estimated FPS Impact   |
 | ------------------ | ---------------------- |
-| Better Biomes (5070TI+)      | -30 FPS                |
-| NPCCore + NPC Mods           | -10 to -30 FPS         |
-| The Descent (16GB+ RAM)      | -10 to -20 FPS         |
-| Urban Decay                  | -5 to -10 FPS          |
-| Rainstorm                    | -1 to -5 FPS           |
+| Better Biomes (5070TI+)                          | -30 FPS                |
+| NPCCore + NPC Mods                               | -10 to -30 FPS         |
+| The Descent (16GB+ RAM)                          | -10 to -20 FPS         |
+| Urban Decay                                      | -5 to -10 FPS          |
+| Most mods from the Lighting Separator in MO2     | -1 to -10 FPS           |
 
 These values are estimates only.
 
