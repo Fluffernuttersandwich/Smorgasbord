@@ -512,7 +512,7 @@ Actual impact varies based on hardware and playstyle.
 | Less Trees      | +1 to +5 FPS       |
 | Less Grass      | +1 to +5 FPS       |
 | Despawn Zombies | +1 to +5 FPS       |
-| Torch           | +1 to +10 FPS      |
+| Torch           | +1 to +5 FPS       |
 
 ---
 
