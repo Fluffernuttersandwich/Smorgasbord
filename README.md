@@ -324,7 +324,6 @@ A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7Dt
 - Wabbajack Team
 - 7DtD Mod Authors for all the great mods
 - TFP for making the game we love
-- Guppy’s Discord Community for hosting us
 
 ---
 
