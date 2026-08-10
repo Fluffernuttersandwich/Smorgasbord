@@ -108,12 +108,9 @@ Ideal if you are:
 
 | Purpose | Where | Link |
 |------|------|------|
-| Bug Reports | GitHub Issues | https://github.com/Fluffernuttersandwich/Smorgasbord/issues |
-| Discussion | GitHub Discussions | https://github.com/Fluffernuttersandwich/Smorgasbord/discussions |
-| Discord | Smörgåsbord 7DtD Mod List Discord Server | [https://discord.gg/WpVPJWj7Xk at the fns-smorgasbord channel](https://discord.gg/Ay2pVZHE7S) |
-| Nexus Profile | FNS | https://next.nexusmods.com/profile/FlufferNutterSandwich |
-| YouTube | Videos & Guides | https://www.youtube.com/@FlufferNutterSandwich |
-| Wabbajack | Support | https://discord.gg/wabbajack |
+| Discord Support for Smörgåsbord | Smörgåsbord 7DtD Mod List Discord Server | https://discord.gg/Ay2pVZHE7S |
+| Nexus Profile | FNS | https://next.nexusmods.com/profile/FinFNS |
+| YouTube | Videos & Guides | https://www.youtube.com/@FinFNS |
 
 ---
 
