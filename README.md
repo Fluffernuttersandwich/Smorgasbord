@@ -110,7 +110,7 @@ Ideal if you are:
 |------|------|------|
 | Bug Reports | GitHub Issues | https://github.com/Fluffernuttersandwich/Smorgasbord/issues |
 | Discussion | GitHub Discussions | https://github.com/Fluffernuttersandwich/Smorgasbord/discussions |
-| Discord | Guppy’s 7DtD Modding | https://discord.gg/WpVPJWj7Xk at the fns-smorgasbord channel|
+| Discord | Smörgåsbord 7DtD Mod List Discord Server | [https://discord.gg/WpVPJWj7Xk at the fns-smorgasbord channel](https://discord.gg/Ay2pVZHE7S) |
 | Nexus Profile | FNS | https://next.nexusmods.com/profile/FlufferNutterSandwich |
 | YouTube | Videos & Guides | https://www.youtube.com/@FlufferNutterSandwich |
 | Wabbajack | Support | https://discord.gg/wabbajack |
@@ -252,7 +252,10 @@ Prior to Updating the Mod List, you should strongly consider:
 - Overwrite existing installation
 - Updating the Mod List may require a new save
 
-I post smaller updates regularly, and advertise this on my channel over at Guppy's Discord.
+
+I post smaller updates regularly, and advertise this at the Discord Server in the updates channel.
+
+https://discord.gg/Ay2pVZHE7S
 
 
 You update Smorgasbord just like you downloaded everything the first time. 
