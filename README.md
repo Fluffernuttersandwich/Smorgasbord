@@ -27,7 +27,6 @@
 - [FAQs](#faqs)
 - [Additional Links](#additional-links)
 - [Credits](#credits)
-- [Donations](#donations)
 - [Troubleshooting & Known Issues](#troubleshooting--known-issues)
 - [Performance Optimization](#performance-optimization)
 - [Want to Support Smörgåsbord?](#want-to-support-smörgåsbord)
