@@ -771,9 +771,20 @@ If you:
 
 …and it still doesn’t work?
 
-Then yes — contact us over at Guppy's in the fns-smorgasbord channel.
+Then yes — contact us in the Discord Server 
+
+🧟 Smörgåsbord 7DtD Mod List Discord Server
+
+Join the official Smörgåsbord community here:
+https://discord.gg/Ay2pVZHE7S
+
+📜 You'll land in #welcome channel. 
+
+Please read and acknowledge the rules in the welcome channel with an emoji to gain access to the server.
+
 
 Post logs with a description of the issue.
+
 
 **Reminder: No Logs = No Assistance!**
 
