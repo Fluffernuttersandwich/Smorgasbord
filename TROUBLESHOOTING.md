@@ -200,13 +200,50 @@ You can also play around with things like DLSS, try purchasing Lossless Scaling,
 
 > **No logs = no assistance.**
 
-If you contact me without logs, I will tell you to send logs.
+**📄 Smörgåsbord Game Log Locations**
 
-Logs can be posted in the Guppy's Unofficial 7DtD Modding Discord Server in the fns-smorgasbord channel.
 
-discord.gg/WpVPJWj7Xk
+When requesting support, please post the actual log file — screenshots of the console are not a substitute.
 
-Drag and drop your logs file into the chat at #fns-smorgasbord.
+
+🟦 Launching from MO2 with “7 Days to Die Launcher”
+
+Your logs are normally located here:
+
+C:\Users\YourUsername\AppData\Roaming\7DaysToDie\logs
+
+Look for the relevant:
+
+output_log_client__yyyy-mm-dd...txt
+
+
+🟩 Launching from MO2 with “7 Days to Die”
+
+Your log is normally located here:
+
+C:\Users\YourUsername\AppData\LocalLow\The Fun Pimps\7 Days To Die
+
+Post:
+
+Player.log
+
+
+💡 Tip
+You can also find the current log location from the in-game Console (F1).
+
+
+📎 When asking for help: Upload the log file directly to Discord whenever possible.
+
+🧟 Smörgåsbord 7DtD Mod List Discord Server
+
+Join the official Smörgåsbord community here:
+
+https://discord.gg/Ay2pVZHE7S
+
+
+📜 You'll land in #welcome channel. 
+
+Please read and acknowledge the rules in the welcome channel with an emoji to gain access to the server.
 
 
 I or one of the other community members will assist you as time permits.  
