@@ -553,9 +553,9 @@ This is especially useful during:
 
 The default Smörgåsbord Mod List itself does not use copyrighted music.
 
-Shameless Plug: **Stormwrought Audio**
+It does come with a Royalty-Free soundtrack provided by FinFNS (Stormwrought Audio) who owns the rights. 
 
-All music used in my own recent recordings comes from my royalty-free music channel:
+Shameless Plug: **Stormwrought Audio**
 
 [@StormwroughtAudio](https://www.youtube.com/@StormwroughtAudio)
 
@@ -567,6 +567,8 @@ You are welcome to use the music for:
 - Gameplay content
 
 The music is royalty-free, creator-friendly, and stream-safe.
+
+You may play this music in your monetized streams and YouTube videos, I will never copyright claim/strike you!
 
 ---
 
