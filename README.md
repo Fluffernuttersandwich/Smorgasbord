@@ -321,7 +321,7 @@ A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7Dt
 ## Credits
 
 - YOU for reading all of this
-- Wabbajack Team
+- Wabbajack and MO2 Teams
 - 7DtD Mod Authors for all the great mods
 - TFP for making the game we love
 
