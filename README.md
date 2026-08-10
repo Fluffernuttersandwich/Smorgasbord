@@ -325,12 +325,40 @@ A guide on optimizing your Windows 11 PC for Gaming, with specific notes for 7Dt
 
 ---
 
-## Donations
-
-Not expected — always appreciated.
-
-▶ https://next.nexusmods.com/profile/FlufferNutterSandwich
+## ☕ Want to Support Smörgåsbord?
 
 
-<img width="1716" height="588" alt="image" src="https://github.com/user-attachments/assets/8c94316e-6c5f-405a-8a7f-5f6a21276b9f" />
+There are plenty of ways to support Smörgåsbord, and most of them don't cost a dime.
 
+### ❤️ **Endorse the Mods You Love**
+
+The mod authors are what make Smörgåsbord possible. If you enjoy a mod, take a moment to endorse it and let the author know you appreciate their work.
+
+Tip: You can right-click a mod in MO2 and select Endorse!
+
+
+### 📣 **Showcase & Share Smörgåsbord**
+
+Enjoying your playthrough? Share screenshots, videos, stories, or simply tell other 7DtD players about the list. Word of mouth helps the community grow.
+
+
+### **🤝 Help Other Survivors**
+
+If you're familiar with Wabbajack, MO2, 7DtD, or the mods included in Smörgåsbord, share what you know! Helping another player solve a problem is one of the best ways to support this community.
+
+
+### **☕ Buy FinFNS a Coffee**
+
+Smörgåsbord and the support we provide here are free and will remain free.
+
+
+If you're enjoying the Mod List and would like to throw a few bucks toward the time, tools, hosting, testing, troubleshooting, and general insanity involved in keeping this thing running, you can buy me a coffee here: https://ko-fi.com/finfns
+
+
+There is absolutely no expectation to contribute financially. Using the list, reporting bugs, helping other players, and supporting the mod authors whose work makes Smörgåsbord possible are every bit as appreciated.
+
+
+No paid roles. No exclusive mods. No priority support. No paywalls.
+
+
+Thanks for being part of the community.
