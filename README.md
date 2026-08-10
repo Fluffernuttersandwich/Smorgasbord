@@ -110,7 +110,7 @@ Ideal if you are:
 |------|------|------|
 | Discord Support for Smörgåsbord | Smörgåsbord 7DtD Mod List Discord Server | https://discord.gg/Ay2pVZHE7S |
 | Nexus Profile | FNS | https://next.nexusmods.com/profile/FinFNS |
-| YouTube | Videos & Guides | https://www.youtube.com/@FinFNS |
+| YouTube | Videos & Guides | https://www.youtube.com/@Fin-FNS |
 
 ---
 
