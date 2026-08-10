@@ -453,7 +453,7 @@ Prior to Updating the Mod List, you should strongly consider:
 - Overwrite existing installation
 - Updating the Mod List may require a new save (ask me if you are unsure)
 
-I post smaller updates regularly, and advertise this on my channel over at Guppy's Discord.
+I post smaller updates regularly, and advertise this on my Discord: https://discord.gg/Ay2pVZHE7S
 
 
 You update Smorgasbord just like you downloaded everything the first time. 
@@ -527,7 +527,8 @@ Want the same mods I'm using? Check out my custom Smörgåsbord Profile:
 _Add a link to your exported profile here._
 
 ### !discord
-Need help installing or troubleshooting Smörgåsbord? Visit the GitHub page: https://github.com/Fluffernuttersandwich/Smorgasbord/blob/main/README.md
+Need more help with Smörgåsbord?
+https://discord.gg/Ay2pVZHE7S
 
 --
 
