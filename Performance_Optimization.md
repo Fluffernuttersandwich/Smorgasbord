@@ -495,9 +495,10 @@ If you're struggling with FPS, consider disabling heavier mods before lowering g
 | ------------------ | ---------------------- |
 | Better Biomes (5070TI+)                          | -30 FPS                |
 | NPCCore + NPC Mods                               | -10 to -30 FPS         |
-| The Descent (16GB+ RAM)                          | -10 to -20 FPS         |
+| The Descent (16GB+ System Memory)                | -10 to -20 FPS         |
+| Gridlock RWG Mod (32GB+ System Memory)           | -5 to -10 FPS          |
 | Urban Decay                                      | -5 to -10 FPS          |
-| Most mods from the Lighting Separator in MO2     | -1 to -10 FPS           |
+| Most mods from the Lighting Separator in MO2     | -1 to -10 FPS          |
 
 These values are estimates only.
 
@@ -565,6 +566,16 @@ The Descent is one of the heavier content mods included in Smörgåsbord.
 Recommended minimum:
 
 **16GB System Memory**
+
+---
+
+### Gridlock RWG mod
+
+The initial loading can crash systems with low/weak System Memory.
+
+Recommended minimum:
+
+**32GB System Memory**
 
 ---
 
