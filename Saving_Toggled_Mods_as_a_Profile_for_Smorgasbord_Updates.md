@@ -185,6 +185,3 @@ Slappy77 should now have the same enabled/disabled mod configuration as CoolGuy8
 **Do NOT overwrite the default Smörgåsbord Profile.**
 
 Always create a **new Profile** for imported configurations. This keeps the original Smörgåsbord setup available for troubleshooting or switching back to the default configuration.
-
-🔬 **This process is currently being tested.** Please report any problems or unexpected behavior before we consider these instructions finalized.
-
