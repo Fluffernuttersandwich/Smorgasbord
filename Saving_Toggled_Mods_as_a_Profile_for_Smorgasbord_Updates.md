@@ -110,3 +110,81 @@ This is normal behavior and helps preserve your custom Profile setup during upda
 
 ---
 
+## 📋 How to Share & Import MO2 Profiles
+
+Want to share your exact **enabled/disabled mod setup** with another Smörgåsbord user?
+
+This can be useful for:
+
+* 🎮 Multiplayer groups that want matching mods
+* 📺 Streamers sharing their setup with viewers
+* 👥 Friends who want the same playthrough experience
+
+### ⚠️ Before You Start
+
+Both users should have the **same Smörgåsbord revision installed**.
+
+For example, if the Exporter is using **Revision 3.1.1.41**, the Importer should also be using **3.1.1.41**.
+
+This process **does not download or install mods**. It simply tells MO2 which already-installed mods should be **enabled or disabled**.
+
+---
+
+### 📤 EXPORTER — Sharing Your Profile
+
+1. Create/select the MO2 Profile you want to share.
+2. Enable and disable your desired mods.
+3. Open your MO2 installation folder.
+4. Open:
+   **`profiles → Your Profile Name`**
+5. Find **`modlist.txt`**.
+6. Copy that file and share it with the other user.
+
+That's it!
+
+---
+
+### 📥 IMPORTER — Using the Shared Profile
+
+1. Make sure you're using the **same Smörgåsbord revision** as the Exporter.
+2. Open MO2.
+3. Create a **NEW Profile**.
+4. Give it a recognizable name.
+5. **Close MO2.**
+6. Open your MO2 installation folder.
+7. Open:
+   **`profiles → Your New Profile Name`**
+8. Replace the existing **`modlist.txt`** with the one you received.
+9. Launch MO2 again.
+10. Select your new Profile.
+
+MO2 should now show the same mods **enabled and disabled** as the Exporter's Profile.
+
+---
+
+### 🧪 Example
+
+Streamer **CoolGuy84** creates:
+
+**`CoolGuy84_Plays_Smorg`**
+
+He configures his mods and shares:
+
+**`modlist.txt`**
+
+Viewer **Slappy77**:
+
+**Creates `CoolGuy84_Plays_Smorg` Profile → Closes MO2 → Replaces its `modlist.txt` → Restarts MO2 → Selects the Profile**
+
+Slappy77 should now have the same enabled/disabled mod configuration as CoolGuy84.
+
+---
+
+### 💡 Important
+
+**Do NOT overwrite the default Smörgåsbord Profile.**
+
+Always create a **new Profile** for imported configurations. This keeps the original Smörgåsbord setup available for troubleshooting or switching back to the default configuration.
+
+🔬 **This process is currently being tested.** Please report any problems or unexpected behavior before we consider these instructions finalized.
+
