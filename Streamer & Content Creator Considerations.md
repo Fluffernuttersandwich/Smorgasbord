@@ -328,7 +328,7 @@ Potential issues:
 --
 
 
-### Better Biomes, NPC-CORE, CATUI & Other Heavy Mods
+### Better Biomes, NPC-CORE, & Other Heavy Mods
 
 Even if you are using high-end hardware, heavy mods combined with Smörgåsbord and OBS can become extremely resource intensive.
 
@@ -384,6 +384,7 @@ For detailed instructions:
 
 ➡ [Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md](Saving_Toggled_Mods_as_a_Profile_for_Smorgasbord_Updates.md)
 
+**I also strongly recommend you do this prior to Updating the Mod List preventatively as a backup save of your Profile's configuration.**
 
 ---
 
@@ -393,46 +394,85 @@ For detailed instructions:
 
 One of the advantages of MO2 is that you can export your customized setup and share it with viewers, friends, or community members.
 
-**I strongly recommend you do this prior to Updating the Mod List preventatively as a backup save of your Profile's configuration.**
-
-To export your customized list, in MO2, right-click a mod on the left half of the screen, press All Mods, Export to csv
-
-
-<img width="1340" height="1480" alt="image" src="https://github.com/user-attachments/assets/abd712a9-4f60-4ca0-a49d-bca93ea8d7c8" />
-
-
-Toggle which columns you'd like to include in the csv.
-
-
-<img width="1312" height="1150" alt="image" src="https://github.com/user-attachments/assets/e1f327f5-be8c-4659-af5c-a88ac043d436" />
-
-
-Hit Ok, and Save as.  
-
-
-<img width="1260" height="1208" alt="image" src="https://github.com/user-attachments/assets/99d591f0-57c6-4c18-836e-b7feeabfed63" />
-
-_The "+" sign means the mod is enabled (toggled on), and the "-" sign means the mod is disabled (toggled off) in your Profile._
-
-
-This is particularly useful if:
-
-- You stream with a customized Smörgåsbord setup
-- Viewers frequently ask for your exact mod configuration
-- You want others to replicate your experience
-- Recommended Process
-- Create a dedicated profile for your playthrough.
-- Place [NoDelete] in front of the Profile name.
-- Enable or disable mods as desired.
-- Test the profile thoroughly.
-- Export the profile's mod list.
-- Upload the resulting file to GitHub, Discord, Google Drive, or another file-sharing service.
-
 You can then reference that exported list through your Twitch bot, YouTube descriptions, Discord server, or social media posts.
 
-This allows viewers to see exactly which options you selected from the larger Smörgåsbord collection.
+This allows viewers to use the same mods you toggled in their playthroughs of Smorgasbord.
 
+## 📋 How to Share & Import MO2 Profiles
 
+Want to share your exact **enabled/disabled mod setup** with another Smörgåsbord user?
+
+This can be useful for:
+
+* 🎮 Multiplayer groups that want matching mods
+* 📺 Streamers sharing their setup with viewers
+* 👥 Friends who want the same playthrough experience
+
+### ⚠️ Before You Start
+
+Both users should have the **same Smörgåsbord revision installed**.
+
+For example, if the Exporter is using **Revision 3.1.1.41**, the Importer should also be using **3.1.1.41**.
+
+This process **does not download or install mods**. It simply tells MO2 which already-installed mods should be **enabled or disabled**.
+
+---
+
+### 📤 EXPORTER — Sharing Your Profile
+
+1. Create/select the MO2 Profile you want to share.
+2. Enable and disable your desired mods.
+3. Open your MO2 installation folder.
+4. Open:
+   **`profiles → Your Profile Name`**
+5. Find **`modlist.txt`**.
+6. Copy that file and share it with the other user.
+
+That's it!
+
+---
+
+### 📥 IMPORTER — Using the Shared Profile
+
+1. Make sure you're using the **same Smörgåsbord revision** as the Exporter.
+2. Open MO2.
+3. Create a **NEW Profile**.
+4. Give it a recognizable name.
+5. **Close MO2.**
+6. Open your MO2 installation folder.
+7. Open:
+   **`profiles → Your New Profile Name`**
+8. Replace the existing **`modlist.txt`** with the one you received.
+9. Launch MO2 again.
+10. Select your new Profile.
+
+MO2 should now show the same mods **enabled and disabled** as the Exporter's Profile.
+
+---
+
+### 🧪 Example
+
+Streamer **CoolGuy84** creates:
+
+**`CoolGuy84_Plays_Smorg`**
+
+He configures his mods and shares:
+
+**`modlist.txt`**
+
+Viewer **Slappy77**:
+
+**Creates `CoolGuy84_Plays_Smorg` Profile → Closes MO2 → Replaces its `modlist.txt` → Restarts MO2 → Selects the Profile**
+
+Slappy77 should now have the same enabled/disabled mod configuration as CoolGuy84.
+
+---
+
+### 💡 Important
+
+**Do NOT overwrite the default Smörgåsbord Profile.**
+
+Always create a **new Profile** for imported configurations. This keeps the original Smörgåsbord setup available for troubleshooting or switching back to the default configuration.
 
 --
 
