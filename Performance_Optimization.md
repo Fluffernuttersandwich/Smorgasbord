@@ -203,6 +203,66 @@ https://bitsum.com/
 
 I recommend watching the tutorial at half speed while following along.
 
+
+---
+
+## Launching 7 Days to Die With Custom CPU Affinity
+
+🟡 **Difficulty:** Intermediate
+
+If you do not want to install and run Process Lasso, Windows can also launch 7 Days to Die with a predefined:
+
+* CPU priority
+* CPU affinity mask
+
+using a simple command.
+
+This can be configured directly inside **Mod Organizer 2**, so Smörgåsbord users can still launch the game normally through MO2.
+
+### Why Would You Do This?
+
+CPU affinity controls which logical CPU cores Windows allows a program to use.
+
+On some processors and system configurations, preventing a game from using a particular logical core may improve:
+
+* Frame pacing
+* CPU scheduling behavior
+* Micro-stuttering
+* Performance consistency
+
+This is similar to one of the things Process Lasso can automate, but it does not require another application running in the background.
+
+### Important
+
+This is **not guaranteed to improve performance**.
+
+Modern Windows CPU scheduling is usually quite good, and limiting CPU affinity can actually reduce performance if configured incorrectly.
+
+Do **not** simply copy another user's affinity mask.
+
+The correct mask depends on:
+
+* Your CPU
+* Number of logical processors
+* Which cores you intend to allow or exclude
+
+Always test performance before and after making this change.
+
+---
+
+### Step 1 — Determine Your CPU Affinity Mask
+
+You can use Bitsum's CPU Affinity Mask Calculator:
+
+https://bitsum.com/tools/cpu-affinity-calculator/
+
+Select the logical processors you want the game to use.
+
+The calculator will generate a hexadecimal affinity mask.
+
+For example: FFFE
+
+
 ---
 
 ## ISLC Memory Optimization
