@@ -20,7 +20,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorg5.webp",
       "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_3390a871-6330-4429-95ae-43a60b7b1af2",
+      "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_e285b5df-bdc8-44bd-ae7b-12c88bcb0ddb",
       "machineURL": "Smorgasbord",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": "https://github.com/Fluffernuttersandwich/Smorgasbord",
@@ -32,17 +32,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "xoO7AijiBgg=",
-      "Size": 7224888,
-      "NumberOfArchives": 578,
-      "SizeOfArchives": 22326335856,
-      "NumberOfInstalledFiles": 20932,
-      "SizeOfInstalledFiles": 26951563284,
-      "TotalSize": 49277899140
+      "Hash": "Hrj5L4YWI6Q=",
+      "Size": 7257430,
+      "NumberOfArchives": 577,
+      "SizeOfArchives": 22339275853,
+      "NumberOfInstalledFiles": 20931,
+      "SizeOfInstalledFiles": 26965862140,
+      "TotalSize": 49305137993
     },
-    "version": "3.2.0.47",
+    "version": "3.2.0.48",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-07T09:48:04.5653867Z",
+    "dateUpdated": "2026-09-13T00:21:51.9265757Z",
     "repositoryName": "Smorgasbord"
   }
 ]
