@@ -108,6 +108,12 @@ You will need to:
 
 This is normal behavior and helps preserve your custom Profile setup during updates.
 
+
+> [!CAUTION]
+> After updating Smorgasbord, it is vitally important that you switch to your created Profile prior to launching into your existing save!
+> 
+> If you forget, and accidentally launch from the default Smorgasbord Profile, you could corrupt your save. This might not be recoverable! 
+
 ---
 
 ## 📋 How to Share & Import MO2 Profiles
