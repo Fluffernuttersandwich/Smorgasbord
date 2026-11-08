@@ -283,6 +283,8 @@ https://www.wagnardsoft.com/forums/viewtopic.php?t=1256
 
 # FrameForge Upscaling & Frame Generation
 
+## If you are using my Smorgasbord mod list for 7DtD, FrameForge is already installed!
+
 🟢 **Difficulty:** Beginner
 
 Video Guide:
